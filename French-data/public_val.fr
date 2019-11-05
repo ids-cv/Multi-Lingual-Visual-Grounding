@@ -1,0 +1,1014 @@
+val**0**e** [/EN#568/people un groupe d' hommes] chargent [/EN#569/other du coton] dans [/EN#570/vehicles un camion]
+val**1**e** [/EN#844/people un homme] dormant dans [/EN#846/scene une chambre verte] sur [/EN#845/other un canapé] .
+val**2**e** [/EN#850/people un garçon] avec [/EN#853/clothing un casque] est assis sur [/EN#852/bodyparts les épaules d' une femme] .
+val**3**e** [/EN#929/people deux hommes] installant [/EN#928/scene une tente de pêche] sur [/EN#931/other glace] bleue sur [/EN#932/scene un lac gelé]
+val**4**e** [/EN#988/people un homme chauve] vêtu d' [/EN#991/clothing un gilet de sauvetage rouge] est assis dans [/EN#992/vehicles/scene un petit bateau] .
+val**5**e** [/EN#1389/people une femme] en [/EN#1392/clothing manteau rouge] , avec [/EN#1390/clothing un sac à main bleuté] probablement d' [/EN#1389/scene origine asiatique] , sautant en l' air pour [/EN#1394/other une photo] .
+val**6**e** [/EN#1474/animals un chien brun] court après [/EN#1477/animals le chien noir] .
+val**7**e** [/EN#1742/people un jeune garçon] vêtu d' [/EN#1743/clothing un maillot des giants] brandit [/EN#1745/other une batte de base-ball] face à [/EN#1744/scene une balle qui arrive] .
+val**8**e** [/EN#1759/people un homme] dans [/EN#1763/scene un bureau encombré] utilise [/EN#1761/other le téléphone]
+val**9**e** [/EN#2227/people une femme souriante] avec [/EN#2229/clothing un débardeur pêche] est debout , tenant [/EN#2228/vehicles un vtt]
+val**10**e** [/EN#2404/people un jeune enfant] est debout seul sur [/EN#2406/other des rochers tranchants] .
+val**11**e** [/EN#2421/people une personne] sur [/EN#2422/vehicles une motoneige] en [/EN#0/notvisual plein saut] .
+val**12**e** [/EN#2520/people trois jeunes enfants] sont debout autour d' [/EN#2522/other un baril bleu et blanc] .
+val**13**e** [/EN#2592/people une femme] est assise près de [/EN#2594/other son stand de fleurs séchées] sur [/EN#2598/scene un marché en plein air] .
+val**14**e** [/EN#2784/people une femme] jouant [/EN#2788/other un morceau] sur [/EN#2784/instruments son violon] .
+val**15**e** [/EN#3169/people trois personnes] sur [/EN#3171/other deux motocross] et [/EN#3170/vehicles un quad] roulent dans [/EN#3172/scene l' herbe brunie] .
+val**16**e** [/EN#3218/people un homme à moitié nu] dort dans [/EN#3219/scene son fauteuil dehors] .
+val**17**e** [/EN#3258/people un groupe de personnes] debout devant [/EN#3259/scene une cabane] sur [/EN#3264/scene un parking] .
+val**18**e** [/EN#3294/people une jeune femme] fait [/EN#3300/other des tapis] dans [/EN#3301/scene une forêt tropicale]
+val**19**e** [/EN#3318/people trois filles] font [/EN#3324/bodyparts des grimaces] , [/EN#3321/other l' une] boit [/EN#3319/other un coup] tandis qu' [/EN#0/notvisual elles] sont debout dans [/EN#3320/scene une rue très fréquentée] .
+val**20**e** [/EN#3561/people un homme seul] en [/EN#3562/clothing t-shirt noir] , debout au-dessus de [/EN#3560/people la foule] dans [/EN#3568/scene un bar très fréquenté] .
+val**21**e** [/EN#3587/people une femme] et [/EN#3588/people un homme] traversant [/EN#3589/scene un pont de corde en bois] , avec [/EN#3590/other un panneau avertisseur] à côté .
+val**22**e** [/EN#3927/people un homme] en [/EN#3930/clothing jupe] saute tout en jonglant avec [/EN#3933/other des couteaux] .
+val**23**e** [/EN#4074/people une fille asiatique] avec [/EN#4075/clothing un chapeau] et [/EN#4076/clothing un tablier verts] sert [/EN#4078/other des boissons] sur [/EN#4077/other un plateau] .
+val**24**e** [/EN#4364/people des ouvriers du bâtiment] debout sur [/EN#4369/other une machine] .
+val**25**e** [/EN#5238/animals deux chiens] jouent avec [/EN#5240/other un jouet orange] dans [/EN#5239/scene l' herbe haute] .
+val**26**e** [/EN#5252/people un joli bébé] sourit à [/EN#5253/people un autre enfant] .
+val**27**e** [/EN#5403/people trois hommes] marchent sur [/EN#5405/scene une route] en [/EN#5408/scene montagne] .
+val**28**e** [/EN#5415/people une personne] fait du parachute au-dessus d' [/EN#5419/scene une vaste étendue d' eau] .
+val**29**e** [/EN#5747/other un tracteur] déplace de la terre pour aider à construire [/EN#5750/other un mur de soutènement] .
+val**30**e** [/EN#5848/people une jeune fille] courant seule dans [/EN#5852/scene un parc] .
+val**31**e** [/EN#5968/people un individu] traverse [/EN#5970/scene la rue] et évite [/EN#5974/other l' étalage de peinture] .
+val**32**e** [/EN#6549/people un enfant] jouant sur [/EN#6552/scene un terrain de jeux] , suspendu à [/EN#6550/scene des barres] .
+val**33**e** [/EN#7029/people une personne] en [/EN#7033/clothing t-shirt à manches longues rouge] est allongée sur [/EN#7031/other un mur] devant [/EN#7032/scene un lampadaire] , d' [/EN#7034/other une façon très inhabituelle] .
+val**34**e** [/EN#7269/people un groupe de personnes] se rassemblent autour d' [/EN#7268/people un homme] en [/EN#7271/clothing costume] et d' [/EN#7267/people un petit garçon] .
+val**35**e** [/EN#7745/people une femme] est assise à [/EN#7746/scene un bar sombre] .
+val**36**e** [/EN#8182/people des gens] marchent sur [/EN#8186/scene un trottoir] où il y a [/EN#8186/scene un marché de plein air] .
+val**37**e** [/EN#9027/people un homme] avec [/EN#9028/clothing un sac à dos bleu] lit [/EN#9029/other le journal] en attendant de monter dans [/EN#9030/vehicles/scene le métro] .
+val**38**e** [/EN#9219/animals un gros chien brun] plante [/EN#9223/bodyparts son visage] dans [/EN#9226/other l' arrosage automatique] .
+val**39**e** [/EN#9271/people un garçon blond] en [/EN#9272/clothing t-shirt bleu] est debout en souriant devant [/EN#9273/other une embarcation en nylon vert]
+val**40**e** [/EN#9332/people un jeune garçon blanc] balaie [/EN#9334/scene une terrasse] avec [/EN#9333/other un grand balai] .
+val**41**e** [/EN#9446/people une personne] sur [/EN#9449/scene le point] de lancer [/EN#9448/other une boule de bowling verte] sur [/EN#9447/other une piste de bowling] .
+val**42**e** [/EN#9451/people un groupe] joue [/EN#9458/other du rock] face à [/EN#9452/people un public dans un bar] .
+val**43**e** [/EN#9478/people un vieil homme] promène [/EN#9479/animals un chien brun] avec [/EN#9484/clothing une laisse rouge] .
+val**44**e** [/EN#9762/people un homme] conduit [/EN#9763/vehicles une vieille voiture de course rouge] .
+val**45**e** [/EN#9768/people de jeunes adultes] vêtus de t-shirts [/EN#9771/clothing rouges] , [/EN#9772/clothing jaunes] et [/EN#9773/clothing noirs] sont [/EN#9778/other alignés] et font [/EN#9776/other un sketch] .
+val**46**e** [/EN#9841/people un jeune garçon] , lançant [/EN#9842/other une pierre] dans [/EN#9843/scene une eau calme] .
+val**47**e** [/EN#9886/people deux femmes] avec [/EN#9899/bodyparts des cheveux courts] se font face et [/EN#9894/other la blonde] parle .
+val**48**e** [/EN#9942/other un personnage en costume perfectionné] est devant [/EN#9943/other une structure brillamment décorée] .
+val**49**e** [/EN#10065/animals un chien] traversant [/EN#10068/scene un petit ruisseau] avec [/EN#10066/other un chiffon] dans [/EN#10067/bodyparts sa gueule] .
+val**50**e** [/EN#10306/animals trois petits chiens] reniflent [/EN#10307/other quelque chose] .
+val**51**e** [/EN#10333/people deux hommes] rament dans [/EN#10334/other un kayak] le long d' [/EN#10335/scene une rivière] avec [/EN#10341/other des arbres verts] de [/EN#0/notvisual chaque côté] .
+val**52**e** [/EN#10871/people deux filles] marchant dans [/EN#10882/scene la rue] .
+val**53**e** [/EN#11002/people un groupe d' enfants] assis ensemble à [/EN#11003/other l' arrière d' une camionnette] , en train de regarder [/EN#11004/other un livre] .
+val**54**e** [/EN#11046/people des gens sur la plage] regardent [/EN#11048/other un cœur] tracé dans [/EN#11047/scene le ciel] par [/EN#11048/people un écrivain céleste] .
+val**55**e** assise nonchalamment dans [/EN#11559/scene un lieu public] , [/EN#11550/people une fille] lit en tenant [/EN#11552/other le livre] ouvert avec [/EN#11557/bodyparts sa main] , sur [/EN#0/notvisual laquelle] se trouve une bague [/EN#11553/animals papillon] .
+val**56**e** [/EN#11700/people un homme] déjeunant dans [/EN#11700/scene un restaurant] .
+val**57**e** [/EN#11742/people un homme] avec [/EN#11743/clothing un costume] et [/EN#11744/other des lunettes] a [/EN#11749/other un objet] dans [/EN#11752/bodyparts les mains] .
+val**58**e** [/EN#11802/people un homme] en [/EN#11803/clothing combinaison noire] surfe [/EN#11804/scene une vague] .
+val**59**e** [/EN#11834/people une femme] avec [/EN#11837/clothing un sac à main rose] est assise sur [/EN#11835/other un banc] .
+val**60**e** [/EN#12740/people trois femmes] souriantes et assises .
+val**61**e** [/EN#13009/other un avion rouge] survolant [/EN#13010/vehicles/scene un bateau] tandis qu' [/EN#0/notvisual il] laisse échapper de [/EN#13011/other la fumée rose] .
+val**62**e** [/EN#13029/people un homme] harnaché escaladant [/EN#13033/other une paroi rocheuse]
+val**63**e** [/EN#13063/people deux ouvriers du bâtiment] aidant au [/EN#13069/vehicles chargement d' un camion à benne] sur [/EN#13064/scene un chantier de construction en ville] .
+val**64**e** [/EN#13097/people une femme] en [/EN#13098/clothing tenue colorée] passe devant [/EN#13092/vehicles un camion blanc] rempli de [/EN#13093/other bouteilles] .
+val**65**e** [/EN#13164/people une femme] avec [/EN#13170/clothing un chapeau bleu] et [/EN#13167/clothing une jupe jaune] saute dans [/EN#13171/scene un endroit] avec [/EN#13165/other des lilas] .
+val**66**e** [/EN#13860/people un homme] porte [/EN#13862/clothing une tenue dorée] tandis qu' il est debout avec [/EN#13861/vehicles son vélo doré] .
+val**67**e** [/EN#14022/people un bébé] regardant [/EN#14024/other les feuilles] sur [/EN#14023/other une branche d' arbre] .
+val**68**e** [/EN#14626/people un concierge] s' apprêtant à balayer [/EN#14629/scene une gare] .
+val**69**e** [/EN#14697/people deux petits garçons noirs] jouent avec [/EN#14699/other des bouteilles en plastique] et s' amusent beaucoup .
+val**70**e** [/EN#14807/other un feu passe au vert] tandis que [/EN#14808/people des gens] regardent [/EN#14806/other des motos] .
+val**71**e** [/EN#14877/people deux personnes] escaladent [/EN#14878/other une paroi rocheuse] avec [/EN#14882/other une corde] .
+val**72**e** [/EN#14955/people un homme] et [/EN#14952/people une femme] pêchant à [/EN#14959/scene la plage] .
+val**73**e** [/EN#15197/people un enfant] fait [/EN#15198/other un salto arrière] en sautant sur [/EN#15199/other un trampoline] .
+val**74**e** [/EN#16134/people des enfants] sont dans [/EN#16135/other un manège de foire avec des balançoires] .
+val**75**e** [/EN#16201/people deux personnes] tiennent [/EN#16202/other un grand globe] d' [/EN#16207/other environ 4 pieds] de [/EN#16209/other diamètre] sens dessus dessous , et [/EN#16203/people un enfant] semble être en train de sauter sur [/EN#16210/other l' antarctique] .
+val**76**e** [/EN#16457/people deux hommes] en [/EN#16457/people tenues militaires] jouent au [/EN#16461/other baseball] .
+val**77**e** [/EN#16538/people une femme] en [/EN#16548/clothing robe noire] poussant [/EN#16539/vehicles un chariot] avec [/EN#16541/other un thermos] sur [/EN#16543/scene une allée pavée] .
+val**78**e** [/EN#16986/people un policier] arrêtant [/EN#16988/vehicles un véhicule] sur [/EN#16989/scene le bord de la route] .
+val**79**e** [/EN#17080/people un homme] debout sur [/EN#17082/scene une jetée] à côté d' [/EN#17081/vehicles/scene un bateau] sur [/EN#17083/scene un lac paisible] .
+val**80**e** [/EN#17851/people un groupe d' officiers écossais] faisant [/EN#17853/other une démonstration] .
+val**81**e** [/EN#18376/people une femme] et [/EN#18380/people un enfant] sont assis ensemble sur le pas d' [/EN#18383/other une porte] le long d' [/EN#18379/scene un trottoir gris] alors qu' [/EN#18375/people un homme] et [/EN#18390/people deux femmes] passent devant .
+val**82**e** [/EN#18400/people un pompier solitaire] aide à maîtriser [/EN#18402/other un gros incendie] .
+val**83**e** [/EN#18657/people une personne] en [/EN#18658/clothing t-shirt violet] peint [/EN#18660/people le portrait d' une femme] sur [/EN#18659/other un mur blanc] .
+val**84**e** [/EN#18671/people une petite fille] est couchée sur [/EN#18682/scene le sol] pendant que [/EN#18680/people sa jeune sœur] fait semblant d' être [/EN#18677/people une infirmière] .
+val**85**e** [/EN#19339/people une jeune femme] et [/EN#19339/people une femme âgée] portent [/EN#19340/clothing des saris traditionnels] tandis qu' [/EN#0/notvisual elles] filent [/EN#19341/other du textile] , tandis que [/EN#19342/people trois personnes] sont visibles [/EN#19349/bodyparts seulement jusqu' à la taille] , et portent [/EN#19343/clothing des vêtements modernes] .
+val**86**e** [/EN#19488/people une femme] marchant dans [/EN#19489/scene la neige profonde] en descendant [/EN#19489/scene une pente abrupte] .
+val**87**e** [/EN#19564/people le chauffeur de chez fedex] écoute [/EN#19569/people l' employé] avec [/EN#19570/clothing un casque vert] tandis que [/EN#19566/other le matériel] à expédier est en train d' être chargé .
+val**88**e** [/EN#19844/animals le chien brun] porte [/EN#19845/clothing un collier noir] .
+val**89**e** [/EN#19940/animals un chien blanc et brun] descend [/EN#19942/scene une rampe jaune et bleue] .
+val**90**e** [/EN#19953/people un enfant] s' apprête à lire [/EN#19954/other un livre] .
+val**91**e** [/EN#20521/people un vieux japonais] tente de réparer [/EN#20523/other une petite machine rouge et grise] .
+val**92**e** [/EN#20927/people un jeune enfant] et [/EN#20928/people une femme] sont debout autour d' [/EN#20929/animals un coq en cage] .
+val**93**e** [/EN#21307/people un enfant [/EN#0/notvisual qui] est déguisé en [/EN#21307/other spiderman] sonne à la porte .
+val**94**e** [/EN#21749/people un homme] en [/EN#21752/clothing tenue marron] tenant [/EN#21750/other un sabre laser] .
+val**95**e** [/EN#21791/people une jeune femme] est debout , chantant dans [/EN#21794/other un micro] tandis qu' [/EN#21793/people un homme] derrière [/EN#0/notvisual elle] tient [/EN#21796/instruments une guitare] .
+val**96**e** [/EN#22463/people deux enfants] creusent [/EN#22467/scene des trous] dans [/EN#22471/scene la terre] .
+val**97**e** [/EN#22947/other beaucoup de fauteuils] sont vides , avec [/EN#22948/people seulement quelques personnes] profitant du [/EN#22950/other soleil] .
+val**98**e** [/EN#23607/people des hommes] sont assis dans [/EN#23610/vehicles/scene un bateau] près d' [/EN#23608/scene une plage] recouverte de [/EN#23608/other troncs] et de [/EN#23618/other branches empilés] .
+val**99**e** [/EN#23709/people un jeune homme] portant [/EN#23715/other quelque chose] dans [/EN#23710/clothing un grand sac poubelle en plastique noir] .
+val**100**e** [/EN#25615/people un homme âgé en surpoids fait] sauter [/EN#25616/other une crêpe] en préparant [/EN#25616/other le petit déjeuner] .
+val**101**e** [/EN#26142/people des hommes] en [/EN#26148/clothing costumes jaunes] sont sur [/EN#26147/scene scène] avec [/EN#26145/instruments un piano] et [/EN#26146/people un homme] joue [/EN#26143/instruments de la contrebasse] .
+val**102**e** [/EN#26587/people plusieurs personnes] sont debout près [/EN#26589/other d' arbres] au [/EN#26588/other crépuscule] .
+val**103**e** [/EN#26676/animals un chien marron] mordillant [/EN#26677/other un gros morceau de bois] .
+val**104**e** [/EN#26728/people un randonneur] posant pour [/EN#26737/other une photo] dans [/EN#26734/scene un paysage montagneux aride] .
+val**105**e** [/EN#26742/people un groupe d' enfants] jouent dans [/EN#26744/scene l' eau] sous [/EN#26743/scene un pont] .
+val**106**e** [/EN#26828/people une femme] sourit à côté [/EN#26829/people d' un homme [/EN#0/notvisual qui] sourit aussi tout en tenant [/EN#26833/other de la barbe à papa] .
+val**107**e** [/EN#27357/people deux femmes] sont debout devant [/EN#27356/people une classe d' enfants] , en train de parler [/EN#27359/other d' un livre] .
+val**108**e** [/EN#27401/people deux femmes brunes] parlant à [/EN#27403/scene une classe] pleine [/EN#27402/people d' enfants blonds] .
+val**109**e** [/EN#27530/people une personne] portant [/EN#27532/clothing un bonnet] et [/EN#27534/clothing une écharpe] regarde [/EN#27535/scene vers la droite] .
+val**110**e** [/EN#27563/people deux personnes] traversant [/EN#27565/scene une rue] .
+val**111**e** [/EN#27575/people un vieil homme] brandit [/EN#27577/animals un chien] tandis que [/EN#27578/animals son autre chien] grimpe sur [/EN#27580/bodyparts ses genoux] .
+val**112**e** [/EN#28377/people trois enfants] regardent [/EN#28376/people un homme] sur [/EN#28384/scene scène] jouer de [/EN#28379/instruments la guitare] .
+val**113**e** [/EN#28989/people un garçon [/EN#0/notvisual qui] reçoit [/EN#28991/other un bâton] d' [/EN#28992/people une jeune fille] au [/EN#28994/other milieu d' une course] .
+val**114**e** [/EN#29147/other une jeep bleue roule] dans une [/EN#29152/scene eau boueuse profonde] .
+val**115**e** [/EN#29276/people la femme] avec [/EN#29277/clothing un chapeau noir] prend [/EN#29282/other une photo] tandis que [/EN#29279/other la neige tombe] .
+val**116**e** [/EN#29383/people un homme] assis [/EN#0/notvisual par terre] , jouant de [/EN#29384/instruments la guitare] .
+val**117**e** [/EN#29404/animals un chien] marche dans [/EN#29405/scene un petit plan d' eau peu profond] situé sur [/EN#29407/scene un flanc rocheux] .
+val**118**e** [/EN#29478/people une jeune femme asiatique] saute en l' air dans [/EN#29479/other un quartier animé de la ville] .
+val**119**e** [/EN#29683/people un groupe de trois personnes] se produit sur [/EN#29684/scene scène] .
+val**120**e** [/EN#29965/people quatre personnes] manifestent contre [/EN#29972/people le traitement des jeunes travailleurs] par [/EN#29975/other equinox] .
+val**121**e** [/EN#30026/people un homme] faisant cuire [/EN#30028/other des steaks] sur un [/EN#30027/other barbecue noir] .
+val**122**e** [/EN#30120/people un homme] avec [/EN#30128/clothing une casquette rouge] est adossé à [/EN#30124/other un lampadaire] .
+val**123**e** [/EN#30285/people un jeune garçon] en [/EN#30290/clothing t-shirt jaune] accroché à [/EN#30289/clothing un anneau] avec [/EN#30297/people d' autres enfants] autour .
+val**124**e** [/EN#30440/people un petit enfant] mangeant des [/EN#30442/other fruits] et buvant [/EN#30444/other un verre de jus de fruit] .
+val**125**e** [/EN#30612/people un homme] et [/EN#30613/people deux femmes] en [/EN#30625/clothing shorts] marchent dans [/EN#30616/scene la rue] .
+val**126**e** [/EN#31211/animals deux caniches] courent dans [/EN#31212/scene la neige] .
+val**127**e** [/EN#31682/people une petite fille rousse] porte [/EN#31684/clothing un costume de spiderman] tandis qu' elle chevauche un [/EN#31685/animals cheval à bascule] .
+val**128**e** [/EN#32379/people un homme] dans [/EN#32380/vehicles/scene un petit bateau blanc] sur [/EN#32381/scene un lac] .
+val**129**e** [/EN#32966/people les skieurs] sont devant [/EN#32968/scene le chalet] .
+val**130**e** [/EN#33099/people des gens] sont photographiés en train de faire de [/EN#33111/scene l' escalade] ou de la randonnée .
+val**131**e** [/EN#33224/people plusieurs personnes] nagent dans [/EN#33225/scene une étendue d' eau] .
+val**132**e** [/EN#34075/people des femmes] en [/EN#34082/clothing bikinis] jouent au beach volley [/EN#34083/other en plein soleil] .
+val**133**e** [/EN#34150/people un homme] et [/EN#34151/people une femme] sont assis l' un [/EN#0/notvisual en face de l' autre] à [/EN#34153/other une table de restaurant] .
+val**134**e** [/EN#34219/people une mère] et ses [/EN#34220/people deux enfants] posent en [/EN#34229/bodyparts faisant de drôles de têtes] .
+val**135**e** [/EN#34276/animals un labrador nage] dans [/EN#34279/scene l' eau] avec [/EN#34277/other un jouet rouge] dans [/EN#34278/bodyparts sa gueule] .
+val**136**e** [/EN#34293/people quatre hommes] debout près [/EN#34291/vehicles d' une voiture jaune] .
+val**137**e** [/EN#34311/people un groupe d' hommes] , [/EN#34310/people de femmes] et [/EN#34312/people d' enfants] , [/EN#34313/people tous] avec des [/EN#34314/clothing couvre-chefs] , parlent sur [/EN#34317/scene la plage] .
+val**138**e** [/EN#34457/people un petit garçon] en [/EN#34458/clothing combinaison] rampant sur [/EN#34459/scene un sol marron]
+val**139**e** [/EN#34588/people une petite fille] fait un don à l' [/EN#34591/people armée du salut] près [/EN#34593/other d' une vitrine] avec [/EN#34595/other des containers en plastique blancs] .
+val**140**e** [/EN#34940/animals un chien jaune] porte [/EN#34941/other une balle] dans [/EN#34943/bodyparts sa gueule] sur [/EN#34942/scene la plage] .
+val**141**e** [/EN#34950/people un homme] en [/EN#34951/clothing t-shirt rouge] est debout avec [/EN#34955/other deux filles] devant un [/EN#34956/other vieil édifice] .
+val**142**e** un [/EN#35091/people homme] regarde tandis que la [/EN#35088/people femme] parle dans [/EN#35094/scene un bar] .
+val**143**e** [/EN#35138/people un groupe] jouant dans [/EN#35141/scene un théâtre en plein air] , le long de [/EN#35142/scene la rivière] .
+val**144**e** [/EN#35711/people deux femmes] sourient lors d' [/EN#35715/scene un événement] .
+val**145**e** [/EN#36818/people une femme] avec une [/EN#36821/clothing chemise rose] montrant à [/EN#36819/people un homme] avec un [/EN#36822/clothing pull rayé] comment [/EN#36826/other travailler] avec [/EN#36820/other des fils] .
+val**146**e** [/EN#36907/people un enfant] assis sur [/EN#36908/other un rocher] .
+val**147**e** [/EN#37503/people un homme] assis sur [/EN#37508/other une chaise] avec [/EN#37504/other une bière] à [/EN#37512/bodyparts la main] , en train de faire griller [/EN#37506/other quelque chose] à manger sur un [/EN#37507/other bâton en bois] .
+val**148**e** [/EN#38504/people un policier] en [/EN#38507/clothing uniforme] portant [/EN#38510/other une oreillette] .
+val**149**e** [/EN#0/notvisual il y] a un [/EN#38672/people homme] en [/EN#38678/other tenue de pompier] , traversant [/EN#38674/scene la route] à proximité d' [/EN#38679/vehicles/scene un bus blanc] et d' un [/EN#38677/vehicles semi-remorque rouge] .
+val**150**e** [/EN#38712/animals un chien noir et blanc] nageant dans l' [/EN#38713/scene eau transparente] .
+val**151**e** [/EN#38787/people un groupe] joue de la [/EN#38796/other musique] sur [/EN#38792/scene scène] lors d' [/EN#38794/other un concert] .
+val**152**e** [/EN#0/notvisual il y a [/EN#39335/people 3 personnes] jouant avec des [/EN#39334/instruments instruments de musique] et [/EN#39341/people une autre personne] semble en train de chanter .
+val**153**e** [/EN#39711/people un homme] jouant du [/EN#39713/other clavier] et chantant dans [/EN#39714/other un micro] .
+val**154**e** [/EN#39785/people un jeune garçon] saute dans l' [/EN#39789/scene eau] .
+val**155**e** [/EN#39990/people une femme] lit [/EN#39992/other une carte] assise [/EN#39991/other au bout d' un canapé] , tandis qu' [/EN#39993/people une autre femme] est debout à côté d' [/EN#0/notvisual elle] avec [/EN#39996/other un verre] pour boire .
+val**156**e** [/EN#0/notvisual il y a] des [/EN#40777/people ouvriers du bâtiment] travaillant dur sur [/EN#40783/other un projet] .
+val**157**e** [/EN#40859/people un homme] se rase , assis sur [/EN#40860/scene la plage] devant [/EN#40865/scene l' océan] .
+val**158**e** [/EN#41073/people une femme blonde] portant [/EN#41074/clothing un chemisier bleu] déballe [/EN#41075/clothing un chapeau] .
+val**159**e** [/EN#41440/people deux hommes] se parlent derrière [/EN#41449/instruments un orgue] tandis qu' [/EN#41441/people une femme seule] est debout sur [/EN#41447/scene leur droite] .
+val**160**e** [/EN#41716/people un jeune homme blond] parle dans [/EN#41717/other un micro] .
+val**161**e** [/EN#41889/people un bagagiste d' hôtel] avec [/EN#41894/clothing un trench-coat] poussant [/EN#41893/other un chariot de bagages] .
+val**162**e** [/EN#42279/animals un chien] au milieu [/EN#42282/other des plantes] s' accroupit pour regarder [/EN#42281/other l' objectif] .
+val**163**e** [/EN#42360/people un groupe] joue de [/EN#42365/other la musique] sur [/EN#42364/scene scène] devant [/EN#42361/people une foule de personnes] .
+val**164**e** [/EN#42706/animals trois chiens] jouant dans [/EN#42708/scene la neige] .
+val**165**e** [/EN#43153/people un homme] et [/EN#43151/people une femme] parlent debout à côté d' [/EN#43155/other un arbre] .
+val**166**e** [/EN#43591/animals un chien] saute pour [/EN#43592/other attraper un ballon jaune et noir] .
+val**167**e** [/EN#43702/people une femme âgée] en [/EN#43703/clothing pull gris et rouge] prépare [/EN#43705/other un repas] .
+val**168**e** [/EN#44005/people une femme] en [/EN#44006/clothing manteau] devant [/EN#44009/scene une maison] tandis qu' il neige
+val**169**e** [/EN#44491/people une femme] portant [/EN#44491/people une autre femme] avec [/EN#44493/clothing la même tenue d' entraînement] sur [/EN#44500/other son dos] .
+val**170**e** [/EN#44856/people un enfant] debout à côté [/EN#44860/other d' une poussette] et tenant [/EN#44859/other une petite épée] .
+val**171**e** [/EN#44942/people un gars] avec des [/EN#44943/bodyparts cheveux frisés] fait du skateboard [/EN#44946/scene le long d' une rampe] grise avec des [/EN#44948/other lettres jaunes] .
+val**172**e** [/EN#45022/people un homme] fait rouler [/EN#45023/other une table ronde] sur [/EN#45024/scene le sol] .
+val**173**e** [/EN#45412/people un groupe de personnes] sont dans [/EN#45414/vehicles/scene un bateau] sur [/EN#45415/scene une grande étendue d' eau] .
+val**174**e** [/EN#45449/people un homme] en [/EN#45451/clothing chemise jaune] est debout sur [/EN#45455/scene le trottoir] , en train de mesurer quelque chose .
+val**175**e** [/EN#45677/people une femme] en [/EN#45679/clothing jean [/EN#45678/clothing et t-shirt bleu] lance [/EN#45682/other quelque] chose dans une benne [/EN#45681/other à ordures] .
+val**176**e** [/EN#45708/people une femme] avec [/EN#45709/clothing un loup et] un [/EN#45714/bodyparts air sévère] est à [/EN#45710/other une fête] .
+val**177**e** [/EN#46282/people une personne] fait de la planche à voile sur [/EN#46284/scene la crête d' une vague] .
+val**178**e** [/EN#46420/people des hommes] portant [/EN#46421/clothing des uniformes bleus] sont assis dans [/EN#46422/vehicles/scene un bus] .
+val**179**e** [/EN#46966/vehicles un 4x4] tente de sortir d' [/EN#46967/scene un fossé] .
+val**180**e** [/EN#47193/people un homme] plaque un [/EN#47196/people autre homme] pendant qu' ils jouent au [/EN#47195/other football américain] .
+val**181**e** [/EN#47209/people un joueur de football américain] en [/EN#47214/clothing blanc et rouge] parle à [/EN#47210/people un entraîneur] .
+val**182**e** [/EN#47555/people deux filles] sont assises près [/EN#47560/other d' un mur] et regardent [/EN#47558/scene une manifestation sportive] .
+val**183**e** [/EN#47567/people un homme] du [/EN#47567/other staff [/EN#47571/other de ou] a des [/EN#47574/clothing lunettes de soleil] sur [/EN#47575/bodyparts la tête] pendant un match de [/EN#47569/other football américain] .
+val**184**e** [/EN#47621/people cette équipe de football américain] porte [/EN#47615/clothing des maillots rouges] et [/EN#47618/clothing des casques rouges] .
+val**185**e** [/EN#47849/people un garçon] en [/EN#47852/clothing vêtements noirs] fait [/EN#47849/other une roue] sur [/EN#47850/scene la plage] .
+val**186**e** [/EN#0/notvisual ils] posent pour [/EN#47878/other une photo] .
+val**187**e** [/EN#48080/people un homme] en [/EN#48084/clothing t-shirt vert] embrasse [/EN#48083/people un enfant en pleurs] tout en regardant [/EN#48090/people des coureurs] lors d' [/EN#48085/other une course sur route] .
+val**188**e** [/EN#48979/people cinq membres d' un groupe] jouent [/EN#48987/other une chanson] .
+val**189**e** [/EN#49231/people trois femmes] sont assises sur [/EN#49235/other une couverture] par [/EN#0/notvisual terre] avec [/EN#49234/people un bébé] , et parlent tout en passant [/EN#49238/other un bon moment] .
+val**190**e** [/EN#49601/people un homme] et [/EN#49603/people un garçon] sont assis devant [/EN#49605/other un autel] , [/EN#0/notvisual tous deux] tiennent [/EN#49606/other des cloches] .
+val**191**e** [/EN#50071/people un homme] avec [/EN#50074/clothing des lunettes de soleil] aide [/EN#50073/people un enfant] avec [/EN#50075/scene des lunettes de soleil à glisser] sur [/EN#50072/scene un toboggan] .
+val**192**e** [/EN#51344/animals un chien] court dans [/EN#51346/scene l' herbe] vers [/EN#0/notvisual l' objectif] .
+val**193**e** [/EN#52153/people la fille] avec [/EN#52154/bodyparts la longue queue de cheval] est prête à lancer [/EN#52155/other le ballon] à [/EN#52156/people une autre joueuse] sur [/EN#52148/scene le terrain] .
+val**194**e** [/EN#52207/people deux homme] se battent sur [/EN#52211/scene un sol bleu et jaune] .
+val**195**e** [/EN#52257/people une fille] en [/EN#52260/clothing maillot rouge et blanc] et [/EN#52261/clothing short bleu] s' apprête à lancer [/EN#52258/other un ballon] .
+val**196**e** [/EN#52330/people un homme assis] travaille avec [/EN#52332/bodyparts ses mains] .
+val**197**e** [/EN#52519/animals un chien brun] court sur [/EN#52521/other le sable] avec [/EN#52520/other un bâton] .
+val**198**e** [/EN#52682/people une personne] ramant dans [/EN#52683/vehicles/scene son bateau] sur [/EN#52684/scene l' eau] .
+val**199**e** [/EN#52994/people un homme] en [/EN#52996/clothing chemise rayée rouge et blanche] est assis sur [/EN#52999/other un tabouret] à [/EN#52995/scene un stand de hot-dog] .
+val**200**e** [/EN#53059/people un homme] prend des [/EN#53060/other photos de tulipes jaunes et blanches] .
+val**201**e** [/EN#53189/people deux hommes] portant des [/EN#53194/other fez] ont [/EN#53190/other une discussion] sur [/EN#53192/scene un marché en plein air] .
+val**202**e** [/EN#53217/people un homme] et [/EN#53220/people un garçon] jouent avec [/EN#53221/animals le chien] au [/EN#53225/scene coucher du soleil] sur [/EN#53226/scene une plage] .
+val**203**e** une [/EN#53543/other montgolfière] touchant le sol avec [/EN#53546/scene l' ombre d' un homme] en [/EN#0/notvisual arrière-plan] .
+val**204**e** [/EN#53717/people cet homme] porte [/EN#53718/clothing un bonnet ou un chapeau blanc] .
+val**205**e** [/EN#53866/people une femme] se faisant [/EN#53868/other tatouer des lignes noires] et [/EN#53870/other des paillettes] sur le visage .
+val**206**e** [/EN#53957/people un petit enfant] avec un chapeau [/EN#53962/other en jean] joue dans [/EN#53963/other un pneu] .
+val**207**e** [/EN#54139/people une foule de personnes] sont debout dans [/EN#54140/scene la rue] devant [/EN#54141/scene une série de tentes blanches] .
+val**208**e** [/EN#54182/people une foule de gens] marchent dans [/EN#54180/scene le parc] .
+val**209**e** [/EN#54339/people une femme aux cheveux foncés] vêtue d' [/EN#54342/clothing un chemisier bleu] et [/EN#54346/clothing de lunettes de soleil] tient [/EN#54341/other une bannière] tandis qu' [/EN#54340/people une jeune fille] aux [/EN#54345/bodyparts cheveux tressés] écrit [/EN#54341/other dessus] .
+val**210**e** [/EN#54482/people beaucoup d' enfants asiatiques] ont fait [/EN#54484/vehicles/scene le train] sous [/EN#54485/other un panneau " viet nam "] .
+val**211**e** [/EN#54961/people un cow-boy] luttant contre [/EN#54962/animals un cheval] lors d' [/EN#54963/other un rodéo] tandis que [/EN#54962/animals le cheval] fait [/EN#54964/other une ruade]
+val**212**e** [/EN#55390/people une mariée] et [/EN#55391/people un époux] pendant leur baiser de [/EN#55393/other mariage]
+val**213**e** [/EN#56095/people deux agents d' intervention d' urgence] mettent [/EN#56098/scene des cales] sous [/EN#56096/vehicles/scene un train] .
+val**214**e** [/EN#56339/people un homme] travaillant sur [/EN#56341/people la voie ferrée] dans [/EN#56343/other une gare] .
+val**215**e** il y a [/EN#56415/other du béton] en train d' être mélangé dans [/EN#56424/vehicles des brouettes] , et [/EN#56413/people des ouvriers du bâtiment] construisent ou réparent [/EN#56415/other un mur] , [/EN#56415/other qui] est encore humide .
+val**216**e** [/EN#56509/people un groupe] jouant sur [/EN#56515/scene un trottoir] .
+val**217**e** [/EN#56537/people des hommes] en [/EN#56540/clothing combinaisons oranges] regardant [/EN#56538/other une machine] creuser près [/EN#0/notvisual de ce qui] semble être [/EN#56539/scene des rails de métro] .
+val**218**e** [/EN#56771/people de jeunes adultes] en tenues décontractées se promènent sur [/EN#56774/scene une pelouse] .
+val**219**e** [/EN#56812/animals le gros chien brun] court dans [/EN#56813/scene une eau peu profonde] .
+val**220**e** [/EN#57501/people un homme] et [/EN#57502/people une femme] traversent [/EN#57505/scene une rue déserte] .
+val**221**e** [/EN#58287/people un homme] emmitouflé dans [/EN#58294/other une nacelle] , travaillant sur [/EN#58295/other une ligne électrique] par [/EN#58289/other temps froid] .
+val**222**e** [/EN#58469/people deux enfants] en [/EN#58473/clothing vestes jaunes] jouent dans [/EN#58472/other la boue] .
+val**223**e** il y a [/EN#59330/people plusieurs personnes] faisant [/EN#59332/other un looping] dans des [/EN#59331/people montagnes russes à l' envers] .
+val**224**e** [/EN#59368/people une femme] et [/EN#59374/other un petit garçon] partagent [/EN#59369/other un fauteuil] .
+val**225**e** [/EN#59418/people un groupe de personnes] sont debout , alignées de [/EN#59420/other façon imprécise] sur [/EN#0/notvisual un sol pavé] .
+val**226**e** [/EN#60078/people une jeune fille] nage dans [/EN#60079/scene une piscine] .
+val**227**e** [/EN#60202/people un garçon] avec [/EN#60205/clothing un t-shirt orange] sourit , tandis qu' [/EN#60208/people un garçon] en [/EN#60203/clothing t-shirt bleu] regarde .
+val**228**e** [/EN#60218/people une petite fille] est debout dans [/EN#60221/scene une flaque d' eau dehors] .
+val**229**e** [/EN#60457/people une petite fille blonde] tient [/EN#60458/other un sandwich] .
+val**230**e** [/EN#60688/people quatre personnes] tentant de réparer [/EN#60689/vehicles un vélo] dans [/EN#60690/scene un parc]
+val**231**e** [/EN#61619/animals un chien brun très humide] sort de [/EN#61620/scene l' eau] .
+val**232**e** [/EN#61669/animals un chien] courant dans [/EN#61671/scene un champ] avec [/EN#61670/other une balle] dans [/EN#61672/bodyparts la gueule] .
+val**233**e** [/EN#62038/people un groupe de personnes] attendent derrière [/EN#62039/other une barrière] et regardent vers [/EN#62045/scene la droite] .
+val**234**e** [/EN#62268/people un enfant] vêtu d' [/EN#62269/clothing un sweat-shirt rouge] est accroché à [/EN#62270/other un arbre] la tête en bas .
+val**235**e** [/EN#62736/people un forain] prend [/EN#62743/people l' argent de deux participants motivés] .
+val**236**e** [/EN#62997/people un garçon] sourit pour [/EN#0/notvisual la photo] parmi [/EN#62999/people un groupe d' enfants assis] .
+val**237**e** [/EN#63121/people deux enfants] torses nus sont assis [/EN#63125/scene au bord d' une fontaine] .
+val**238**e** [/EN#63331/people un homme] tire sur [/EN#63332/clothing son sweat] tandis qu' [/EN#63333/other un kayak] se trouve à [/EN#63336/bodyparts ses pieds] .
+val**239**e** [/EN#63493/people un vieil homme] marchant avec [/EN#63496/other un dossier] à [/EN#63499/bodyparts la main]
+val**240**e** [/EN#63546/people une jeune femme à l' air indifférent] et [/EN#63550/people un homme âgé] sont debout près d' [/EN#63547/scene un bar] .
+val**241**e** [/EN#63776/people un jeune garçon blond] saute d' [/EN#63777/other un lit] à [/EN#63778/other un autre] .
+val**242**e** [/EN#63813/people un petit enfant] brandit [/EN#63816/other une batte de base-ball rouge] en arrière .
+val**243**e** [/EN#63867/people l' homme] parle sur [/EN#63871/other son téléphone] portable devant [/EN#63869/scene un magasin de sport] .
+val**244**e** voici [/EN#64193/other deux] mamans écoutant [/EN#64191/people un petit enfant] .
+val**245**e** [/EN#65204/people une femme] en [/EN#65205/clothing t-shirt bleu] joue d' [/EN#65207/instruments un instrument] .
+val**246**e** [/EN#0/notvisual c'] est [/EN#65449/scene une intersection bondée] dans [/EN#65457/scene une grande ville [/EN#65454/scene la nuit] .
+val**247**e** [/EN#65468/people un homme] assis dans [/EN#65469/scene une eau peu profonde et transparente] à côté d' [/EN#65474/bodyparts une grande paroi rocheuse] .
+val**248**e** [/EN#65812/people un couple de randonneurs] faisant [/EN#65818/scene une pause] pour prendre [/EN#65819/other une photo] .
+val**249**e** [/EN#66503/other quatre [/EN#66496/people personnes] d' allure gothique marchant dans [/EN#66501/scene une rue] avec [/EN#66504/other des arbres] en [/EN#0/notvisual arrière-plan]
+val**250**e** [/EN#67529/people quatre personnes] sont attachées sur [/EN#67531/other le manège d' un parc d' attractions]
+val**251**e** [/EN#68019/people un garçon] fait [/EN#0/notvisual une figure en skateboard] sur une [/EN#68020/other planche métallique] .
+val**252**e** [/EN#68641/people un homme] sur [/EN#68644/scene une plage construisant [/EN#68643/scene un château de sable] .
+val**253**e** [/EN#68671/animals le gros chien brun] court après [/EN#68673/animals le petit chien brun] .
+val**254**e** des [/EN#68681/people hommes] en [/EN#68678/clothing tenues blanches] lèvent [/EN#68679/bodyparts leurs mains] .
+val**255**e** [/EN#69201/people une femme] lance [/EN#69206/other un frisbee] à [/EN#69202/animals un chien] tandis qu' [/EN#69203/people un joueur de baseball] en [/EN#69207/clothing tenue] court derrière [/EN#0/notvisual elle] .
+val**256**e** [/EN#69787/animals un chien noir] dans [/EN#69788/scene l' herbe] , tenant [/EN#69789/other un objet en plastique blanc] dans [/EN#69790/bodyparts sa gueule] .
+val**257**e** [/EN#69862/vehicles/scene un bateau] avec [/EN#69863/people des gens] et [/EN#69864/other leurs affaires] est dans [/EN#69868/scene l' eau] .
+val**258**e** [/EN#69878/people un peloton de coureurs cyclistes] se courbent dans [/EN#69879/other un virage] .
+val**259**e** [/EN#70532/people trois personnes] sont assises à [/EN#70531/other une table] avec des [/EN#70530/other œuvres d' art] appuyées contre [/EN#0/notvisual elle] .
+val**260**e** [/EN#70919/people une femme blanche] et [/EN#70916/people un homme noir] marchant dans [/EN#70923/scene la rue] .
+val**261**e** [/EN#71182/people un homme] en [/EN#71189/other t-shirt blanc peignant] au [/EN#71186/scene milieu d' une route pavée de pierres] .
+val**262**e** [/EN#71489/animals un chien brun , noir et blanc] aboyant devant [/EN#71490/other un arbre] .
+val**263**e** [/EN#71851/people un homme] avec [/EN#71853/other le visage peint en bleu et rouge] pose pour [/EN#71855/other une photo] avec [/EN#71850/people une femme] .
+val**264**e** [/EN#72134/people deux garçons] jouant à [/EN#72135/other un jeu] avec [/EN#72136/other des billes] .
+val**265**e** [/EN#72168/people deux hommes] attendant sur [/EN#72175/vehicles la banquette arrière d' une voiture] tandis que [/EN#72171/people le conducteur] entre pour s' installer sur [/EN#72172/scene son siège] .
+val**266**e** [/EN#72442/people un garçon] fait de [/EN#72445/other la balançoire] .
+val**267**e** [/EN#73250/people un homme noir] regarde [/EN#73250/people un autre homme noir] qui joue dans [/EN#73252/scene la cascade] .
+val**268**e** [/EN#73689/people une personne] avec un sac à dos [/EN#73694/clothing rouge] faisant [/EN#73692/other une randonnée] .
+val**269**e** [/EN#74167/other une sélection [/EN#74170/other de bananes] , [/EN#74173/clothing oranges] , [/EN#74171/other melons] et [/EN#74172/other plus] dans [/EN#74165/vehicles/scene le petit bateau] d' un vendeur [/EN#74163/other asiatique de fruits] et légumes .
+val**270**e** [/EN#75594/people une foule nombreuse] est debout , regardant quelque chose avec [/EN#75595/scene de grands bâtiments] en [/EN#0/notvisual arrière-plan] .
+val**271**e** [/EN#76731/people trois femmes] en châles et chapeaux foncés parlent dans [/EN#76732/scene une rue pavée] tandis qu' [/EN#76733/animals un chien] est assis à côté d' [/EN#0/notvisual elles] .
+val**272**e** [/EN#77566/people un homme] en [/EN#77571/clothing blouse blanche] fait [/EN#77568/other du chiche-kebab] .
+val**273**e** [/EN#77753/people une personne] avec [/EN#77756/bodyparts des cheveux roses fluo] et [/EN#77757/clothing un t-shirt jaune] regarde au loin sur [/EN#77755/scene une plage] .
+val**274**e** [/EN#78084/people un homme] regardant [/EN#78085/people une femme [/EN#0/notvisual qui] fume sur [/EN#78087/scene le trottoir] .
+val**275**e** [/EN#78571/people un homme] en [/EN#78578/clothing t-shirt noir] et [/EN#78581/clothing pantalon cargo marron] tenant [/EN#78573/other une pelle] au-dessus de [/EN#78577/bodyparts sa tête] .
+val**276**e** [/EN#78693/people un homme] léchant [/EN#78695/people le visage d' une femme] à [/EN#78697/clothing lunettes] .
+val**277**e** [/EN#78723/people un enfant] marche devant [/EN#78726/other un autre] .
+val**278**e** [/EN#78902/people la jeune fille] se fait faire [/EN#78905/bodyparts des oreilles de lapin] par [/EN#78904/people le jeune garçon] derrière [/EN#0/notvisual elle] .
+val**279**e** [/EN#79749/people un jeune bébé] , vêtu d' [/EN#79751/clothing une tenue polaire rose] , sourit tandis qu' il est allongé dans [/EN#79750/other des feuilles d' automne] .
+val**280**e** [/EN#79756/people un gros plan d' une femme] avec [/EN#79757/bodyparts de courts cheveux rouges] .
+val**281**e** [/EN#79810/people un footballeur] en [/EN#79812/clothing maillot vert] sort [/EN#79811/scene du terrain] en courant .
+val**282**e** [/EN#79896/people une fille] mène [/EN#0/notvisual son [/EN#79895/animals chien] par-dessus [/EN#79898/other un obstacle] .
+val**283**e** [/EN#80635/people plusieurs enfants] lèvent [/EN#80638/bodyparts la main tandis] qu' ils sont assis sur [/EN#80637/other un tapis coloré] dans [/EN#80636/scene une salle de classe] .
+val**284**e** [/EN#81283/people des marins] sont debout [/EN#81287/scene en haut d' une passerelle] sur [/EN#81286/vehicles/scene un grand bateau] .
+val**285**e** [/EN#81587/animals un chien blanc] de [/EN#81590/scene taille moyenne] saute pour attraper [/EN#81588/other un petit frisbee en tissu] .
+val**286**e** [/EN#81657/people un homme] en [/EN#81658/clothing t-shirt gris] se repose .
+val**287**e** [/EN#82398/animals un chien noir] saute dans [/EN#82399/scene l' eau] , tout en tenant [/EN#82400/other un bâton [/EN#82401/bodyparts dans sa gueule] .
+val**288**e** [/EN#83647/animals deux chiens noirs] courant [/EN#83649/other de chaque côté d' un chemin pavé]
+val**289**e** [/EN#83740/people quatre personnes] en [/EN#83741/clothing tenues décontractées] sont debout dehors , tenant [/EN#83742/clothing des sacs poubelle] .
+val**290**e** [/EN#83842/people des gens] et [/EN#83841/animals des chameaux] faisant [/EN#83845/scene une pause] dans [/EN#83848/scene le désert] .
+val**291**e** [/EN#83930/animals quatre chiens] jouent en [/EN#83933/other cercle] et [/EN#83932/animals un chien noir] s' éloigne .
+val**292**e** [/EN#84097/people un homme] en [/EN#84100/clothing uniforme militaire] parle dans [/EN#84099/other un micro] .
+val**293**e** [/EN#84137/people un groupe d' asiatiques] sur [/EN#84140/other un salon automobile] , regardant et prenant des [/EN#84144/vehicles photos d' un nouveau véhicule] .
+val**294**e** [/EN#84488/people un nageur] nageant dans [/EN#84492/scene une piscine] .
+val**295**e** [/EN#84808/people une femme] en [/EN#84812/clothing t-shirt] et [/EN#84814/scene pantalon blancs] allongée sur [/EN#84807/other un canapé] dans [/EN#84815/scene une maison] .
+val**296**e** [/EN#84837/people un homme] fait [/EN#84842/other des gestes avec ses mains] à côté de [/EN#84839/people deux jeunes filles] .
+val**297**e** [/EN#85116/people une fille] en [/EN#85118/clothing t-shirt blanc] faisant [/EN#85119/other des bulles] dans [/EN#85117/scene une pièce obscure] .
+val**298**e** [/EN#85127/people des garçons] et [/EN#85128/people des filles] d' [/EN#85129/people un pays de l' est] souriant dans [/EN#85126/scene un champ] .
+val**299**e** [/EN#85222/people un enfant] en [/EN#85223/clothing sweat orange] saute depuis des [/EN#85224/other bottes de foin] tandis que d' [/EN#85225/people autres enfants] regardent .
+val**300**e** un [/EN#85904/people garçon] faisant des [/EN#0/notvisual figures] sur [/EN#85905/other un skateboard]
+val**301**e** [/EN#86154/people un homme] lève les bras pour travailler avec des [/EN#86159/other câbles] au-dessus d' [/EN#86155/other un bureau] .
+val**302**e** [/EN#86328/people un petit enfant] est assis à [/EN#86333/other une table] , en train de manger [/EN#86330/other un goûter] .
+val**303**e** [/EN#86533/people quatre enfants] avec des [/EN#86537/clothing sacs à dos] se retournent pour être face à [/EN#0/notvisual l' objectif] et sourient , tandis qu' [/EN#0/notvisual ils] marchent sur une [/EN#86534/scene route de campagne] .
+val**304**e** [/EN#86694/people un homme] avec des [/EN#86695/bodyparts dreadlocks] se bouche [/EN#86699/bodyparts l' oreille] pour entendre [/EN#86700/other un appel téléphonique] .
+val**305**e** de [/EN#86717/other grands disques souples] sont empilés par [/EN#86716/people un homme] sur [/EN#86723/other un axe] dans [/EN#86719/other un environnement industriel] tandis qu' [/EN#0/notvisual un autre] regarde .
+val**306**e** [/EN#86751/animals un chien] sur [/EN#86752/scene une pelouse] , regardant en l' air .
+val**307**e** [/EN#87161/people une femme] et [/EN#87164/people un jeune enfant] s' [/EN#0/notvisual amusent] en jouant à [/EN#87163/other un jeu de société] .
+val**308**e** [/EN#87450/people quatre enfants] sont assis sur [/EN#87451/other un muret] et discutent .
+val**309**e** [/EN#87907/animals le petit chien brun] est parmi [/EN#87910/other les plantes en pots] et les [/EN#87909/other feuilles mortes] .
+val**310**e** [/EN#87939/people deux hommes] peignent [/EN#87940/scene un bâtiment] tandis qu' [/EN#87938/other un troisième] avec [/EN#87944/other son téléphone portable] passe devant .
+val**311**e** [/EN#87969/people des hommes] regardent [/EN#87972/other un écran d' ordinateur] dans [/EN#87970/scene un bureau] .
+val**312**e** [/EN#88173/people deux femmes] examinent [/EN#88178/other une photo] sur [/EN#88175/other un appareil photo] .
+val**313**e** [/EN#88357/people une femme blonde] avec [/EN#88358/clothing un chapeau de cowboy marron] fait [/EN#88359/other un geste obscène] vers [/EN#0/notvisual l' objectif] .
+val**314**e** [/EN#88609/animals le chien blanc et marron] court dans [/EN#88610/scene l' herbe] .
+val**315**e** [/EN#88850/people une adolescente] lisant [/EN#88852/other un livre] en [/EN#88854/people classe] avec des [/EN#88858/other notes] sur [/EN#88857/other son bureau] , ayant l' air de s' ennuyer .
+val**316**e** [/EN#89149/people deux petites filles] marchent au milieu [/EN#89156/other des feuilles] .
+val**317**e** [/EN#89217/people une mariée] ajuste [/EN#89218/other la fleur de son mari] sur [/EN#89219/clothing sa veste] tandis qu' [/EN#0/notvisual elle] tient [/EN#89218/other son propre bouquet de fleurs] .
+val**318**e** [/EN#89224/people la femme] place [/EN#89227/other une rose orange] en tant que [/EN#89227/clothing boutonnière] sur [/EN#89228/clothing le col du veston de l' homme] .
+val**319**e** [/EN#89461/people deux femmes] avec [/EN#89464/other leurs poussettes] marchant le long d' [/EN#89462/scene une allée couverte de feuilles] .
+val**320**e** [/EN#89872/people quatre femmes] déguisées avec des [/EN#89877/clothing costumes rigolos] .
+val**321**e** [/EN#89982/people cette vieille femme asiatique] se repose et s' évente lors d' [/EN#89987/scene une journée apparemment chaude [/EN#89986/scene en ville] .
+val**322**e** des [/EN#90050/people filles] en [/EN#90053/clothing bikinis noirs] jouant au [/EN#90052/other beach volley] .
+val**323**e** [/EN#90215/people un homme] à [/EN#90218/clothing lunettes] et [/EN#90214/people une petite fille] avec [/EN#90216/clothing un gilet de sauvetage] nageant dans [/EN#90217/scene une piscine] .
+val**324**e** [/EN#90360/people trois enfants] vêtus de [/EN#90363/clothing hauts marron] et de [/EN#90362/clothing jeans] sautant [/EN#90369/scene dehors] avec des [/EN#90361/other feuilles [/EN#0/notvisual par terre] .
+val**325**e** [/EN#90679/people une femme] se concentre sur [/EN#90680/other sa partie de curling] .
+val**326**e** [/EN#90899/people une personne] porte de [/EN#90900/clothing nombreux sacs] .
+val**327**e** [/EN#92312/people un enfant] près d' [/EN#92317/scene une scène bleue] avec [/EN#92313/animals une créature colorée] dessus .
+val**328**e** [/EN#92461/people un garçon] est debout avec un air bête [/EN#92468/people au milieu d' un rassemblement social] .
+val**329**e** [/EN#92513/people cet enfant] est dans [/EN#92514/scene une salle de classe] , où l' école est peut-être finie
+val**330**e** [/EN#92562/people un homme] fait du wakeboard dans [/EN#92563/scene l' eau] .
+val**331**e** [/EN#92912/people des enfants] regardent par [/EN#92914/scene la fenêtre d' un bâtiment bleu] avec [/EN#92914/other des volets rouges] .
+val**332**e** [/EN#92918/people un homme en noir avec des cheveux poivre et sel] et [/EN#92920/clothing une barbe et des lunettes] est assis sur [/EN#92922/scene l' herbe] .
+val**333**e** [/EN#92993/people une femme] et [/EN#92996/people ses deux enfants] sont [/EN#92995/scene sur la plage] et [/EN#92993/people la femme] saute haut dans [/EN#0/notvisual les airs] .
+val**334**e** [/EN#93078/people deux hommes] marchant dans [/EN#93080/scene une rue en ville] .
+val**335**e** [/EN#93600/people un gars] fait [/EN#0/notvisual une figure en vélo] dans [/EN#93605/scene un parc] .
+val**336**e** [/EN#93742/people un homme] avec [/EN#93743/clothing une veste de ski de couleur] vive est debout parmi [/EN#93746/other d' autres] dans [/EN#93747/scene une rue d' europe] .
+val**337**e** [/EN#94050/people une femme] avec [/EN#94055/clothing un t-shirt jaune] et [/EN#94056/clothing des lunettes de soleil] se promène sur [/EN#94052/scene un trottoir] .
+val**338**e** [/EN#94113/people deux femmes] regardent [/EN#94116/scene de nombreuses maisons] en contrebas .
+val**339**e** [/EN#94254/animals deux gros chiens] gambadent [/EN#94255/scene sur une pelouse] .
+val**340**e** [/EN#94395/people les gens] sont vêtus de [/EN#94397/clothing plusieurs couches de vêtements] , et bougent ensemble .
+val**341**e** [/EN#94586/people un groupe de personnes] qui mangent dans [/EN#94590/scene un restaurant] .
+val**342**e** [/EN#95039/people une femme] avec [/EN#95040/clothing un t-shirt noir] semble être en train de monter [/EN#95047/scene un escalator] .
+val**343**e** [/EN#95084/scene une salle] pleine [/EN#95076/people d' adultes et [/EN#95077/people d' enfants] assis et debout , [/EN#95078/other et huit ballons roses] et noirs suspendus [/EN#95079/other au plafond] .
+val**344**e** [/EN#95221/people un homme] et [/EN#95222/people une femme] posent ensemble dans [/EN#95223/scene une rue pavée] .
+val**345**e** [/EN#95392/animals deux chiens] courent et jouent dans [/EN#95393/scene la neige]
+val**346**e** [/EN#96137/animals un petit] chien sautant dans [/EN#96138/scene une rue] .
+val**347**e** [/EN#96376/people un homme] vêtu d' [/EN#96377/clothing un t-shirt noir] joue de [/EN#96378/instruments la basse à sept cordes [/EN#96381/scene sur scène] .
+val**348**e** [/EN#96526/people un garçon] et [/EN#96527/people un vieil homme] avec [/EN#96529/other une canne] parlent .
+val**349**e** [/EN#96615/people une fille] vêtue d' [/EN#96620/clothing un maillot blanc] , [/EN#96621/clothing d' un short noir] et [/EN#96622/clothing d' un bandeau] joue [/EN#96617/other au volley] .
+val**350**e** [/EN#96812/people deux hommes] sont debout dans [/EN#96815/scene une rue] recouverte [/EN#96819/other de graffitis] .
+val**351**e** [/EN#97198/people un garçon] en [/EN#97199/clothing t-shirt] et [/EN#97202/clothing short] tient [/EN#97201/other une boule de neige] et fait face à [/EN#97200/scene une montagne enneigée] .
+val**352**e** ( wind surfing au lieu de hang gliding ) [/EN#98061/people une personne] fait de la planche à voile dans [/EN#98063/scene l' océan] .
+val**353**e** [/EN#98260/people deux hussards] sont juchés sur [/EN#98261/animals des chevaux] , vêtus de [/EN#98260/other tenues de cérémonie extravagantes] , [/EN#98260/other chacun] tenant [/EN#98263/other un sabre] dans [/EN#98264/bodyparts leur main droite] , les rênes sur [/EN#98272/scene leur gauche] .
+val**354**e** [/EN#98360/animals un chien] courant dans [/EN#98362/other la neige profonde] .
+val**355**e** [/EN#98878/people un groupe de personnes] de taille [/EN#98883/scene moyenne] posent devant [/EN#0/notvisual l' objectif] .
+val**356**e** [/EN#99260/animals un gros chien brun et blanc] tacheté couché sur [/EN#99262/clothing une veste] dans [/EN#99266/scene la rue] .
+val**357**e** [/EN#99277/people deux adolescentes] tiennent [/EN#99279/other une carte] faisant référence à [/EN#99281/other un point] , tandis qu' [/EN#0/notvisual elles] sourient .
+val**358**e** [/EN#99437/people une mère] et son [/EN#99436/people fils] souriant tandis qu' [/EN#0/notvisual ils] descendent une pente en luge .
+val**359**e** [/EN#99463/people un homme] en [/EN#99464/clothing t-shirt noir] cuisine en regardant [/EN#99465/other un livre de recettes] dans [/EN#99470/scene une cuisine encombrée] .
+val**360**e** [/EN#99508/people une femme] en [/EN#99510/clothing blanc] joue d' [/EN#99509/instruments une guitare noire] .
+val**361**e** [/EN#100431/people un snowboardeur] saute en [/EN#0/notvisual l' air] à proximité [/EN#100434/scene du télésiège] .
+val**362**e** [/EN#100711/people plusieurs personnes] sont debout dans [/EN#100712/scene une pièce en train] de manger .
+val**363**e** [/EN#100864/people un homme] avec [/EN#100869/clothing un chapeau] fait [/EN#100873/other la manche] en jouant [/EN#100865/instruments d' un instrument inhabituel] près de [/EN#100870/other la sortie du métro] .
+val**364**e** [/EN#101735/people un gars] glisse sur [/EN#101740/other un rebord de fenêtre] près [/EN#101741/scene d' un vieux moulin]
+val**365**e** [/EN#101828/people une femme] avec [/EN#101830/clothing un t-shirt blanc] et [/EN#101833/clothing un pantalon noir] fait du hula [/EN#101835/other hoop] tandis qu' [/EN#101829/people un grand groupe de personnes] regardent .
+val**366**e** [/EN#102479/people un vieil homme] en interviewe un [/EN#0/notvisual autre] en [/EN#102485/clothing tenue de course] .
+val**367**e** [/EN#102617/people deux hommes] en [/EN#102620/clothing costumes rouges] pratiquant [/EN#102619/other les arts martiaux] .
+val**368**e** [/EN#102762/people un jeune enfant] fait de [/EN#102764/vehicles la moto] dans [/EN#102766/other la boue] .
+val**369**e** [/EN#102855/people un enfant] vêtu [/EN#102856/clothing d' un bonnet] et [/EN#102857/clothing d' une veste] est [/EN#102861/scene dehors] , courant sur [/EN#102859/scene un revêtement en pierre] .
+val**370**e** [/EN#103239/people un enfant] assis sur [/EN#103248/bodyparts les épaules de son papa] dans [/EN#103243/people une foule] .
+val**371**e** [/EN#103385/people deux hommes âgés] avec [/EN#103386/clothing des chapeaux] sont assoupis [/EN#103392/other au soleil] dehors .
+val**372**e** [/EN#103905/people deux garçons] dans [/EN#103916/bodyparts une tente sourient] pour [/EN#0/notvisual la photo] .
+val**373**e** [/EN#104459/people une femme chaudement vêtue] en [/EN#104464/clothing noir] est à genoux avec [/EN#104460/animals un petit chien] brun [/EN#104463/people près d' une foule de curieux] .
+val**374**e** [/EN#105051/people deux hommes] installent [/EN#105053/other du matériel électronique]
+val**375**e** [/EN#105672/people une femme] portant [/EN#105673/clothing un sac de courses de chez trader joe s'] est endormie dans [/EN#105675/vehicles/scene le train] .
+val**376**e** [/EN#105716/people un cycliste] fait [/EN#0/notvisual une figure] dans [/EN#105720/scene les airs] .
+val**377**e** [/EN#106652/people un jeune homme] en [/EN#106659/clothing sweat-shirt vert] lit [/EN#106656/other un journal] sur [/EN#106653/scene la plage] .
+val**378**e** [/EN#106778/people un homme] en [/EN#106781/clothing veste verte sourit] .
+val**379**e** [/EN#107203/people un homme] escalade [/EN#107205/other une paroi rocheuse abrupte] , avec [/EN#107208/clothing un harnais de sécurité]
+val**380**e** [/EN#107223/people un jeune homme] traverse [/EN#107224/scene la rue] sur [/EN#107225/vehicles un vélo] qu' il a construit [/EN#107228/other lui-même] .
+val**381**e** [/EN#107391/animals deux chiens bruns] se battent dans [/EN#107392/scene un espace vert] .
+val**382**e** une [/EN#107527/people personne] en [/EN#107529/clothing long manteau rouge] marchant devant [/EN#107528/scene un bâtiment] .
+val**383**e** [/EN#107736/people une femme étrangère] est assise avec [/EN#107741/other de nombreux tissus colorés] .
+val**384**e** [/EN#107758/people deux garçons] à [/EN#0/notvisual l' intérieur d' un espace clos sautent [/EN#0/notvisual en l' air] tout en tenant [/EN#107759/other un ballon de basket] .
+val**385**e** [/EN#107883/people un homme] avec [/EN#107886/clothing des lunettes] devant [/EN#107884/other un micro] , regardant [/EN#107885/other un document] dans [/EN#107890/bodyparts sa main] .
+val**386**e** [/EN#108164/people un enfant] avec [/EN#108170/clothing un t-shirt vert] porte [/EN#108166/other une boule rouge] à [/EN#108168/bodyparts sa bouche] .
+val**387**e** [/EN#108220/people un homme] avec [/EN#108224/bodyparts un tatouage] sur [/EN#108225/bodyparts/people son bras] cuisinant [/EN#108228/other quelque chose] dans [/EN#108222/other une poêle] .
+val**388**e** [/EN#108508/other un groupe de quatre] faisant [/EN#108509/other un concert] .
+val**389**e** [/EN#108689/people un groupe de jeunes hommes asiatiques] marchant lors d' [/EN#108690/other un marathon] .
+val**390**e** [/EN#109286/people un homme] tirant des [/EN#109292/other objets] sur [/EN#109288/vehicles un chariot] .
+val**391**e** [/EN#109472/animals trois gros chiens] s' amusent à [/EN#109474/other jouer] dans [/EN#109473/scene la neige] .
+val**392**e** [/EN#109534/animals un oiseau] vole au-dessus de [/EN#109535/scene l' eau] .
+val**393**e** [/EN#109557/people un groupe de parents] sont assis lors d' [/EN#109561/other une réunion en plein air] .
+val**394**e** [/EN#109574/vehicles une voiture jaune] va à toute allure sur [/EN#109575/scene une piste enneigée]
+val**395**e** [/EN#110188/people un groupe de jeunes] sont assis et jouent de [/EN#110190/instruments leurs instruments] .
+val**396**e** un [/EN#110338/people groupe d' adultes] assis autour d' une [/EN#110341/other table] , écoutant une [/EN#110342/other présentation]
+val**397**e** [/EN#110455/people une femme] en [/EN#110456/clothing t-shirt vert] lit quelque chose sur [/EN#110457/other un écran] à [/EN#110466/people sa classe] .
+val**398**e** [/EN#110469/people des jeunes] participent à [/EN#110470/other un match] .
+val**399**e** des [/EN#110773/people joueurs] en [/EN#110772/clothing tenues bleues et blanches] sont sur [/EN#110776/scene le terrain] en train de jouer au [/EN#110771/other baseball] .
+val**400**e** [/EN#110898/people une femme] et [/EN#110900/people deux garçons] regardant [/EN#110901/other une station d' information] .
+val**401**e** [/EN#111050/people un groupe de personnes] courant lors [/EN#111052/other d' un marathon caritatif] .
+val**402**e** [/EN#111208/people deux femmes] sont debout avec [/EN#111212/other des bâtons de ski] dans [/EN#111209/scene la neige profonde] .
+val**403**e** [/EN#111293/people des gens] sont réunis devant [/EN#111298/animals une statue d' un animal] , et [/EN#0/notvisual ils] portent tous [/EN#111294/clothing des vêtements d' hiver] .
+val**404**e** [/EN#111327/people un jeune skieur] regarde [/EN#0/notvisual l' objectif] .
+val**405**e** [/EN#111567/people deux jeunes filles] habillées [/EN#111570/clothing en pyjamas roses] assises sur [/EN#111582/scene le sol] devant de [/EN#111576/other grandes fenêtres] , jouant avec [/EN#111575/scene une maison] .
+val**406**e** [/EN#111930/people une femme] et [/EN#111924/people un enfant] à dos [/EN#111927/animals de chameau] au bord [/EN#111926/scene de l' océan] .
+val**407**e** [/EN#112064/people un homme] sourit avec [/EN#112070/bodyparts une main] sur [/EN#112071/bodyparts son front] dans [/EN#112066/scene un bar bondé] .
+val**408**e** [/EN#112167/scene la rue] est remplie de [/EN#112166/people nombreuses personnes] en [/EN#112174/clothing manteaux] .
+val**409**e** [/EN#112749/people deux hommes] souriant [/EN#112758/scene dans un pays étranger] , [/EN#112754/other l' un debout et l' autre] assis avec [/EN#112759/bodyparts les jambes] croisées .
+val**410**e** [/EN#113051/animals un petit chien brun] court dans [/EN#113052/scene l' herbe] .
+val**411**e** [/EN#113281/scene un restaurant dans une rue la nuit] .
+val**412**e** [/EN#113473/people un snowboardeur] fait [/EN#0/notvisual une figure] .
+val**413**e** [/EN#114563/people une femme asiatique] en [/EN#114564/clothing tenue de factrice] pousse [/EN#114566/other un grand tas de paquets] .
+val**414**e** [/EN#114595/people une femme] en [/EN#114597/clothing chemise bleue] fait [/EN#114596/vehicles du vélo] .
+val**415**e** [/EN#114697/people une femme] en [/EN#114699/clothing tenue de tennis blanche] saute pour frapper [/EN#114698/other la balle] .
+val**416**e** [/EN#114757/people une jeune femme] s' exerçant sur [/EN#114758/instruments un instrument à cordes [/EN#114761/other en intérieur] .
+val**417**e** [/EN#114984/people une mariée] et [/EN#114991/people un époux] prennent [/EN#114993/other des photos] tandis que [/EN#114981/people deux hommes] sont debout à proximité .
+val**418**e** [/EN#115084/people une femme] tenant [/EN#115085/animals un chien noir et blanc] .
+val**419**e** [/EN#115097/people un garçon] en [/EN#115099/clothing t-shirt rouge] essayant de jouer de [/EN#115098/instruments la guitare] .
+val**420**e** [/EN#115161/people une jeune secrétaire] cherchant [/EN#115167/other de nouveaux e-mails] des [/EN#115166/people clients] .
+val**421**e** [/EN#115314/people trois femmes âgées] dans [/EN#115318/scene un salon] décoré pour [/EN#115315/other noël] , [/EN#115319/other un ordinateur portable vaio] est au [/EN#115322/other centre de toutes les attentions] .
+val**422**e** [/EN#115354/animals un chien blanc au poil soyeux] saute et attrape [/EN#115355/other un jouet] .
+val**423**e** [/EN#115939/people un matador] en [/EN#115943/clothing costume coloré] chevauche [/EN#115940/animals un taureau]
+val**424**e** [/EN#116156/people des enfants] se lavent dans de l' [/EN#116157/scene eau] coulant de [/EN#116158/instruments grands fûts] .
+val**425**e** [/EN#116409/animals un chien blanc et brun] saute avec [/EN#116410/other un ballon jaune] dans [/EN#116411/bodyparts sa gueule] .
+val**426**e** [/EN#116575/people un groupe de personnes] en [/EN#116580/clothing t-shirts bleus] lors d' [/EN#116578/scene une manifestation sportive] .
+val**427**e** [/EN#117298/people le joueur de tennis] est vêtu d' [/EN#117300/clothing un t-shirt jaune et bleu] et d' [/EN#117302/clothing un bandeau bleu] .
+val**428**e** [/EN#117419/people deux petites filles] en [/EN#117420/clothing robes bleues] rient .
+val**429**e** [/EN#117911/people une petite fille] en [/EN#117916/clothing tutu rose] s' entraîne à danser avec [/EN#117914/clothing des foulards] .
+val**430**e** [/EN#118044/people deux personnes] sautent au [/EN#118047/scene sommet d' une montagne] .
+val**431**e** [/EN#118058/other un groupe de femmes font une danse de style balinais] avec [/EN#118059/clothing des costumes] et [/EN#118062/bodyparts un maquillage] colorés .
+val**432**e** [/EN#118063/people un cycliste] faisant [/EN#0/notvisual un saut] dans [/EN#118064/scene une forêt] .
+val**433**e** [/EN#118077/people plusieurs personnes] marchent à côté d' [/EN#118078/scene une clôture blanche] dans [/EN#118079/scene un pays étranger] .
+val**434**e** une [/EN#118885/people femme] debout sur [/EN#118886/other un mur de briques] et prenant [/EN#118888/other une photo]
+val**435**e** [/EN#119034/people une femme [/EN#0/notvisual qui] porte un [/EN#119040/clothing short blanc] , un [/EN#119039/clothing haut jaune et des sandales] blanches semble lancer [/EN#119035/other un bâton] .
+val**436**e** [/EN#119135/people une personne] fait du [/EN#119138/vehicles motocross] .
+val**437**e** [/EN#119210/scene une petite fille d' origine asiatique] est assise dans [/EN#119211/other un seau noir] , mangeant [/EN#119215/other un chamallow] , avec [/EN#119223/bodyparts un grand sourire] sur [/EN#119224/bodyparts son visage] .
+val**438**e** [/EN#119736/animals deux terriers] jouent sur [/EN#119738/scene le plancher en bois de leur maison] .
+val**439**e** [/EN#119863/people un petit garçon] avec [/EN#119865/other une tétine] et [/EN#119866/clothing un t-shirt rouge] joue avec [/EN#119864/other un tuyau d' arrosage] .
+val**440**e** [/EN#120010/people un adolescent] sur [/EN#120011/vehicles un vélo] fait des [/EN#0/notvisual figures] .
+val**441**e** [/EN#120034/people un vieil homme] vêtu d' [/EN#120035/clothing une veste noire] regarde sur [/EN#120036/other la table]
+val**442**e** [/EN#120470/people l' homme] à [/EN#120471/clothing la chemise bleue] marche avec [/EN#120470/people l' homme] en [/EN#120473/clothing rouge] .
+val**443**e** [/EN#120597/people une femme] suspendue à [/EN#120599/other un arbre] , [/EN#120600/bodyparts sa jambe] enveloppée dans une [/EN#120598/other toile] .
+val**444**e** [/EN#120795/people une jeune fille pieds nus] vêtue d' [/EN#120796/clothing un casque] marche sur un [/EN#120797/other arbre] tombé couvert de [/EN#120797/other mousse] .
+val**445**e** [/EN#120995/animals un chien noir] saute par-dessus [/EN#120997/other une barrière multicolore] .
+val**446**e** [/EN#121234/people un garçon [/EN#121239/clothing en bleu] , jouant au [/EN#121236/other football] , [/EN#121240/other sur le point] de frapper [/EN#121237/other le ballon] .
+val**447**e** [/EN#121498/people un groupe] de cyclistes se préparant pour [/EN#121501/other une course] .
+val**448**e** [/EN#121560/people un gars] s' éloigne en courant d' [/EN#121559/animals un taureau noir] .
+val**449**e** [/EN#121875/people un garçon] avec [/EN#121881/bodyparts une crête] courant après des [/EN#121876/animals oies] dans [/EN#121878/scene un parc] .
+val**450**e** un [/EN#122042/animals petit chien brun et blanc] courant sur [/EN#122043/scene le trottoir] .
+val**451**e** [/EN#122810/people deux enfants] mettent [/EN#122814/bodyparts leurs visages] dans [/EN#122811/people des dessins de chevalier] et [/EN#122813/other de reine] .
+val**452**e** [/EN#122897/people l' ombre de deux hommes] sur [/EN#122900/other le gréement] .
+val**453**e** [/EN#123019/animals un caniche noir] joue avec [/EN#123023/animals un autre chien] sur un terrain [/EN#123021/scene sec.]
+val**454**e** [/EN#123238/people plusieurs personnes] profitent d' [/EN#123242/other une cigarette] près d' [/EN#123243/other un cendrier] .
+val**455**e** [/EN#123342/animals un chien blanc] avec [/EN#123348/other des taches brunes] saute de [/EN#123346/scene la berge] dans [/EN#123343/scene l' eau] .
+val**456**e** [/EN#123481/people un photographe] prenant [/EN#123483/other une photo d' un message] sur [/EN#123486/other un portail] .
+val**457**e** [/EN#123623/people une petite fille] avec [/EN#123625/clothing une robe à carreaux] joue avec [/EN#123624/other son gros ballon bleu] près d' [/EN#123627/scene une clôture à mailles] .
+val**458**e** [/EN#123712/people un homme] s' entraîne à boxer
+val**459**e** [/EN#124447/people un groupe de jeunes] posant [/EN#0/notvisual en l' air] sur [/EN#124448/scene une plage de sable] .
+val**460**e** [/EN#124472/people la femme] tient [/EN#124473/instruments un violon] .
+val**461**e** [/EN#124781/people des voyageurs] faisant une randonnée lors d' [/EN#124784/scene une journée très froide] .
+val**462**e** [/EN#126209/people un homme] vêtu d' [/EN#126218/clothing un t-shirt gris] fait une [/EN#0/notvisual figure en skateboard] sur des [/EN#126215/other marches] .
+val**463**e** [/EN#127169/people trois hommes] marchant à côté d' [/EN#127171/scene une tente] avec [/EN#127170/other une banderole [/EN#0/notvisual dessus] .
+val**464**e** [/EN#127675/people une jeune fille] debout dans [/EN#127677/scene un pré] .
+val**465**e** [/EN#127857/people un garçon] en [/EN#127858/clothing tenue verte et jaune] apprend la boxe .
+val**466**e** [/EN#127873/people un homme] et une [/EN#127874/people femme] jouant à [/EN#127877/scene un jeu dehors] .
+val**467**e** [/EN#128416/people une jeune fille] portant [/EN#128417/clothing une robe] et des [/EN#128420/clothing sandales] court dans [/EN#128418/scene l' herbe] .
+val**468**e** [/EN#128440/people une femme] avec des [/EN#128442/bodyparts cheveux violets] et [/EN#128439/people un homme] en [/EN#128441/clothing uniforme militaire] .
+val**469**e** des [/EN#128521/people gens] dansent et applaudissent .
+val**470**e** [/EN#128564/people un homme] regarde [/EN#128563/people un couple qui passe] tandis qu' il marche dans [/EN#128565/scene la rue] .
+val**471**e** [/EN#128778/people un homme] en [/EN#128783/clothing t-shirt blanc] et [/EN#128782/clothing short rayé] jouant de [/EN#128779/instruments l' orgue] , en étant observé par [/EN#128778/people un homme] en [/EN#128780/clothing polo jaune]
+val**472**e** [/EN#129039/people un grand nombre de gens] qui regardent [/EN#129040/people une artiste] sur [/EN#129043/scene une scène] .
+val**473**e** [/EN#129117/vehicles la voiture] laisse [/EN#129118/scene une traînée de poussière] tandis qu' [/EN#0/notvisual elle] roule sur la piste [/EN#129120/scene en terre] .
+val**474**e** [/EN#129132/people un groupe de personnes] écoutant [/EN#129133/people un homme] parler [/EN#129139/scene dehors] .
+val**475**e** [/EN#129192/people un homme chauve barbu] en [/EN#129201/clothing chemise rayée beige] pose [/EN#129197/bodyparts sa tête] sur [/EN#129193/bodyparts/people le bras d' un autre homme] .
+val**476**e** [/EN#129263/people un garçon] s' apprête à marquer [/EN#129258/other un but]
+val**477**e** [/EN#129288/people un cycliste] fait du [/EN#129289/vehicles vélo] sur [/EN#129290/scene la route] à proximité [/EN#129292/other de rochers] avec de [/EN#129293/scene la neige] .
+val**478**e** [/EN#129464/other un homme aux cheveux longs] balance [/EN#129462/bodyparts ses cheveux mouillés] dans [/EN#129456/scene l' océan] .
+val**479**e** [/EN#129980/people un garçon] et [/EN#129983/people un homme] déguisés en [/EN#129982/people clowns de rodéo] debout dans [/EN#129987/other le sable]
+val**480**e** [/EN#130338/people une jeune fille] sourit et [/EN#130346/other lève [/EN#130343/bodyparts son pouce] tout en posant devant [/EN#130341/animals une tortue] .
+val**481**e** [/EN#131153/people un homme] en [/EN#131155/clothing bleu] fait du [/EN#131154/vehicles vélo] sur [/EN#131156/scene une piste] .
+val**482**e** [/EN#131218/people une personne seule] fait du parachute devant [/EN#131219/scene un paisible coucher de soleil] .
+val**483**e** [/EN#131428/people une serveuse] est debout derrière [/EN#131429/other un comptoir] plein de [/EN#131430/other gâteaux] .
+val**484**e** [/EN#131805/people deux cyclistes] traversent [/EN#131807/scene la rue] par [/EN#131813/scene une journée très ventée en californie] .
+val**485**e** [/EN#132009/people un groupe de musiciens] enregistrent de la [/EN#132012/other musique] .
+val**486**e** [/EN#132239/people deux personnes] jouent au [/EN#132242/other water polo] dans [/EN#132241/scene une piscine] .
+val**487**e** [/EN#0/notvisual il] y a [/EN#132636/other un café [/EN#132640/scene au coin d' une rue] avec [/EN#132638/other une peinture ovale [/EN#132643/scene au coin de son bâtiment] .
+val**488**e** [/EN#132673/people un garçon] hisse [/EN#132673/people un autre garçon] sur [/EN#132675/other son dos] .
+val**489**e** [/EN#132950/people une femme] utilisant [/EN#132951/other un grand appareil photo] debout dans [/EN#132953/scene la rue] .
+val**490**e** [/EN#134121/people une fille] porte [/EN#134122/clothing un grand chapeau bleu et rouge] .
+val**491**e** [/EN#134261/people une femme] se met de [/EN#134265/other la peinture sur le visage] tandis qu' [/EN#134262/people un garçon] avec [/EN#134263/bodyparts une crête] tient [/EN#134264/other un miroir] .
+val**492**e** [/EN#134472/people un groupe d' adultes multiculturel] lors d' [/EN#134477/people un rassemblement] , [/EN#134471/people un homme] avec des [/EN#134483/bodyparts tatouages] lance [/EN#134475/other quelque chose] .
+val**493**e** [/EN#134832/people un homme] en [/EN#134838/clothing chemise bleue] fait du [/EN#134834/vehicles monocycle] avec des [/EN#134835/other bâtons] enflammés dans les [/EN#134839/bodyparts mains] .
+val**494**e** [/EN#135071/people un jeune enfant] joue dans [/EN#135072/other un arrosage automatique] .
+val**495**e** [/EN#135135/people quatre enfants] jouent sur [/EN#135137/scene leur terrasse] tandis que [/EN#135136/people leur père] regarde .
+val**496**e** [/EN#135264/people un homme] tient [/EN#135260/people un nourrisson] tout en s' appuyant contre [/EN#135265/scene un bâtiment] .
+val**497**e** une [/EN#135417/people femme] avec [/EN#135420/other deux médailles] autour [/EN#135424/bodyparts du cou] , levant [/EN#135419/bodyparts sept doigts] en l' air .
+val**498**e** [/EN#135463/people les hommes] se battent pendant [/EN#135464/other le match] .
+val**499**e** [/EN#135635/people deux filles] mangent des [/EN#135638/other gâteaux] et l' [/EN#135639/other une] a de la glace [/EN#135640/clothing bleue] sur son [/EN#135642/bodyparts visage] .
+val**500**e** [/EN#135665/people une femme] met [/EN#135666/clothing un casque] sur [/EN#135664/people une petite fille] .
+val**501**e** [/EN#135680/people une foule] est dehors , regardant [/EN#135681/people quelqu' un] au [/EN#0/notvisual centre parmi eux] .
+val**502**e** [/EN#136176/people un garçon] dans [/EN#136177/scene un parc] jouant avec [/EN#136179/other deux balles oranges] .
+val**503**e** [/EN#136241/people une jeune fille blonde] debout sur [/EN#136243/other un oreiller] sur [/EN#136244/other un lit] , souriant avec [/EN#136247/bodyparts les yeux] fermés .
+val**504**e** [/EN#136318/people un homme] chante dans [/EN#136322/other un micro] en tenant [/EN#136321/instruments une guitare] .
+val**505**e** [/EN#136361/people un homme] avec des perles de [/EN#136362/other mardi gras] autour du [/EN#136371/bodyparts cou] tenant [/EN#136365/other une perche] avec [/EN#136364/other une bannière]
+val**506**e** [/EN#136513/people un homme] en [/EN#136517/clothing vert] et [/EN#136514/people une femme] en [/EN#136515/clothing noir] s' étirant .
+val**507**e** [/EN#137100/people un homme] prend [/EN#137102/people une photo d' un autre homme] avec [/EN#137103/animals ses deux chiens] sur [/EN#137101/scene une colline verdoyante]
+val**508**e** [/EN#137154/people un homme] faisant [/EN#137156/other une sorte de spectacle en public] avec du [/EN#137156/other feu] .
+val**509**e** [/EN#137391/animals un gros chien noir] court le long d' [/EN#137392/scene une clôture] dans [/EN#137393/scene l' herbe] .
+val**510**e** [/EN#137635/people un pilote de motocross] est légèrement en l' air lors d' [/EN#0/notvisual une compétition sur un circuit avec des bosses] .
+val**511**e** [/EN#0/notvisual il] y a [/EN#137989/people une femme] en [/EN#137990/vehicles vélo] sur [/EN#137995/scene la route] , et [/EN#0/notvisual elle] a fait [/EN#137991/other une roue arrière] .
+val**512**e** [/EN#138709/animals le chien noir] saute au-dessus de [/EN#138712/scene l' eau] vers [/EN#138710/other un frisbee] flottant près d' [/EN#138711/vehicles/scene un bateau] .
+val**513**e** [/EN#138777/people un homme] en [/EN#138778/clothing veste] et [/EN#138779/clothing bonnet noirs] joue de [/EN#138781/instruments la trompette] .
+val**514**e** [/EN#138913/people un homme] habillé en [/EN#138916/clothing vert] faisant du snowboard sur [/EN#138914/other un banc] .
+val**515**e** [/EN#138957/people un homme indien] est assis à [/EN#138958/other une table [/EN#138962/scene devant un restaurant] .
+val**516**e** [/EN#139003/people trois hommes [/EN#139005/clothing en costumes] mettant [/EN#139006/bodyparts leurs mains] ensemble .
+val**517**e** un [/EN#139371/animals petit chien] en [/EN#139376/clothing costume] se dresse sur ses [/EN#139373/bodyparts pattes arrière] pour atteindre des [/EN#139377/other fleurs qui pendent] .
+val**518**e** un [/EN#139879/people homme] descendant [/EN#139882/other une rampe d' escalier] sur [/EN#139880/vehicles un vélo] .
+val**519**e** [/EN#140120/people un homme] avec [/EN#140122/other un seau] et [/EN#140123/people une fille] avec [/EN#140127/clothing un chapeau] sur [/EN#140121/scene la plage] .
+val**520**e** [/EN#140505/people des gens] marchent sur [/EN#140510/scene un trottoir en ville] devant [/EN#140503/scene un bar] et [/EN#140507/other un grill] .
+val**521**e** [/EN#140790/animals un gros chien] saute dans [/EN#140792/scene une fontaine] tandis qu' [/EN#140793/people un homme] avec [/EN#140794/clothing un t-shirt] et [/EN#140795/clothing un gilet] noirs est debout à proximité .
+val**522**e** [/EN#140893/people un homme] sur [/EN#140894/vehicles/scene un bateau] avec [/EN#140896/clothing un pantalon orange] , tenant [/EN#140897/other une corde] .
+val**523**e** [/EN#140904/people deux hommes] sont dehors lors [/EN#140907/scene d' une belle journée ensoleillée] , essayant d' attraper [/EN#140912/animals des poissons] sur [/EN#140908/scene le lac] .
+val**524**e** [/EN#141553/people un homme] est debout sur [/EN#141557/other un échafaudage] , peignant [/EN#141554/other un mur [/EN#141554/other en corail] .
+val**525**e** [/EN#142089/people un marchand] est assis [/EN#142090/other au milieu d' un stand] de [/EN#142091/clothing lunettes] sur [/EN#142096/scene un marché de rue] dans [/EN#142095/scene un pays asiatique] .
+val**526**e** [/EN#142221/people deux personnes] avec [/EN#142225/clothing des hauts blancs] marchant sur [/EN#142223/scene le trottoir] en parlant sur [/EN#142228/other leurs téléphones portables] .
+val**527**e** [/EN#142320/people la petite fille] avec [/EN#142324/clothing le collier vert s' éloigne] en courant [/EN#142323/other du but] .
+val**528**e** [/EN#142478/people une artiste] peint dehors .
+val**529**e** [/EN#142640/people deux enfants asiatiques] , [/EN#142641/people un garçon] et [/EN#142642/people une fille] , sont debout sur [/EN#142648/scene le sol à côté] d' [/EN#142643/other un arbre] .
+val**530**e** [/EN#142658/people des gens] en [/EN#142661/other file] s' apprêtant à monter dans [/EN#142659/vehicles/scene un bus] .
+val**531**e** [/EN#142860/people deux équipes] , [/EN#142864/other l' une] en [/EN#142872/other rose et l' autre [/EN#142876/clothing en blanc] , jouent [/EN#142862/other à la crosse] sur [/EN#142861/scene un terrain] .
+val**532**e** [/EN#143178/people une femme] portant [/EN#143180/clothing un casque jaune] utilise [/EN#143179/other une tyrolienne] .
+val**533**e** [/EN#143567/animals un chien noir] nageant dans [/EN#143570/scene l' eau] avec [/EN#143568/other une balle de tennis] dans [/EN#143569/bodyparts sa gueule]
+val**534**e** [/EN#143708/people trois hommes] sont dans [/EN#143707/vehicles une voiture bleu foncé] .
+val**535**e** avec [/EN#143738/other une baignoire] fixée sur [/EN#143742/scene son toit] et [/EN#143740/other des drapeaux] attachés , [/EN#143737/vehicles la voiture] est prête à partir pour [/EN#143739/other le rallye] .
+val**536**e** [/EN#143847/people un homme] en [/EN#143848/clothing chemise bleue] soufflant dans [/EN#143849/instruments une trompette] .
+val**537**e** [/EN#143935/people un métallurgiste utilisant] un fer [/EN#143951/other à souder] dans [/EN#143941/bodyparts sa main droite] , tout en tenant [/EN#143940/clothing le masque] dans [/EN#143940/bodyparts sa main gauche] , dans [/EN#143948/other un quartier de classes moyennes [/EN#143952/scene ou inférieures] .
+val**538**e** [/EN#144303/people beaucoup de gens] debout à côté [/EN#144307/scene d' une fontaine] sous [/EN#144304/clothing un parapluie bleu et blanc] .
+val**539**e** [/EN#144669/people une femme] coud pour [/EN#144674/other gagner sa vie] dans [/EN#144676/scene son pays] .
+val**540**e** un [/EN#144823/people vendeur de rue] rangeant des [/EN#144827/other produits] sur [/EN#144831/other la table] .
+val**541**e** [/EN#144854/people trois hommes] sont debout autour d' [/EN#144856/vehicles une remorque] près [/EN#144855/other de motos] .
+val**542**e** [/EN#144871/other un caissier de banque] debout [/EN#144874/other au guichet] .
+val**543**e** [/EN#144969/people un homme] vêtu d' [/EN#144970/clothing un sweat à capuche rouge] avec [/EN#144973/clothing un tablier blanc] est debout devant [/EN#144971/other une fresque] .
+val**544**e** [/EN#145137/people un homme] regarde l' [/EN#145145/other un de ses quatre écrans plats d' ordinateur] .
+val**545**e** [/EN#145311/people deux personnes] font du [/EN#145317/vehicles vélo] sur [/EN#145312/scene un chemin de terre]
+val**546**e** [/EN#145427/people une jeune fille asiatique avec le visage sale] , portant [/EN#145428/other un oreiller] .
+val**547**e** [/EN#145601/people un enfant [/EN#0/notvisual qui] est [/EN#145602/scene au bord d' un lac] montre [/EN#145607/other quelque chose] dans [/EN#145609/scene le ciel] .
+val**548**e** [/EN#146046/people un duo d' adolescents] jouent de la [/EN#146048/instruments guitare] .
+val**549**e** [/EN#146260/people un homme] en [/EN#146263/clothing t-shirt blanc] et [/EN#146264/clothing pantalon kaki] est accroupi sur [/EN#146261/other un tronc d' arbre tombé] .
+val**550**e** [/EN#146336/people deux garçons] préparent [/EN#146343/other un petit bateau à voile] tandis que [/EN#146337/people deux filles] sur [/EN#146338/scene la plage [/EN#0/notvisual les] regardent .
+val**551**e** [/EN#146363/people un vieil homme] en [/EN#146367/clothing tenue médiévale] tient [/EN#146365/other une hache] tandis qu' il est debout sur [/EN#146368/scene une colline] .
+val**552**e** [/EN#146435/people trois personnes] sont sur [/EN#146437/scene la plage] , à genoux ou debout au bord de [/EN#146440/scene l' eau] .
+val**553**e** [/EN#147347/people un homme] avec [/EN#147350/clothing un haut jaune] est debout devant [/EN#147349/other une petite cabane] , vu [/EN#147352/other de haut] à travers [/EN#147355/other un grillage] .
+val**554**e** [/EN#147404/people un enfant] est sur le point de mordre à contrecœur dans [/EN#147407/other un champignon] .
+val**555**e** [/EN#147494/people deux femmes] vêtues de [/EN#147497/clothing t-shirts roses] et de [/EN#147496/clothing jeans] parlent [/EN#147501/scene devant un magasin de vêtements] .
+val**556**e** [/EN#147867/people un policier monté] sur [/EN#147869/animals un cheval tacheté] surveille [/EN#147868/people une foule] .
+val**557**e** [/EN#148178/animals un gros chien noir] creuse dans [/EN#148179/scene la neige profonde] .
+val**558**e** [/EN#148360/people un homme] prend [/EN#148362/scene une photo d' un lac] avec [/EN#148365/scene des montagnes] en [/EN#0/notvisual arrière-plan] .
+val**559**e** [/EN#148388/people une femme brune] en [/EN#148389/clothing tablier bleu turquoise] trait [/EN#148391/animals un animal marron] .
+val**560**e** [/EN#148483/people des gens] protestant contre [/EN#148480/other la discrimination basée sur l' âge] lors d' [/EN#148486/scene une manifestation] dans la rue .
+val**561**e** [/EN#149022/people deux jeunes filles] jouant [/EN#149023/other au basket] , l' [/EN#149028/other une] en [/EN#149034/clothing blanc] tentant [/EN#149026/other un lay-up] tandis que [/EN#149022/other l' autre] en [/EN#149024/other rouge défend] .
+val**562**e** [/EN#149210/people une femme] en [/EN#149212/clothing bikini] faisant [/EN#149213/other une roue] dans [/EN#149214/other le sable] .
+val**563**e** [/EN#150181/people un homme] avec [/EN#150186/clothing un polo marron] , [/EN#150184/clothing une veste grise] et [/EN#150185/clothing une casquette noire] joue de [/EN#150183/instruments la basse électrique] .
+val**564**e** [/EN#150218/people une femme [/EN#150221/bodyparts blonde] boit dans [/EN#150220/other un verre] .
+val**565**e** [/EN#150470/people un jeune garçon] allongé sur [/EN#150471/other un lit d' hôpital] avec [/EN#150472/bodyparts sa jambe] sur [/EN#0/notvisual le côté] .
+val**566**e** [/EN#150650/people deux hommes d' âge moyen] se parlent dans [/EN#150659/scene une pièce] avec du [/EN#150652/other matériel de musique] .
+val**567**e** un chien ouvre [/EN#150675/bodyparts sa gueule] pour montrer ses [/EN#150678/bodyparts dents acérées] .
+val**568**e** [/EN#151005/people un vieux couple indien] dans [/EN#151013/scene leur maison] .
+val**569**e** [/EN#151065/people un homme] s' allonge sur [/EN#151068/scene un gros tas de neige [/EN#0/notvisual qui] est [/EN#151067/scene devant la porte d' entrée de sa maison] .
+val**570**e** une [/EN#151325/people jeune fille] tend la main pour caresser [/EN#151326/animals un cerf] .
+val**571**e** [/EN#152014/people une femme] aux [/EN#152019/bodyparts cheveux noirs] , vêtue d' [/EN#152016/clothing un haut noir] et d' [/EN#152018/clothing une jupe rouge] montre [/EN#152021/bodyparts le poing] à [/EN#152023/people quelqu' un] .
+val**572**e** [/EN#152678/people un homme] poussé dans [/EN#152682/other un fauteuil roulant] dans [/EN#152679/scene une bibliothèque] .
+val**573**e** [/EN#153485/animals deux chiens] sont allongés dans [/EN#153486/scene la neige] avec [/EN#153488/bodyparts leurs gueules] ouvertes .
+val**574**e** [/EN#153755/people une femme au visage chaleureux] nettoie [/EN#153760/scene le plancher de sa salle de séjour] .
+val**575**e** [/EN#153809/people deux hockeyeurs] prêts à commencer [/EN#153817/other le match] avec [/EN#153816/people l' arbitre] à côté [/EN#0/notvisual d' eux] sur le point de lâcher [/EN#153822/other le palet] .
+val**576**e** [/EN#154273/people des coureurs] passent [/EN#154277/scene un point de contrôle] dans [/EN#154278/scene la ville] .
+val**577**e** [/EN#154612/people un groupe de personnes [/EN#154613/clothing en costumes] dansant [/EN#154617/other dans un club ou lors d' une fête] .
+val**578**e** [/EN#154643/people deux enfants] se préparent à faire [/EN#154646/other une promenade sur un éléphant] .
+val**579**e** [/EN#154906/people un jeune adulte] portant [/EN#154909/clothing un jean] et [/EN#154908/clothing un t-shirt de camouflage] jouant d' [/EN#154907/instruments une guitare électrique noire] .
+val**580**e** [/EN#155245/people une personne] vêtue d' un [/EN#155248/clothing costume d' animation jaune] dans [/EN#155253/scene un endroit public] .
+val**581**e** des [/EN#156052/people nageurs] dans [/EN#156049/scene un lac] regardés par [/EN#156047/people un garçon] assis sur [/EN#156051/other un mur] .
+val**582**e** [/EN#156114/people une foule de gens] lors d' [/EN#156119/other un festival en ville] avec de la [/EN#156115/other fumée] et des [/EN#156116/other feux d' artifice]
+val**583**e** un [/EN#156560/animals chien] en [/EN#156564/other laisse creuse] dans la [/EN#156562/scene neige] à la [/EN#156562/scene campagne] .
+val**584**e** [/EN#156630/people un groupe] campe dans [/EN#156631/scene une zone désertique] .
+val**585**e** [/EN#156836/people un caissier] avec [/EN#156843/clothing un sweat à capuche noir] compte la [/EN#156839/other monnaie] .
+val**586**e** [/EN#156941/people un garçon] se faisant raser [/EN#156943/bodyparts les cheveux] par un [/EN#156941/people autre garçon] .
+val**587**e** voici une [/EN#156980/people photo d' un adolescent] rasant [/EN#156979/bodyparts les cheveux de son frère] .
+val**588**e** des [/EN#157211/other touristes prennent des photos] devant un [/EN#157209/scene bâtiment] en [/EN#157207/other chine] .
+val**589**e** on voit des [/EN#157863/vehicles poteries et des voitures] sur [/EN#157861/scene un parking] avec [/EN#157857/people un homme [/EN#157868/clothing en tenue bleue] qui est adossé [/EN#157862/vehicles au capot de sa voiture] .
+val**590**e** [/EN#157928/people deux hommes] derrière [/EN#157929/scene un bar circulaire] dans [/EN#157935/scene une salle] remplie [/EN#157937/people de gens] .
+val**591**e** des [/EN#158079/people hommes] et des [/EN#158081/people femmes] attendent qu' [/EN#158078/vehicles/scene un train] s' arrête .
+val**592**e** des [/EN#158393/people enfants] discutant et apprenant en [/EN#158395/people classe] .
+val**593**e** [/EN#158771/people un homme] chante dans [/EN#158773/other un micro] tandis que [/EN#158767/people son groupe] joue .
+val**594**e** [/EN#158776/people un chanteur] chantant avec [/EN#158777/people la foule] .
+val**595**e** [/EN#159288/people une femme âgée] avec [/EN#159289/clothing un bonnet bleu] est assise sur [/EN#159291/scene le trottoir] , coupant [/EN#159292/other quelque chose] de jaune sur [/EN#159290/other une planche] à côté d' [/EN#0/notvisual elle] .
+val**596**e** [/EN#161188/people un ouvrier du bâtiment] , avec [/EN#161192/clothing un t-shirt noir] et [/EN#161190/clothing un jean] , installe [/EN#161189/other son échelle] .
+val**597**e** [/EN#161726/people une serveuse] en [/EN#161730/clothing t-shirt blanc] servant [/EN#161727/people des clients] dans [/EN#161728/scene un restaurant] .
+val**598**e** [/EN#161955/people un homme blond] avec [/EN#161956/clothing une veste polaire noire] faisant de la sculpture .
+val**599**e** [/EN#162335/people une gymnaste] fait [/EN#162342/other un mouvement délicat] tandis qu' [/EN#0/notvisual elle] impressionne [/EN#162344/people le public] .
+val**600**e** [/EN#162994/people un artiste] travaillant sur [/EN#162996/other une sculpture en glace]
+val**601**e** [/EN#163235/people un homme] en [/EN#163237/clothing manteau bleu] est propulsé sur [/EN#163238/other son traîneau] par [/EN#163236/animals deux chiens] .
+val**602**e** c' est [/EN#163418/other une sorte [/EN#163411/people de groupe] ou [/EN#163419/other d' orchestre symphonique] qui répète .
+val**603**e** [/EN#163445/people deux personnes] jouant à [/EN#163446/other un jeu] l' une face à [/EN#0/notvisual l' autre] .
+val**604**e** [/EN#163511/people plusieurs filles] jouent avec de [/EN#163513/other la farine] .
+val**605**e** [/EN#164085/people une jeune fille] joue d' [/EN#164086/instruments un instrument de musique] et chante dans [/EN#164087/other un micro] .
+val**606**e** [/EN#164157/people un homme] jouant à " [/EN#164164/other mike tyson' s punchout] " sur [/EN#164163/other son ordinateur] .
+val**607**e** [/EN#164549/people un homme [/EN#0/notvisual qui] semble avoir été frappé est allongé par [/EN#0/notvisual terre] devant [/EN#164554/other des ordures] .
+val**608**e** [/EN#164759/people une photo d' une personne] pelletant de [/EN#164760/people la neige et de citoyens] qui se promènent [/EN#164759/other lors d' un hiver froid]
+val**609**e** [/EN#165240/people un groupe de personnes] avec [/EN#165243/clothing des jupes à carreaux] , [/EN#165244/clothing des gilets noirs] et [/EN#165246/clothing des chemises blanches] jouent du [/EN#165242/instruments tambour] .
+val**610**e** [/EN#165554/people une patineuse] en [/EN#165555/clothing veste rouge] répète [/EN#165560/other ses mouvements] .
+val**611**e** [/EN#165605/people un groupe de gens] courant [/EN#165606/other un marathon] en [/EN#165607/other hiver] .
+val**612**e** [/EN#165978/people une femme] et [/EN#165981/people un garçon] sur [/EN#165984/scene scène] riant avec [/EN#165982/scene une tente] en [/EN#0/notvisual arrière-plan] .
+val**613**e** [/EN#166105/people un homme noir] en [/EN#166109/clothing veste de chef] est [/EN#166108/other au téléphone] tandis que [/EN#166107/people deux autres hommes] en [/EN#166110/clothing tabliers] rient .
+val**614**e** [/EN#166230/people une jeune fille] marchant le long d' [/EN#166231/scene un petit ruisseau]
+val**615**e** [/EN#166563/people un homme brun] en [/EN#166564/clothing veston marron] parlant à [/EN#166570/people un public] lors d' [/EN#166568/other un spectacle d' humour] .
+val**616**e** [/EN#166600/people deux enfants] dansant lors d' [/EN#166595/other un spectacle de danse] .
+val**617**e** voici [/EN#166628/people une photo d' une femme] , [/EN#166622/people son mari] et [/EN#166621/people son enfant] faisant [/EN#166630/other une balade] sur [/EN#166627/scene le parking] .
+val**618**e** [/EN#166781/other lynyrd skynyrd] se produit lors d' [/EN#166783/other un concert] .
+val**619**e** [/EN#166882/people un homme] et [/EN#166885/people une femme] sont assis sur [/EN#166883/other un banc] , regardant [/EN#166884/vehicles/scene un bateau] passer .
+val**620**e** [/EN#167611/scene une rue en ville] a [/EN#167620/other de nombreuses enseignes] en [/EN#167613/other chinois] .
+val**621**e** [/EN#167689/people plusieurs personnes] parlant et passant [/EN#167698/other du temps] ensemble dans [/EN#167690/scene une pièce] .
+val**622**e** [/EN#168356/people un groupe de musiciens] jouant de [/EN#168361/other la musique] dans [/EN#168359/scene la rue] .
+val**623**e** [/EN#168595/people cet homme] semble tenter de faire [/EN#168599/other une sorte de déclaration politique] dans [/EN#168600/scene une ville animée] .
+val**624**e** [/EN#168616/people deux enfants] jouant sur [/EN#168620/scene un jungle gym] .
+val**625**e** [/EN#168666/people un homme] est assis sur [/EN#168667/other les marches] devant la porte d' [/EN#168668/scene une maison] .
+val**626**e** [/EN#168705/people un homme] en [/EN#168711/clothing complet] au [/EN#168710/other téléphone] marchant dans [/EN#168707/scene une rue très fréquentée] .
+val**627**e** [/EN#168757/people un homme] avec [/EN#168764/clothing un tablier] et [/EN#168765/clothing un couvre-chef blancs] vend de [/EN#168761/other la viande] dans [/EN#168759/scene une rue très fréquentée] .
+val**628**e** [/EN#169469/people une femme] est debout et porte [/EN#169471/clothing une écharpe verte et jaune] .
+val**629**e** [/EN#169627/people une vieille femme asiatique] porte [/EN#169628/clothing un béret] , [/EN#169631/clothing des lunettes de soleil] , [/EN#169630/clothing une écharpe jaune] et [/EN#169632/clothing une veste à carreaux] .
+val**630**e** [/EN#171187/people des gens] sont assis entre [/EN#171191/other des piliers] tandis qu' [/EN#171192/people une autre personne] passe .
+val**631**e** un [/EN#171613/people homme] et une femme [/EN#171613/people vétérinaires] examinant [/EN#171615/animals un énorme tigre] allongé par [/EN#0/notvisual terre] .
+val**632**e** [/EN#171624/people deux personnes] regardant [/EN#171626/clothing des vêtements] dans [/EN#171625/other une vitrine] .
+val**633**e** [/EN#172025/people un homme] avec [/EN#172026/clothing un sac à dos] est assis sur [/EN#172027/scene une route en terre] et montre [/EN#172030/scene l' horizon] du doigt .
+val**634**e** [/EN#172129/people deux hommes] sont assis autour d' [/EN#172130/other un gril brillant] .
+val**635**e** [/EN#172155/people une femme] en [/EN#172153/clothing veste jaune] suivant [/EN#172157/people deux autres femmes] .
+val**636**e** [/EN#172179/people un homme] en [/EN#172181/clothing manteau] parlant sur [/EN#172182/other son téléphone] dans [/EN#172184/scene la rue] .
+val**637**e** [/EN#172269/people un garçon] en [/EN#172277/clothing t-shirt vert] sur [/EN#172273/vehicles un vélo] se réfléchissant dans [/EN#172272/other la vitrine d' un magasin] .
+val**638**e** [/EN#172835/people une petite fille] regardant par-dessus [/EN#172836/other un mur bleu] .
+val**639**e** [/EN#172922/people un jeune homme] achète [/EN#172927/other quelque chose] à manger sur [/EN#172923/scene un stand de beignets] .
+val**640**e** [/EN#173087/people un vieil homme] est assis avec [/EN#173089/other un plateau] sur [/EN#173090/bodyparts ses genoux] .
+val**641**e** [/EN#173157/people un homme afro-américain] avec [/EN#173162/clothing un chapeau beige] , [/EN#173159/clothing un costume] et [/EN#173164/clothing des lunettes de soleil] est debout près d' [/EN#173160/other un mur en briques] .
+val**642**e** [/EN#173506/people trois hommes] parlent devant [/EN#173505/other un vieil escalier] dans [/EN#173512/scene la rue] .
+val**643**e** [/EN#173896/people des personnes noires] sont au [/EN#173895/scene supermarché] pour y acheter [/EN#173897/other leur nourriture] .
+val**644**e** [/EN#173976/people un homme] et [/EN#173978/people deux enfants] traversant [/EN#173977/scene une rue] .
+val**645**e** [/EN#174017/people un homme] en [/EN#174019/clothing costume] fumant [/EN#174020/other un cigare] et lisant [/EN#174022/other un journal] marche dans [/EN#174021/scene la rue] .
+val**646**e** [/EN#174570/people un groupe de personnes] en [/EN#174574/clothing blanc] qui jouent de [/EN#174573/instruments la guitare] .
+val**647**e** [/EN#174779/animals un chien] saute en [/EN#0/notvisual l' air] pour attraper [/EN#174780/other un frisbee orange] .
+val**648**e** [/EN#175253/people plusieurs personnes] debout sur [/EN#175259/other un quai de métro] .
+val**649**e** [/EN#175329/people les trois enfants] sont dans [/EN#175330/other une cage] .
+val**650**e** [/EN#175540/people deux personnes] sont debout devant [/EN#175541/scene un bâtiment] .
+val**651**e** [/EN#175627/people une vieille dame] utilisant [/EN#175628/clothing une ombrelle rose] pour [/EN#0/notvisual se] protéger du [/EN#175632/other soleil] .
+val**652**e** [/EN#175727/people un joueur de baseball] fait jaillir de [/EN#175735/scene la terre] en glissant devant [/EN#175730/people un receveur] .
+val**653**e** [/EN#175895/people deux femmes] en [/EN#175896/clothing costumes bleus] sont assises sur [/EN#175897/scene le bitume dehors] avec [/EN#175904/other du béton et de longues baies vitrées] derrière [/EN#0/notvisual elles] .
+val**654**e** [/EN#176035/people deux hommes] fumant devant [/EN#176036/scene un parc] .
+val**655**e** [/EN#176154/people un homme] en [/EN#176155/clothing polo bleue] tient [/EN#176156/other une pancarte [/EN#0/notvisual qui] dit : " [/EN#176156/other allez quoi ... qu' est-ce qu' il y a de plus gay que le thé] " .
+val**656**e** [/EN#176778/people une femme] en [/EN#176782/clothing t-shirt vert] marche dans [/EN#176781/scene une rue bondée] .
+val**657**e** [/EN#176941/people deux femmes] assises sur [/EN#176942/other des chaises argentées] attendant [/EN#176947/vehicles/scene un train ou un métro] dans [/EN#176943/other une station en intérieur] .
+val**658**e** [/EN#177332/people une foule] flâne près de la ligne [/EN#177333/other de départ d' un marathon] .
+val**659**e** [/EN#177454/people un jeune garçon] porte [/EN#177456/other un drapeau vert , blanc et rouge] et marche à côté d' [/EN#177455/people une femme] .
+val**660**e** [/EN#177638/people de nombreuses personnes] sont rassemblées pour regarder [/EN#177639/people deux hommes [/EN#0/notvisual qui] jouent d' [/EN#177640/instruments un instrument] et tiennent [/EN#177642/other une pancarte] .
+val**661**e** [/EN#177715/people un homme] en [/EN#177716/clothing t-shirt rayé noir et blanc] photographiant [/EN#177719/people une femme] près d' [/EN#177717/scene une fontaine] .
+val**662**e** [/EN#177810/people deux personnes] assises sur [/EN#177811/other un banc en ciment] , bavardant pendant [/EN#177809/other le déjeuner] .
+val**663**e** [/EN#177970/people un militaire] tenant [/EN#177972/other une caméra] , montrant à [/EN#177973/people un enfant [/EN#177978/other le film] qui est dessus .
+val**664**e** [/EN#177981/people un homme] pousse [/EN#177982/other des fauteuils] dans [/EN#177983/scene une rue très fréquentée] .
+val**665**e** [/EN#178036/people un homme] avec [/EN#178037/other un micro] parlant à [/EN#178040/people un groupe de personnes] dehors .
+val**666**e** [/EN#178308/people deux hommes] discutent près d' [/EN#178309/other un mur] avec [/EN#178313/other un graffiti] dessus .
+val**667**e** [/EN#179097/people une fille] avec [/EN#179105/other le visage peint] et [/EN#179098/clothing un sweat orange] est debout avec [/EN#179106/other sa famille] .
+val**668**e** [/EN#179838/people une personne] est debout à côté d' [/EN#179840/scene une clôture en bois] avec [/EN#179846/other des arbres] en fleurs à proximité .
+val**669**e** [/EN#180068/people une jeune femme athlétique] fait du kickboxing avec [/EN#180069/clothing/people un punching-ball rouge] dans [/EN#180071/scene un gymnase] .
+val**670**e** [/EN#180219/people un vendeur de limonade] préparant [/EN#180220/scene sa boutique] pour [/EN#180226/scene la journée] .
+val**671**e** [/EN#180229/people un homme] est assis sur [/EN#180232/scene une chaise verte et bleue] avec [/EN#180233/other des publicités] derrière [/EN#0/notvisual lui] dans [/EN#180236/scene la rue] .
+val**672**e** [/EN#180549/other un match junior de football] américain où [/EN#180551/people trois jeunes] se battent pour [/EN#180548/other le ballon] .
+val**673**e** [/EN#180935/people un homme] tient [/EN#180936/people un enfant] sur [/EN#180938/bodyparts ses épaules] tandis que [/EN#180940/people des gens] marchent autour de [/EN#0/notvisual lui] .
+val**674**e** [/EN#180985/people un homme] en [/EN#180987/clothing tablier] debout devant de [/EN#180988/other la nourriture] sous [/EN#180989/other un menu] .
+val**675**e** [/EN#181069/people une femme blonde dans une rue] , avec [/EN#181072/clothing un manteau doré] et [/EN#181073/clothing une mini-jupe rose] devant [/EN#181071/other une moto de police vue de dos] .
+val**676**e** [/EN#181571/people plusieurs artistes] avec [/EN#181574/clothing des vêtements blancs] et [/EN#181577/clothing des casquettes marron] sont alignés les uns en face [/EN#0/notvisual des autres] .
+val**677**e** [/EN#182041/people une femme blanche blonde] avec [/EN#182048/clothing un sac bleu] faisant de [/EN#182044/vehicles la trottinette] .
+val**678**e** [/EN#183167/people une femme] assise sur [/EN#183168/other un banc public] .
+val**679**e** [/EN#183258/people un groupe de personnes] sont assises à [/EN#183260/other une table] dehors , buvant [/EN#183261/other un verre] et parlant .
+val**680**e** [/EN#183390/people une petite fille asiatique] court [/EN#183393/scene très concentrée] dans [/EN#183391/scene une rue pavée] .
+val**681**e** [/EN#184475/people une femme] et [/EN#184477/people quatre enfants] traversent une [/EN#184476/scene rue passante] .
+val**682**e** des [/EN#184628/people femmes] en [/EN#184629/clothing tenues ethniques] chantant ensemble .
+val**683**e** [/EN#184839/people une femme] parle avec [/EN#184840/people une jeune fille] sur [/EN#184841/other un comptoir] .
+val**684**e** [/EN#185278/people une femme] fait cuire de [/EN#185283/other la nourriture] qui a l' air [/EN#185284/other savoureuse] sur un barbecue dans [/EN#185281/scene le parc] .
+val**685**e** [/EN#186961/people un policier] se bat avec [/EN#186960/people un homme] qui a [/EN#186965/bodyparts la main] en [/EN#0/notvisual l' air] tandis que [/EN#186969/people d' autres policiers] regardent .
+val**686**e** [/EN#187369/people un homme] en [/EN#187370/clothing t-shirt noir] chante dans [/EN#187371/other un micro] .
+val**687**e** [/EN#187382/people deux jeunes hommes] en [/EN#187388/clothing jeans] et [/EN#187390/clothing baskets] traversent [/EN#187383/scene une rue en ville] .
+val**688**e** [/EN#187530/people deux filles] jouant sur [/EN#187532/other un arbre] avec [/EN#187531/animals leur chien] .
+val**689**e** [/EN#0/notvisual il] y a [/EN#187832/people une jeune femme] avec [/EN#187834/clothing un sac] , souriant devant [/EN#187833/scene un bâtiment] .
+val**690**e** [/EN#188237/people un homme] et [/EN#188238/people une femme] marchent sur [/EN#188240/scene une promenade au bord de l' eau] vers [/EN#188239/scene un pont suspendu] .
+val**691**e** [/EN#188399/people trois femmes] courent pieds nus sur [/EN#188403/other le sable] vers [/EN#188402/scene l' eau] .
+val**692**e** [/EN#188606/people un bébé] assis sur [/EN#188608/other un cabriolet bleu] .
+val**693**e** [/EN#188656/people deux hommes] regardent [/EN#188664/other l' écran d' un ordinateur portable] tandis que l' [/EN#188666/people un tape] et que [/EN#188659/other l' autre] montre quelque chose sur [/EN#188662/other l' écran] .
+val**694**e** [/EN#188917/people un défilé coloré] mené par [/EN#188924/people un homme] portant [/EN#188921/other un drapeau rouge] .
+val**695**e** [/EN#189062/people un homme] en [/EN#189064/clothing casquette] et [/EN#189065/clothing débardeur gris] avec [/EN#189070/clothing un short noir] fait [/EN#189068/other l' équilibre] .
+val**696**e** [/EN#189320/people la femme] tient [/EN#189321/people le garçon] tout en regardant de l' autre côté de [/EN#189325/scene la rue] .
+val**697**e** [/EN#189633/other la photo] montre [/EN#189639/people le reflet d' un homme] et d' [/EN#189632/people une femme] situés dans [/EN#189638/other un terminal] .
+val**698**e** [/EN#189688/people un homme] soulève joyeusement [/EN#189689/people une femme détrempée] .
+val**699**e** [/EN#190032/people l' homme] avec [/EN#190039/clothing la ceinture blanche] et [/EN#190036/clothing des lunettes de soleil] tient [/EN#190038/bodyparts la main de la fille] .
+val**700**e** [/EN#190316/people un homme] marche sur [/EN#190318/scene le trottoir] à côté d' [/EN#190318/scene une rue] .
+val**701**e** [/EN#190636/people un homme] avec [/EN#190638/clothing des vêtements olivâtres] se tient au-dessus du [/EN#0/notvisual sol] sur [/EN#190641/bodyparts les mains] .
+val**702**e** [/EN#190679/people des photographes] sur [/EN#190688/scene un site] , faisant [/EN#190685/other un reportage] .
+val**703**e** [/EN#190703/people un homme] et [/EN#190707/people une femme] en [/EN#190705/clothing noir] sont debout proches l' un de l' autre dans la [/EN#190706/scene rue] .
+val**704**e** [/EN#190974/people des gens] assistant au [/EN#190977/other j.p. morgan corporate challenge] .
+val**705**e** [/EN#191279/people la fille] et [/EN#191277/people le garçon] s' embrassent tandis qu' ils sont assis sur [/EN#191280/other un banc en bois] .
+val**706**e** [/EN#191478/people un homme] portant [/EN#191481/clothing des lunettes] sort d' [/EN#191479/scene une piscine] par [/EN#191483/other l' échelle] .
+val**707**e** [/EN#0/notvisual il] y a [/EN#191569/people une jeune femme] habillée [/EN#191571/clothing en vert et rouge] avec [/EN#191570/other un drapeau mexicain] peint sur [/EN#191573/bodyparts sa joue] .
+val**708**e** [/EN#191939/people un cycliste avec un casque] décollant d' [/EN#191940/scene une rampe] dans [/EN#191947/other les bois] .
+val**709**e** [/EN#192070/people deux femmes] vêtues [/EN#192074/clothing tout en blanc] et portant [/EN#192071/clothing des talons hauts] marchent dans [/EN#192080/scene la rue] .
+val**710**e** [/EN#192220/people un homme indien] passe devant [/EN#192219/scene un temple] en [/EN#192228/scene allant] prier .
+val**711**e** [/EN#192347/people un homme noir] athlétique est debout dans [/EN#192348/vehicles/scene le métro] , écoutant de la musique avec [/EN#192351/clothing des oreillettes] .
+val**712**e** [/EN#192516/people deux hommes] assis dehors , ayant [/EN#192520/other une conversation] près d' [/EN#192518/other une pancarte free advice] .
+val**713**e** [/EN#192578/people une femme [/EN#192585/other rousse] en [/EN#192580/clothing robe rouge] debout devant [/EN#192579/scene une maison multicolore éclatante] .
+val**714**e** [/EN#192639/people une femme] fait du roller [/EN#192640/clothing en tenue légère] .
+val**715**e** [/EN#192911/people une femme] avec [/EN#192915/clothing une robe noire] et [/EN#192914/clothing un casque pelucheux] marchant dans [/EN#192912/scene la rue] .
+val**716**e** [/EN#0/notvisual il] y a [/EN#193007/people beaucoup de personnes] dans [/EN#193003/scene un bâtiment] , avec [/EN#193001/people certaines d' entre elles] faisant [/EN#193000/other la cuisine] .
+val**717**e** [/EN#194781/people des gens] goûtant [/EN#194783/other les produits] d' [/EN#194786/scene une boulangerie locale] lors d' [/EN#194787/other un potluck] .
+val**718**e** [/EN#195135/scene une vue d' une rue] bordée [/EN#195135/scene de grands bâtiments propres] .
+val**719**e** [/EN#195678/people une fille] avec [/EN#195680/bodyparts des dreadlocks bleues] est assise [/EN#195679/scene au bord de la route] .
+val**720**e** [/EN#195987/people un homme] avec [/EN#195995/clothing un maillot des denver broncos] mange à l' arrière de sa voiture avec [/EN#195999/people ses amis] .
+val**721**e** [/EN#196553/people une femme] divertie par [/EN#196552/people un clown] lors d' [/EN#196557/scene une foire locale] .
+val**722**e** [/EN#197051/people un homme] avec [/EN#197055/clothing une longue cape bleue] rentre dans [/EN#197054/scene un vieux bâtiment en pierre] .
+val**723**e** [/EN#197359/people une femme] en [/EN#197360/clothing chemise rose vif] tire un chariot [/EN#197358/vehicles de nourriture chaude] .
+val**724**e** [/EN#197390/people une personne] avec [/EN#197393/bodyparts de longs cheveux bleus] debout derrière [/EN#197391/people une grande foule de personnes] .
+val**725**e** [/EN#197399/people un groupe de personnes sur la plage] se tiennent [/EN#197401/bodyparts la mains] en formant [/EN#197403/other une ligne] face à [/EN#197402/scene la mer] .
+val**726**e** [/EN#197405/people un homme] en [/EN#197417/clothing t-shirt blanc] joue [/EN#197406/instruments du violon] dans [/EN#197408/scene la rue] .
+val**727**e** [/EN#197638/people beaucoup de gens] marchant sur [/EN#197652/scene une route en terre] , portant [/EN#197641/clothing des vêtements d' été] par [/EN#197653/scene une journée ensoleillée] .
+val**728**e** [/EN#197676/people deux personnes] avec des [/EN#197678/clothing combinaisons colorées intégrales en élasthanne] sont assises sur [/EN#197683/other des chaises] dans [/EN#197677/people un public] .
+val**729**e** [/EN#197799/people un homme noir] , portant [/EN#197800/clothing une casquette] , est assis dans [/EN#197801/vehicles/scene un bus] .
+val**730**e** [/EN#198101/people un homme] sortant d' [/EN#198102/scene une laverie automatique] .
+val**731**e** [/EN#198361/people un homme] en [/EN#198365/clothing costume-cravate] parle à [/EN#198364/scene la tribune] d' [/EN#198363/scene un bâtiment luxueux] .
+val**732**e** [/EN#198404/people l' homme] s' est endormi sur [/EN#198405/other le canapé] .
+val**733**e** [/EN#198668/people cinq hommes [/EN#198673/other qui sont tous] vêtus [/EN#198669/clothing de blouses blanches] sont debout à côté [/EN#198671/animals d' agneaux] dans [/EN#198675/scene un enclos]
+val**734**e** [/EN#199944/other deux embarcations] , [/EN#199941/clothing l' une rouge] et [/EN#199942/clothing l' autre blanche] , font [/EN#199939/other de grosses éclaboussures] dans [/EN#199940/scene l' eau] .
+val**735**e** [/EN#200171/people un groupe de quatre] personnes sont photographiées depuis [/EN#200160/vehicles une voiture] .
+val**736**e** [/EN#201657/people des gens] dans [/EN#201659/scene la rue] lors d' [/EN#201658/other une fête de quartier] .
+val**737**e** [/EN#201666/people deux filles] sont mouillées et il y a [/EN#201664/people une femme] avec [/EN#201669/clothing un parapluie ouvert] derrière [/EN#0/notvisual elles] .
+val**738**e** [/EN#201698/people une femme] en [/EN#201701/clothing blanc] tient [/EN#201700/other un bouquet de roses] .
+val**739**e** [/EN#202360/people une jeune femme] avec [/EN#202368/clothing une tenue " urbaine] " et [/EN#202367/clothing des bottes] effectuant [/EN#202360/other un mouvement de ballet] au bord d' [/EN#202364/scene un lac] .
+val**740**e** [/EN#202592/people un homme] et [/EN#202597/people une femme] montent [/EN#202601/scene un escalier de pierre] , regardant [/EN#202593/other une caméra] .
+val**741**e** [/EN#202614/people quatre hommes] habillés en [/EN#202621/clothing t-shirts] et [/EN#202619/clothing shorts] regardent par [/EN#202615/other une fenêtre] dans [/EN#202616/scene la rue] en-dessous .
+val**742**e** [/EN#202695/people plusieurs hommes] debout sur [/EN#202698/clothing un char de défilé] circulant dans [/EN#202694/scene une rue] pleine [/EN#202694/people de monde] .
+val**743**e** [/EN#202916/people un vieil homme [/EN#202925/other négligé] et renfrogné avec [/EN#202920/bodyparts des cheveux blancs] est assis devant [/EN#202917/scene un grillage] .
+val**744**e** des [/EN#203250/people hommes] torses nus en skateboard faisant [/EN#0/notvisual des figures] dans [/EN#203252/scene un skate park] .
+val**745**e** [/EN#203319/people un homme] avec [/EN#203326/clothing un casque] passe devant [/EN#203321/other un mur] avec [/EN#203328/other des graffitis rouges et violets] .
+val**746**e** [/EN#203419/people deux hommes] portant [/EN#203422/other des sombreros] à [/EN#203423/scene new york] .
+val**747**e** [/EN#203485/people une femme] avec [/EN#203487/clothing un haut violet] et [/EN#203488/clothing une jupe blanche] regarde [/EN#203478/people un défilé] .
+val**748**e** [/EN#203740/people une personne] descend [/EN#203742/scene une pente en terre] en [/EN#203741/vehicles motocross] .
+val**749**e** [/EN#203879/people une femme] en jaune avec [/EN#203882/other une poussette] , et [/EN#203878/people un homme] en [/EN#203884/clothing chemise bleue] avec [/EN#203883/clothing un sac à dos] marchent dans [/EN#203885/scene un rue très fréquentée] .
+val**750**e** [/EN#203955/people un homme] dans [/EN#203965/other son salon réfléchit] aux affaires qu' il va emmener en [/EN#203963/other voyage] .
+val**751**e** [/EN#204052/people une femme afro-américaine] est assise à [/EN#204054/other une table marron] , vêtue d' [/EN#204053/clothing une robe violette] , de [/EN#204055/clothing chaussures roses] et de [/EN#204058/clothing lunettes de soleil noires] .
+val**752**e** [/EN#204288/people un homme] affalé dans [/EN#204291/other une chaise] sur [/EN#204289/people un trottoir en ville] , regardant une fille .
+val**753**e** [/EN#204462/people deux hommes] , [/EN#204456/people l' un] vendant [/EN#204461/other des fruits] et [/EN#204455/other l' autre] les inspectant et parlant avec [/EN#204456/people le vendeur] .
+val**754**e** [/EN#205477/people un homme] et [/EN#205482/other une femme s' étreignent] dans [/EN#205479/scene une rue] .
+val**755**e** de [/EN#206017/people nombreuses personnes] vêtues de [/EN#206025/clothing blanc] dans [/EN#206019/scene un stade] sont en train de discuter [/EN#0/notvisual entre elles] .
+val**756**e** [/EN#206568/people beaucoup de personnes] se sont rassemblées pour regarder [/EN#206569/other quelque chose [/EN#0/notvisual qui] n' est pas sur [/EN#206573/other la photo] .
+val**757**e** [/EN#207001/people un couple] est assis sur [/EN#207004/other un banc] en train de parler , tandis qu' [/EN#207003/people une femme] promène [/EN#207005/animals un chien] en [/EN#0/notvisual arrière-plan] .
+val**758**e** [/EN#207206/people deux femmes] en [/EN#207208/clothing robes à pois] marchant sur [/EN#207209/scene un trottoir] .
+val**759**e** [/EN#207395/people un groupe de filles] jouent dans [/EN#207398/scene une fontaine] au [/EN#207402/other soleil] .
+val**760**e** [/EN#207832/people des paysagistes et des jardiniers] travaillant [/EN#207833/scene aux alentours] de [/EN#207834/scene l' allée] .
+val**761**e** [/EN#208180/people un homme dégarni] avec [/EN#208183/clothing des lunettes de soleil rouges] et [/EN#208182/clothing un t-shirt vert] debout devant [/EN#208181/scene un bâtiment] .
+val**762**e** [/EN#208671/people un garçon pieds nus] avec [/EN#208674/other une serviette rayée bleue et blanche] est debout sur [/EN#208672/scene la plage] .
+val**763**e** [/EN#209702/people un couple et deux filles] regardent par-dessus [/EN#209704/other une balustrade transparente] .
+val**764**e** [/EN#209923/people des gens] dans [/EN#209922/scene un magasin] choisissant [/EN#209924/other des produits] à acheter
+val**765**e** [/EN#210273/people un tatoueur] applique [/EN#210277/other un tatouage à l' encre] sur [/EN#210279/clothing la peau] .
+val**766**e** [/EN#210938/people une femme] debout à côté de [/EN#210942/people deux personnes] pointe le doigt vers [/EN#210945/scene le ciel] .
+val**767**e** [/EN#211042/people un couple] marche dans [/EN#211045/other un rayon] d' [/EN#211039/scene un magasin] vendant [/EN#211046/other des livres d' art] et [/EN#211040/other d' histoire] .
+val**768**e** [/EN#211495/people un homme] avec [/EN#211496/other un badge] est assis dans [/EN#211498/other un fauteuil] .
+val**769**e** [/EN#211813/people un homme [/EN#0/notvisual au loin] près d' [/EN#211811/scene un temple bouddhiste] .
+val**770**e** [/EN#212067/people un homme] tient [/EN#212068/other une boule métallique] en équilibre sur [/EN#212069/bodyparts/people son bras] .
+val**771**e** [/EN#212288/people un homme noir] en [/EN#212295/clothing t-shirt blanc] et [/EN#212289/clothing casquette noire] assis sur [/EN#212290/other le trottoir] , envoyant un texto .
+val**772**e** [/EN#212682/people un garçon] en [/EN#212684/clothing chemise noire] portant [/EN#212685/other un seau bleu] tandis qu' il marche avec [/EN#212687/people des hommes] vêtus de [/EN#212688/clothing blanc] .
+val**773**e** [/EN#213446/people une jeune femme aux cheveux foncés] avec [/EN#213453/other une visière rouge] , tenant [/EN#213447/clothing un parapluie blanc ouvert] au milieu d' [/EN#213449/people une foule de personnes]
+val**774**e** [/EN#213574/people un homme] tenant [/EN#213580/people un petit enfant [/EN#0/notvisual qui] porte [/EN#213576/clothing un sac à dos] .
+val**775**e** [/EN#213680/people un jeune homme] installe [/EN#213685/other des boules de billard] , sur un tapis de [/EN#213684/other billard [/EN#213684/clothing violet] .
+val**776**e** [/EN#213959/people des filles] assises avec [/EN#213969/bodyparts les mains] sur [/EN#213970/bodyparts les genoux]
+val**777**e** [/EN#214208/people une fille] en [/EN#214209/clothing débardeur noir] et [/EN#214215/clothing short cargo] semble être en train de danser avec [/EN#214213/people plusieurs personnes] autour .
+val**778**e** [/EN#214299/people un garçon] et [/EN#214306/people une fille] en [/EN#214307/clothing survêtements noirs] sont debout face à [/EN#214304/people une fille] en [/EN#214305/clothing veste rose] , avec [/EN#214303/people des adultes] en [/EN#0/notvisual arrière-plan] .
+val**779**e** [/EN#214447/people un homme] et [/EN#214438/people une femme] avec [/EN#214442/other des poussettes] marchent près [/EN#214439/people de gens [/EN#0/notvisual qui] vendent [/EN#214451/other des articles] dans [/EN#214444/scene des tentes] .
+val**780**e** [/EN#214721/people une femme] en [/EN#214736/other collants rayés] est dirigée par [/EN#214722/people des ficelles] .
+val**781**e** [/EN#215139/people un ouvrier du bâtiment] en [/EN#215140/clothing gilet orange] pose [/EN#215141/other des pavés] .
+val**782**e** [/EN#215178/people une femme asiatique] assise devant [/EN#215182/scene un étal de marché extérieur] .
+val**783**e** [/EN#215774/people un homme] paresse dans [/EN#215777/scene sa chambre] , sans avoir mangé depuis [/EN#215778/scene plusieurs jours] .
+val**784**e** [/EN#216187/vehicles une remorque] roule sur [/EN#216188/scene une route pavée rouge] .
+val**785**e** [/EN#216204/people une jeune femme] avec [/EN#216208/bodyparts des cheveux bruns] et [/EN#216206/clothing un débardeur] prend [/EN#216207/other une photo] avec [/EN#216205/other un appareil photo] .
+val**786**e** [/EN#216801/people une personne] allongée sur [/EN#216804/other un banc] devant de [/EN#216806/other l' eau] .
+val**787**e** [/EN#216934/people un jeune homme souriant] , marchant au bord de [/EN#216939/scene la plage] avec [/EN#216935/clothing une casquette] , [/EN#216938/clothing un t-shirt bleu] et [/EN#216941/clothing un jean] .
+val**788**e** [/EN#217125/people un groupe de personnes] saluant [/EN#217126/people quelqu' un] sur [/EN#217130/scene un balcon] .
+val**789**e** [/EN#217637/people un homme en uniforme [/EN#217637/people militaire] entraîne [/EN#217639/animals/people un berger allemand] en utilisant [/EN#217637/people un protège-bras] .
+val**790**e** [/EN#217693/people un enfant] sur une [/EN#217696/other rampe de skateboard , répétant des mouvements cools] .
+val**791**e** [/EN#217968/people des hommes] semblent discuter de [/EN#217972/other quelque chose] sur [/EN#217970/other un bateau ou un navire] .
+val**792**e** [/EN#218206/people un homme] portant [/EN#218208/clothing un bonnet] et [/EN#218211/clothing des lunettes d' aviateur] est assis sur [/EN#218210/scene la route] .
+val**793**e** [/EN#218257/people des gens] traversent [/EN#218258/scene une rue] bordée [/EN#218263/other d' arbres] devant [/EN#218256/scene un bâtiment] .
+val**794**e** [/EN#218496/people un homme] vêtu d' [/EN#218498/clothing une chemise grise] posant [/EN#218500/bodyparts sa tête] sur [/EN#218497/other une table] .
+val**795**e** [/EN#218946/people un homme] en [/EN#218954/clothing t-shirt blanc] et [/EN#218952/clothing short noir] travaille dehors .
+val**796**e** [/EN#219396/people une femme] en [/EN#219399/clothing pantalon noir] regarde [/EN#0/notvisual son [/EN#219397/other téléphone portable] .
+val**797**e** [/EN#219700/people une jeune femme] en [/EN#219708/clothing débardeur rose] tentant d' attraper [/EN#219701/animals un veau] au lasso lors d' [/EN#219705/other un rodéo] .
+val**798**e** [/EN#220115/people une famille] est debout dehors lors d' [/EN#220119/scene une journée nuageuse] .
+val**799**e** [/EN#220188/people un très jeune enfant] est assis dans [/EN#220191/other l' évier] avec de [/EN#220189/other la peinture] sur [/EN#220196/bodyparts son corps] et [/EN#220192/bodyparts son visage] , et il joue avec [/EN#220190/other le robinet de la cuisine] .
+val**800**e** [/EN#220594/people des enfants] tournant dans [/EN#220595/people un tourniquet en verre] .
+val**801**e** [/EN#220862/people un homme] et [/EN#220866/people une femme] brandissent [/EN#220867/other des pancartes] lors d' [/EN#220864/other une manifestation] .
+val**802**e** [/EN#220916/people une femme] travaillant sur [/EN#220918/other sa terrasse [/EN#220924/other le week-end] .
+val**803**e** [/EN#221073/people un homme âgé] , habillé en [/EN#221081/clothing bleu marine] , est assis sur [/EN#221074/other un banc] le long de [/EN#221076/scene la rue] .
+val**804**e** [/EN#221424/people une femme] prend [/EN#221427/other une photo] avec [/EN#221425/other son appareil] .
+val**805**e** [/EN#221905/people un homme âgé] en [/EN#221910/clothing jean] et [/EN#221906/clothing manteau marron] se repose contre [/EN#221907/scene un bâtiment orange] .
+val**806**e** [/EN#222387/people un homme] , [/EN#222392/bodyparts une main] sur [/EN#222390/bodyparts la tête] , regarde [/EN#222395/other une publicité pour la bank of america] .
+val**807**e** [/EN#222505/people deux femmes] assises sur [/EN#222506/other un banc [/EN#222510/scene la nuit] devant [/EN#222507/scene un magasin]
+val**808**e** [/EN#223043/people un homme] en [/EN#223052/clothing t-shirt blanc] est assis sur [/EN#223045/other une caisse] .
+val**809**e** [/EN#223121/people un vieil homme] avec [/EN#223124/bodyparts des tatouages] et [/EN#223122/clothing des insignes de motard] s' attarde [/EN#223126/other un moment] dans [/EN#223125/scene une rue en ville] .
+val**810**e** [/EN#223338/people un homme] est assis seul , pêchant [/EN#223342/scene le long du littoral] .
+val**811**e** [/EN#223531/people un vieil homme] est assis dehors sur [/EN#223534/other un banc [/EN#223543/scene devant [/EN#223532/other une grande banderole] où est écrit " [/EN#223532/other memoria justicia sin olvido] "
+val**812**e** [/EN#223824/people un homme] en [/EN#223833/clothing veste grise] sur [/EN#223826/vehicles un vélo] transporte [/EN#223827/other de la verdure] .
+val**813**e** [/EN#223897/people un garçon] avec [/EN#223900/clothing des lunettes] vêtu d' [/EN#223898/clothing un t-shirt jaune] vif est debout sur [/EN#223899/scene un parking] .
+val**814**e** [/EN#224287/people deux hommes] marchant sur [/EN#224292/scene un chemin en terre] .
+val**815**e** [/EN#224295/people une mère] portant [/EN#224297/clothing un béret] et [/EN#224300/clothing des chaussures bleus] avec [/EN#224301/people ses deux fils] .
+val**816**e** [/EN#224438/animals deux chiens] jouant avec [/EN#224439/other un ballon bleu et vert] .
+val**817**e** [/EN#224556/people un homme] portant [/EN#224557/clothing un casque multicolore brillant] est assis sur [/EN#224558/other une moto] .
+val**818**e** [/EN#224973/people un homme] est accroupi devant [/EN#224978/other un mur jaune] .
+val**819**e** on dirait [/EN#225600/scene un marché paysan] , et [/EN#225601/other quelques tables] avec [/EN#225608/other divers produits] exposés .
+val**820**e** [/EN#225724/people un garçon blond] en [/EN#225726/clothing t-shirt bleu] est assis avec [/EN#225725/people une femme] portant [/EN#225729/clothing des lunettes] .
+val**821**e** [/EN#225822/people un homme] avec [/EN#225825/clothing une chemise blanche élégante] regarde fixement [/EN#225828/bodyparts les yeux de la femme] , tout en tenant [/EN#225824/clothing le dos de sa robe rose et noire] .
+val**822**e** [/EN#226060/people des gens] jouent dans [/EN#226062/scene une fontaine] au [/EN#226064/other crépuscule] .
+val**823**e** [/EN#226089/people quatre garçons] posant tandis que [/EN#226093/people l' un] pose [/EN#226090/other sa boisson] .
+val**824**e** dans [/EN#226144/scene une rue très fréquentée] , [/EN#226142/people une femme] porte [/EN#226143/other des produits] sur [/EN#226147/bodyparts sa tête] .
+val**825**e** [/EN#226175/people un artiste de rue] en [/EN#226178/clothing combinaison orange] est sur [/EN#226177/vehicles un grand monocycle] tandis qu' [/EN#226176/people une foule] regarde
+val**826**e** [/EN#226351/people une personne] assise sur [/EN#226354/other une chaise] devant [/EN#226353/people une foule] .
+val**827**e** [/EN#227022/people un homme] attend que [/EN#227026/vehicles/scene le train] arrive sur [/EN#227024/other le quai] .
+val**828**e** [/EN#227552/people trois hommes blancs] en [/EN#227558/clothing t-shirts] sautent en [/EN#0/notvisual l' air] .
+val**829**e** [/EN#227631/people un chanteur [/EN#227631/people plongeant de la scène] dans [/EN#227632/people la foule] .
+val**830**e** [/EN#227688/people une classe] de plongée prenant [/EN#227686/other une photo] pendant [/EN#227689/other le cours] .
+val**831**e** [/EN#228589/people une femme] en [/EN#228590/clothing polo rayé] croise [/EN#228593/bodyparts les bras] tout en étant debout dans [/EN#228591/scene un supermarché] .
+val**832**e** [/EN#229440/vehicles une voiture écrasée] avec [/EN#229437/people de nombreux pompiers [/EN#229440/vehicles la] découpant .
+val**833**e** [/EN#229484/people plusieurs personnes] attendent pour passer à la caisse dans [/EN#229486/scene un magasin] avec un plafond ressemblant à celui d' [/EN#229483/scene un entrepôt] .
+val**834**e** [/EN#229667/people deux filles] jouant au [/EN#229668/other volleyball] , [/EN#229666/other l' une] frappant [/EN#229668/other le ballon] .
+val**835**e** [/EN#229791/people un homme] âgé verse [/EN#229794/other quelque chose] se trouvant dans [/EN#229792/clothing un sac] dans [/EN#229793/scene l' eau] .
+val**836**e** [/EN#230400/people six personnes] sont dans [/EN#230401/scene un gymnase] , en train de réparer [/EN#230403/vehicles des vélos] .
+val**837**e** [/EN#231152/people deux jeunes garçons asiatiques] se battent [/EN#0/notvisual l' un contre l' autre] .
+val**838**e** [/EN#231158/people une femme] prépare [/EN#231163/other des ingrédients] pour [/EN#231164/other un bol de soupe] .
+val**839**e** [/EN#231415/people deux hommes] en [/EN#231418/clothing shorts] travaillant sur [/EN#231416/vehicles un vélo bleu] .
+val**840**e** [/EN#231450/people un homme] et [/EN#231456/people une femme] faisant [/EN#231454/other une sieste] sur [/EN#231457/scene un radeau de fortune] .
+val**841**e** [/EN#0/notvisual il] y a [/EN#231610/people un homme] enveloppé dans [/EN#231613/other une sorte de couverture] , glissant sur [/EN#231611/scene une pente] recouverte de [/EN#231614/scene neige] .
+val**842**e** [/EN#231860/people un homme] et [/EN#231861/people une femme] appréciant [/EN#231871/other un dîner] lors d' [/EN#231866/other une fête] .
+val**843**e** [/EN#231973/people un soldat de la garde nationale] menant [/EN#231972/people un groupe d' autres soldats de la garde nationale] qui chantent [/EN#231974/other l' hymne national] .
+val**844**e** [/EN#232487/people deux jeunes] marchent dans [/EN#232490/scene une rue en pente] .
+val**845**e** [/EN#232668/people une femme] dans [/EN#232677/scene un restaurant] , est en train de boire [/EN#232669/other une noix de coco] , à l' aide d' [/EN#232674/other une paille] .
+val**846**e** [/EN#232842/people une femme] portant [/EN#232846/clothing un uniforme bleu] est debout et regarde vers le bas .
+val**847**e** [/EN#232853/people un homme] en [/EN#232866/clothing short] parle à [/EN#232857/people un autre homme] en [/EN#232859/clothing jean] devant [/EN#232858/other un évier] .
+val**848**e** [/EN#232894/people un homme] nourrissant [/EN#232895/people un bébé] dans [/EN#232896/other une chaise haute] .
+val**849**e** [/EN#233208/people un jeune cycliste portant un casque] habillé de [/EN#233217/clothing bleu] s' envole en [/EN#0/notvisual l' air] en passant sur [/EN#233210/scene de petites collines] .
+val**850**e** [/EN#233708/people un petit bébé] avec [/EN#233710/clothing un chapeau rose] allongé [/EN#233711/other nue] en train de dormir .
+val**851**e** [/EN#233952/people deux enfants] sont allongés [/EN#233955/other à plat ventre] par [/EN#0/notvisual terre] sous [/EN#233953/other un tuyau] .
+val**852**e** [/EN#234510/people deux personnes] parlent près d' [/EN#234511/scene une cabine téléphonique rouge] tandis que [/EN#234512/people des ouvriers du bâtiment] se reposent à proximité .
+val**853**e** [/EN#235171/people une femme autochtone] travaille sur [/EN#235172/other un projet artisanal] .
+val**854**e** [/EN#235374/people des enfants] courant après [/EN#235376/other le ballon] lors d' [/EN#235377/other un match de football] .
+val**855**e** [/EN#235610/people deux enfants] sautant sur [/EN#235613/other un trampoline protégé bleu et noir] , situé [/EN#235611/scene dehors] et entouré [/EN#235614/other d' arbres] .
+val**856**e** [/EN#236324/animals deux chiens] courent dans [/EN#236325/scene un champ] , regardant [/EN#236327/other un frisbee invisible] .
+val**857**e** [/EN#236443/people un batteur] et [/EN#236444/people un guitariste] font [/EN#236449/other un concert] dans [/EN#236445/scene un endroit sombre] .
+val**858**e** [/EN#236714/people trois personnes] font une randonnée sur [/EN#236711/scene un chemin très enneigé] .
+val**859**e** [/EN#236916/people un groupe de gens] sont près d' [/EN#236917/scene une petite rivière] au [/EN#236918/scene milieu d' une ville] .
+val**860**e** [/EN#237109/people une femme] jette un coup d " œil dans [/EN#237111/other un télescope] dans [/EN#237110/other les bois] .
+val**861**e** [/EN#237643/people une petite fille blonde] avec [/EN#237644/clothing une t-shirt à pois] donne [/EN#237653/other un " bain] " à [/EN#237649/animals un animal en peluche] dans [/EN#237645/other un évier] .
+val**862**e** [/EN#237902/people un jeune homme hirsute] avec un piercing [/EN#237903/bodyparts au nez] se brosse [/EN#237904/bodyparts les dents] .
+val**863**e** [/EN#238246/people un skieur] vole dans [/EN#0/notvisual les airs] , tandis que [/EN#238249/people d' autres skieurs] prenant [/EN#238252/other le tire-fesse] le regardent .
+val**864**e** [/EN#238379/people trois filles] font de l' équitation , avec la photo centrée sur [/EN#238378/people la plus jeune] .
+val**865**e** [/EN#238585/people une femme corpulente] soufflant dans [/EN#238588/bodyparts ses cheveux] avec [/EN#238586/other un sèche-cheveux] , souriante et [/EN#238590/other très heureuse]
+val**866**e** [/EN#239521/people un cuisinier] travaillant dans [/EN#239523/scene une cuisine] avec [/EN#239525/other un couteau] .
+val**867**e** [/EN#239880/people un homme] déplaçant [/EN#239884/other des fleurs] tandis qu' [/EN#239881/people une femme [/EN#0/notvisual lui] fait [/EN#239885/other un geste] .
+val**868**e** [/EN#240125/people une femme] chantant dans [/EN#240128/other un micro] tandis qu' [/EN#240126/people un homme] joue de [/EN#240129/instruments la batterie] en [/EN#0/notvisual arrière-plan] .
+val**869**e** [/EN#240563/people l' homme] avec [/EN#240565/clothing la casquette] donne [/EN#240566/animals un poisson fraîchement pêché] au [/EN#240564/people garçon] en [/EN#240568/clothing chapeau violet] .
+val**870**e** [/EN#241391/people un ouvrier] se cramponnant à [/EN#241393/other un arbre] .
+val**871**e** [/EN#241631/people plusieurs personnes] debout autour d' [/EN#241632/other un récipient] , dans [/EN#0/notvisual lequel [/EN#241630/people un homme] manipule [/EN#241633/other un objet marron] .
+val**872**e** [/EN#241718/people un moine faisant du roller] avec [/EN#241724/clothing de belles lunettes] de soleil prie avant de faire [/EN#0/notvisual des figures insensées] .
+val**873**e** [/EN#241790/people une femme] avec [/EN#241800/clothing des lunettes de soleil] et [/EN#241791/clothing un t-shirt bleu] , qui vend [/EN#241802/animals des coquillages] , regarde [/EN#241789/people un vieil homme] portant [/EN#241794/clothing un t-shirt noir] et [/EN#241792/clothing une casquette] .
+val**874**e** [/EN#241946/people un vieil homme] balaie [/EN#241950/scene le sol] tandis qu' [/EN#241947/people une femme] s' éloigne de [/EN#0/notvisual l' objectif] .
+val**875**e** [/EN#242259/people un homme] avec [/EN#242267/bodyparts des dreadlocks] joue avec [/EN#242264/people les cheveux d' une femme [/EN#0/notvisual qui] est assise sur [/EN#242262/other une chaise] dans [/EN#242266/scene une rue pavée] .
+val**876**e** [/EN#243131/people un homme] travaille sur [/EN#243134/scene un chantier] .
+val**877**e** [/EN#243877/people un homme] est [/EN#243886/scene en train] de frapper [/EN#243879/other un ballon de volley rouge , blanc et bleu] .
+val**878**e** [/EN#244976/people un homme] est debout dans [/EN#244980/scene un food truck] , regardant par [/EN#244977/other la demi-porte] .
+val**879**e** [/EN#245019/people un joueur de baseball] avec [/EN#245026/clothing un casque rouge] et [/EN#245035/clothing un pantalon blanc] est touché par [/EN#245020/people le receveur] tandis qu' il court vers [/EN#245023/other le marbre] .
+val**880**e** [/EN#245209/people un homme] en [/EN#245210/clothing toge orange] balayant [/EN#245215/scene dehors] .
+val**881**e** [/EN#245682/people un homme] vêtu d' [/EN#245684/clothing un t-shirt violet] travaillant dans [/EN#245683/animals/scene un laboratoire de biologie] .
+val**882**e** [/EN#246013/people un homme [/EN#246020/other promène [/EN#246015/animals deux petits poneys] dans [/EN#246014/scene un parc] .
+val**883**e** [/EN#246131/people deux filles] , [/EN#246130/other une [/EN#246130/other allemande] et [/EN#246128/other une [/EN#246136/other chinoise] , s' affrontent lors d' [/EN#246134/other un combat de judo] sur [/EN#246137/other un tapis] .
+val**884**e** [/EN#246425/people un homme] et [/EN#246428/people une femme] dormant sur [/EN#246427/other un banc] .
+val**885**e** [/EN#247055/people un homme] et [/EN#247057/people une femme] sont assis sur [/EN#247058/scene le sol] devant [/EN#247056/other des bagages] .
+val**886**e** [/EN#247093/people un conducteur de pousse-pousse] attendant [/EN#247093/people son prochain client] .
+val**887**e** [/EN#247629/people deux filles] sont assises à [/EN#247630/other une table] et travaillent sur [/EN#247632/other des projets artisanaux] .
+val**888**e** [/EN#247682/people un homme] court dans [/EN#247683/scene la neige] avec [/EN#247689/clothing des raquettes] .
+val**889**e** [/EN#247873/people une danseuse] en [/EN#247878/clothing costume rouge] saute en [/EN#0/notvisual l' air] .
+val**890**e** [/EN#248020/people un homme] est garé tout en étant à l' intérieur d' [/EN#248023/vehicles un camion d' assainissement] .
+val**891**e** [/EN#248061/people un homme barbu] avec [/EN#248063/clothing une veste épaisse] est assis dans [/EN#248062/scene un coin] avec [/EN#248067/other un gobelet en carton] .
+val**892**e** [/EN#248899/people un homme] en [/EN#248904/other skateboard] , utilisant [/EN#248903/scene une piscine vide] comme [/EN#248907/scene rampe] lors d' [/EN#248902/scene une très belle journée] .
+val**893**e** [/EN#249181/people un homme] avec [/EN#249182/clothing un grand chapeau] dans [/EN#249184/scene les buissons] .
+val**894**e** [/EN#249282/people un gros plan du [/EN#249287/bodyparts visage d' un enfant] mangeant [/EN#249284/other une sucette [/EN#249284/clothing bleue] en forme de [/EN#249284/other cœur] .
+val**895**e** [/EN#249472/people un homme] et [/EN#249477/people une femme] remplacent [/EN#249473/other une chambre à air de vélo] .
+val**896**e** [/EN#249526/people un jeune garçon] montre [/EN#249527/clothing son collier de perles marron et vertes] .
+val**897**e** [/EN#249640/people un homme] vêtu d' [/EN#249647/clothing un t-shirt gris] actionne [/EN#249649/other le soufflet] pour démarrer [/EN#249653/other un feu] sur [/EN#249646/other un four en briques] dans [/EN#249643/scene une cabane en bois] .
+val**898**e** [/EN#249691/people une femme] debout devant [/EN#249693/other des arbres] et souriant .
+val**899**e** [/EN#249709/people quelqu' un] en [/EN#249710/clothing costume asiatique] est assis et tient [/EN#249714/other une épée] .
+val**900**e** [/EN#249816/people un jeune footballeur] américain se prépare pour [/EN#249817/other un field goal] .
+val**901**e** [/EN#250199/people un mec] dans [/EN#250201/clothing un sweat à capuche vert vif] traverse [/EN#250203/scene un passage] piéton en regardant [/EN#250202/other un accident] entre [/EN#250210/vehicles une voiture] et [/EN#250204/vehicles un vélo] .
+val**902**e** [/EN#250463/people un jeune homme] s' apprête à tirer dans [/EN#250465/other un ballon de foot] .
+val**903**e** [/EN#250577/people un coureur de compétition] faisant [/EN#250585/other son premier sprint] dans [/EN#250581/other une compétition] .
+val**904**e** [/EN#250717/people deux hommes] , l' [/EN#250720/other un [/EN#250729/other en bleu et l' autre] en [/EN#250719/clothing rouge] , combattent dans [/EN#250725/other un match de boxe] .
+val**905**e** [/EN#251142/people un groupe d' amis] gis sur [/EN#251143/scene le plancher] de s' amusant ensemble .
+val**906**e** [/EN#251237/people un homme debout] tient [/EN#251239/other un micro] devant [/EN#251237/people un homme] tenant [/EN#251242/instruments une guitare] .
+val**907**e** [/EN#251324/people une fille faisant du roller derby] patine avec [/EN#251327/other d' autres] .
+val**908**e** [/EN#251368/people une femme] prenant [/EN#251373/other un sac de glace] dans [/EN#251370/scene un magasin] .
+val**909**e** [/EN#251483/people deux motards] font la course au [/EN#251490/bodyparts coude] à [/EN#251491/bodyparts coude] dans [/EN#251486/scene un virage] .
+val**910**e** [/EN#251492/people un homme] seul sur [/EN#251495/scene un trottoir] réajustant [/EN#251494/clothing son chapeau] .
+val**911**e** [/EN#252630/people un homme [/EN#252638/other handicapé [/EN#0/notvisual qui] n' a pas de [/EN#252635/bodyparts jambes] marche avec [/EN#252633/people un autre homme [/EN#0/notvisual qui] se lance dans [/EN#252634/other un marathon] .
+val**912**e** [/EN#253245/bodyparts plusieurs mecs] entrent en collision dans [/EN#253236/other un match de football] .
+val**913**e** [/EN#253604/people deux personnes] , l' [/EN#253613/other une] vêtue comme [/EN#253611/people une religieuse] et [/EN#253610/other l' autre] en [/EN#253605/clothing t-shirt] " [/EN#253619/other roger] smith " , engagées dans [/EN#253607/other une course à pied] , dépassant [/EN#253603/people les spectateurs] dans [/EN#253608/scene une zone boisée] .
+val**914**e** [/EN#253701/people trois jockeys] pendant [/EN#253702/other une course] .
+val**915**e** [/EN#253762/people un homme de couleur] en [/EN#253769/clothing chemise blanche] et [/EN#253763/clothing un t-shirt sans manches noir] fait sauter [/EN#253765/other son skateboard] sur [/EN#253764/scene une surface cimentée] entourée de [/EN#253768/scene hauts bâtiments] et de [/EN#253776/other palmiers] .
+val**916**e** [/EN#254000/people un homme] , vêtu d' [/EN#254004/clothing un sweat-shirt à capuche] , assis à [/EN#254001/scene une fontaine] à regarder [/EN#254008/scene les gens dans la ville] .
+val**917**e** [/EN#254240/people des nageurs] sont à [/EN#254245/other différents niveaux d' un grand complexe de plongées] dans [/EN#254244/scene une pièce] avec [/EN#254241/other des représentations] de [/EN#254248/other la mythologie] peintes sur [/EN#254249/other le mur] .
+val**918**e** [/EN#254474/people un jeune garçon indien] assis à [/EN#254482/other réfléchir] sur [/EN#254479/other son avenir] .
+val**919**e** [/EN#254493/people un garçon] en [/EN#254497/clothing sweat à capuche] est en train de jeter [/EN#254495/other un objet] dans [/EN#254494/scene une piscine sale] .
+val**920**e** [/EN#254918/people des hommes en costumes colorés] pendant [/EN#254919/other un spectacle] .
+val**921**e** [/EN#255028/people deux boxeurs] sont prêts à [/EN#255033/other combattre] pendant que [/EN#255031/people le public] regarde [/EN#255032/other avec impatience] .
+val**922**e** [/EN#255241/people les enfants] jouent à [/EN#255243/other un sport] sur [/EN#255244/scene un terrain] .
+val**923**e** [/EN#255326/people une artiste] chante et joue de [/EN#255327/instruments la guitare] devant [/EN#255328/other un micro] .
+val**924**e** [/EN#255357/other des garçons] concourent à [/EN#255359/other un art martial] .
+val**925**e** [/EN#255705/people un groupe de personnes noires] en [/EN#255710/clothing chemises oranges] en face d' [/EN#255708/scene un parc clôturé] .
+val**926**e** [/EN#255772/people des écolières] en [/EN#255780/other uniforme défilent] dans [/EN#255774/people un défilé] en jouant d' [/EN#255775/instruments un instrument ressemblant à une flute] .
+val**927**e** [/EN#256215/people un homme] fourre [/EN#256216/animals une volaille] avec [/EN#256217/other des ingrédients] qui sont dans [/EN#256218/other un bol bleu] .
+val**928**e** [/EN#256444/people le garçon] saute de [/EN#256446/other son lit] en faisant [/EN#256445/other un coup de pied de karaté] .
+val**929**e** [/EN#256451/people un bébé] dans [/EN#256452/scene un siège rebondissant] et [/EN#256451/people un garçon] entourés [/EN#256463/other de jouets] .
+val**930**e** [/EN#0/notvisual ce sont [/EN#256656/people des gens] réunis autour de [/EN#256661/other la table] jouant à [/EN#256651/other jenga] .
+val**931**e** [/EN#0/notvisual je] vois [/EN#256714/people un homme barbu] et [/EN#256717/people une dame âgée] partageant [/EN#256715/other un bol de nourriture] .
+val**932**e** [/EN#256893/people un jeune homme] fait du skateboard sur [/EN#256894/other un mur de parpaings] .
+val**933**e** [/EN#257422/people des gens] faisant du bateau sur [/EN#257424/scene un lac] avec [/EN#257425/other le soleil] traversant [/EN#257426/other les nuages [/EN#0/notvisual au loin] .
+val**934**e** [/EN#257495/people deux hommes] portant [/EN#257504/clothing des kimonos] s' exercent aux [/EN#257503/other arts martiaux] .
+val**935**e** [/EN#258140/people a boys band] et ils ne sont même pas assortis , [/EN#258148/people quelqu' un] aurait pu leur dire .
+val**936**e** [/EN#258292/people un groupe de pilotes de kart] font une course autour d' [/EN#258295/scene une piste de karting] .
+val**937**e** [/EN#258759/people une personne] vêtue [/EN#258764/clothing de vêtements d' hiver] prend la pose avec [/EN#258760/other un bonhomme de neige] au milieu d' [/EN#258766/scene un paysage enneigé] .
+val**938**e** [/EN#258965/people un homme] est en train de donner [/EN#258968/other une présentation] devant [/EN#258967/people un public] .
+val**939**e** [/EN#258973/people un homme d' âge mûr] est tapote [/EN#258978/people le genou d' un jeune joueur de football [/EN#0/notvisual qui] est assis sur [/EN#258976/other une table d' entraînement] .
+val**940**e** [/EN#259004/people un homme tatoué] , vêtu d' [/EN#259010/clothing une salopette] , sur [/EN#259009/scene une scène] tenant [/EN#259007/other un micro] .
+val**941**e** [/EN#260109/people une petite fille] joue avec [/EN#260110/scene un circuit électrique miniature] , composé de [/EN#260118/other trois ampoules électriques] et d' [/EN#260111/other une batterie]
+val**942**e** [/EN#260608/people un homme] à [/EN#260609/vehicles vélo] portant [/EN#260610/clothing un casque bleu] s' insère dans [/EN#260611/vehicles la circulation] .
+val**943**e** [/EN#261568/other une bande de jeunes adultes] , en pleine [/EN#261576/other concentration] , regardent fixement [/EN#261574/other leurs écrans d' ordinateur] pendant [/EN#261575/other une compétition de jeu] .
+val**944**e** [/EN#261970/people un jeune garçon] en [/EN#261975/clothing vert] jongle dans [/EN#261971/scene un parking] .
+val**945**e** [/EN#262651/people une petite fille] dans [/EN#262655/clothing une robe à poids] regarde en arrière [/EN#262652/people vers une femme] en [/EN#262654/clothing robe noire] .
+val**946**e** [/EN#262742/people un homme] règle [/EN#262743/vehicles/scene le moteur d' un bateau] près de [/EN#262748/scene l' eau] .
+val**947**e** [/EN#0/notvisual il] y a [/EN#262782/other un match de tennis] en train d' être joué [/EN#262785/scene de nuit] dans [/EN#262781/scene ce stade] .
+val**948**e** [/EN#263131/people un enfant faisant du snowboard] en train de [/EN#263134/other s' arrêter]
+val**949**e** [/EN#264030/other un match de football] se joue et [/EN#264038/people deux hommes] tentent d' atteindre [/EN#264031/other le ballon] avant [/EN#264033/people leur adversaire respectif] .
+val**950**e** [/EN#264770/people de jeunes femmes] et [/EN#264769/people des enfants] dans [/EN#264776/scene un village] , avec [/EN#264765/people une femme] au centre de [/EN#0/notvisual l' objectif] .
+val**951**e** [/EN#264831/people un jeune enfant] en [/EN#264834/clothing maillot verte] se brosse [/EN#264835/bodyparts les dents] avec [/EN#264837/other une brosse à dents jaune] , tout en étant supervisé par [/EN#264832/people maman] .
+val**952**e** [/EN#265818/people un homme] en [/EN#265821/other fauteuil roulant] et portant [/EN#265820/clothing un costume de jogging] rouge porte [/EN#265819/other une torche] olympique .
+val**953**e** [/EN#265917/people un fils] et [/EN#265915/people ses parents] prennent [/EN#265920/other une photo de groupe] dans [/EN#265914/scene une église] .
+val**954**e** [/EN#266030/people trois hommes] participent à [/EN#266031/other une course d' obstacles] .
+val**955**e** [/EN#266089/people deux hommes] observent [/EN#0/notvisual un autre] alors qu' [/EN#0/notvisual il] met [/EN#266093/other la touche finale] au [/EN#266099/other ciment humide] .
+val**956**e** [/EN#266591/people un soldat] regarde dans [/EN#266594/other les jumelles] vers [/EN#266592/scene le paysage montagneux] .
+val**957**e** [/EN#267195/other un groupe de jeunes garçons] courant pendant [/EN#267197/scene un jour enneigé] .
+val**958**e** [/EN#267765/people un homme] saute à [/EN#267768/other la corde] tandis qu' [/EN#267767/people une foule de personnes] le regardent .
+val**959**e** [/EN#267815/people un jeune garçon] et [/EN#267814/people une jeune fille] rient ensemble tandis que [/EN#267814/people la fille] fait [/EN#267820/other un signe de main] .
+val**960**e** [/EN#267857/people deux hommes] de deux [/EN#267870/other équipes adverses courent] vers [/EN#267863/other un ballon de football] .
+val**961**e** [/EN#267935/people un cycliste] portant [/EN#267939/clothing un maillot jaune] réalise [/EN#0/notvisual un tour incroyable] dans [/EN#0/notvisual l' air] .
+val**962**e** [/EN#268672/people deux kickboxers femelles] , l' [/EN#268671/other une] avec [/EN#268676/clothing un bustier pourpre] , s' affrontent dans [/EN#268685/scene une arène] .
+val**963**e** [/EN#269330/people deux hommes] sur [/EN#269331/other des motos rapides] accélèrent autour d' [/EN#269334/scene un coin] sur [/EN#269336/other un circuit] .
+val**964**e** [/EN#269422/people deux hommes] défendent contre [/EN#269416/people l' homme] avec [/EN#269421/other le basket-ball] pendant [/EN#269419/other un jeu] au [/EN#269425/other crépuscule] .
+val**965**e** [/EN#269754/people un homme] portant [/EN#269761/clothing des bottes d' équitation] et [/EN#269756/clothing un casque] montant sur [/EN#269755/animals un cheval blanc] qui saute [/EN#269757/other un obstacle] .
+val**966**e** [/EN#270004/people un groupe d' hommes] en [/EN#270005/clothing costume] jouent de [/EN#270008/other la musique] .
+val**967**e** [/EN#270122/people l' homme] et [/EN#270124/people les femmes] regardent à travers [/EN#270129/other des caisses de lait] pleines de [/EN#270125/other disques ou d' images] en [/EN#270130/other vente] .
+val**968**e** [/EN#270159/vehicles un catamaran de course] est soulevé sur [/EN#270164/other une seule coque] dans [/EN#270161/scene l' eau] .
+val**969**e** [/EN#270824/people un groupe de marines] marchant dans [/EN#270826/scene la route] avec [/EN#270828/other des drapeaux américains] et [/EN#270831/other d' autres drapeaux militaires] .
+val**970**e** [/EN#270857/people un homme] tenant [/EN#270859/other un verre] d' alcool face [/EN#0/notvisual au caméra] .
+val**971**e** [/EN#271006/people un homme] sur [/EN#271008/scene scène] , jouant de [/EN#271007/instruments la guitare] avec [/EN#271010/other des lumières] en [/EN#0/notvisual arrière-plan] .
+val**972**e** [/EN#271101/people quatre jeunes enfants] jouent avec [/EN#271102/other des bidons vides] .
+val**973**e** [/EN#271220/people un groupe de travailleurs] écoute [/EN#271225/other les instructions] d' [/EN#271224/people un collègue] .
+val**974**e** [/EN#271268/people un mannequin] monte [/EN#271269/other un grand tracteur] vert sur [/EN#271274/scene la route] lors d' [/EN#271271/people un défilé] .
+val**975**e** [/EN#271487/animals trois chiens] jouent dans [/EN#271488/scene l' eau] .
+val**976**e** [/EN#271505/people un homme] joue [/EN#271507/instruments du tambour] et [/EN#271506/people un petit garçon] frappe sur [/EN#271509/instruments son propre petit tambour] .
+val**977**e** [/EN#272471/people un groupe de filles] jouant [/EN#272472/other un jeu] à [/EN#272474/other cheval] .
+val**978**e** [/EN#272565/people un homme] qui regarde pendant qu' [/EN#272566/people une femme] tire [/EN#272568/other un fusil] avec [/EN#272573/bodyparts un sourire] à [/EN#272567/scene un champ de tir] .
+val**979**e** [/EN#273025/other le leader de vélo] pédales pour [/EN#273029/other sa vie] puisque [/EN#273027/other les pays concurrents] le rejoignent .
+val**980**e** [/EN#273188/people une équipe de joueurs de football] sont entassés et [/EN#273188/other discutent sérieusement] .
+val**981**e** [/EN#273582/people un groupe de personnes] en [/EN#273584/clothing maillots violettes] et [/EN#273583/clothing pantalons de couleur marron] marchant [/EN#273585/people tous] dans [/EN#0/notvisual la même direction] .
+val**982**e** [/EN#273617/people un homme] dans [/EN#273618/clothing une chemise brillante] joue de [/EN#273619/instruments la trompette] .
+val**983**e** [/EN#273909/people le mec] avec [/EN#273913/clothing un short en jean] est au [/EN#273912/scene planchodrome] faisant [/EN#0/notvisual des tours] sur [/EN#273910/vehicles son vélo] .
+val**984**e** [/EN#274025/people mère] et [/EN#274030/people fille] portant [/EN#274024/other un costume d' alice [/EN#274025/other au pays des merveilles] posent pour [/EN#274047/other une photo] .
+val**985**e** [/EN#274075/people un petit garçon] utilisant [/EN#274077/other une perceuse] pour faire [/EN#274078/scene un trou] dans [/EN#274076/other un morceau de bois] .
+val**986**e** [/EN#274909/people deux cyclistes] se battent sur [/EN#274910/scene une piste de terre] .
+val**987**e** [/EN#275028/other un frisbee] est jeté vers [/EN#275029/people la jeune fille] tandis que [/EN#275033/people l' autre fille] semble [/EN#0/notvisual le] demander .
+val**988**e** [/EN#275056/people un orthodontiste] soigne [/EN#275060/people un patient] , tandis qu' [/EN#275058/people un homme] tient [/EN#275065/other la lumière] .
+val**989**e** [/EN#275709/people deux personnes] mangent [/EN#275705/other des hamburgers] sur [/EN#275716/other des chaises de jardin] tandis qu' [/EN#275715/other un troisième] boit [/EN#275712/other une canette de soda] .
+val**990**e** [/EN#276218/people deux cyclistes] dans [/EN#276224/scene la rue] dépassent [/EN#276221/people les gens] tout en parlant .
+val**991**e** dans [/EN#276842/scene un bowling] , [/EN#276839/people un homme] en [/EN#276840/clothing maillot noire] tient [/EN#276843/other une boule de bowling] et regarde en bas de [/EN#276844/other la voie] .
+val**992**e** [/EN#277137/people deux hommes] en [/EN#277139/clothing tenue noire] avec [/EN#277140/clothing des nœuds papillons bleues et rouges] se produisent devant [/EN#277138/people une foule] .
+val**993**e** [/EN#277271/people deux hommes] , [/EN#277275/clothing un noir et un blanc] , jouent avec [/EN#277272/instruments leurs guitares] et chantent dans [/EN#277274/other les microphones] pendant qu' [/EN#0/notvisual ils] se tiennent à [/EN#277273/scene l' extérieur] .
+val**994**e** [/EN#277381/other un kickboxer] atterrit avec [/EN#277390/bodyparts son genou battant] dans [/EN#277387/people le visage de son adversaire] .
+val**995**e** [/EN#277998/people trois personnes] courent dans [/EN#277997/other une course] autour d' [/EN#278002/scene une piste rouge] .
+val**996**e** [/EN#278226/people les joueurs de football] luttent pour obtenir des jeux à travers [/EN#278228/other une ligne dure] .
+val**997**e** [/EN#278588/people plusieurs hommes] prient en se tenant [/EN#278590/other au bout d' une table] de [/EN#278589/other nourriture] .
+val**998**e** [/EN#279230/people deux enfants indiens] en [/EN#279229/clothing costume officiel] accomplissant heureusement [/EN#279233/other une danse rituelle] .
+val**999**e** [/EN#279395/people trois enfants] debout les uns [/EN#0/notvisual à côté des autres] , à côté d' [/EN#279398/scene un grand poteau en bois bleu] .
+val**1000**e** [/EN#279792/people un groupe de personnes] courent .
+val**1001**e** [/EN#279946/people deux femmes] marchent sur [/EN#279949/scene la plage] transportant [/EN#279950/other des planches] et des [/EN#279955/clothing palmes] .
+val**1002**e** [/EN#280393/people un garçon] est assis sur [/EN#280395/other un rocher] , regardant [/EN#280397/scene la vallée] en contrebas .
+val**1003**e** [/EN#280466/people une femme] debout sur [/EN#280470/bodyparts une jambe] sur [/EN#280467/scene une grande falaise] regardant [/EN#280468/scene une rivière] .
+val**1004**e** [/EN#280875/people une femme brune] est sur [/EN#280878/scene le trottoir] regardant [/EN#280876/scene la route] .
+val**1005**e** [/EN#280929/people un groupe de trois amis] discutent à l' intérieur d' [/EN#280938/scene une maison] .
+val**1006**e** [/EN#281277/people deux chinois] sont debout à côté d' [/EN#281278/other un tableau noir] .
+val**1007**e** [/EN#281350/people une personne] qui porte [/EN#281354/clothing un jean] et [/EN#281353/clothing un pull rouge] tourne à [/EN#281358/other l' angle d' un mur] .
+val**1008**e** [/EN#281813/people des agriculteurs] cultivent pendant [/EN#281817/scene la journée] .
+val**1009**e** pendant ce qui semble être [/EN#281944/other un carnaval] , [/EN#281937/people un homme] fait de [/EN#281938/other la barbe à papa] .
+val**1010**e** [/EN#282081/people un groupe de policiers] est debout devant [/EN#282082/vehicles/scene un autobus] .
+val**1011**e** [/EN#283494/people une vieille femme aux cheveux blancs] regarde dans [/EN#283495/other sa caisse enregistreuse] à travers [/EN#283496/clothing ses lunettes] .
+val**1012**e** [/EN#284864/people deux hommes] sont à [/EN#284865/scene des cabines téléphoniques] à l' extérieur .
+val**1013**e** [/EN#285100/people deux femmes] portant du [/EN#285104/clothing rouge] et [/EN#285099/people un homme] sortant de [/EN#285101/other toilettes portables] .
