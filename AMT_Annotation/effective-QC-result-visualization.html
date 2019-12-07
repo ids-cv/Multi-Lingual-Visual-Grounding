@@ -1,0 +1,1088 @@
+<html>
+
+<head>
+    <script src="PapaParse-5.0.0/papaparse.min.js"></script>
+</head>
+<body>
+
+
+
+
+<style>
+
+button, .button_class0 {
+  background-color: #4CAF50; /* Green */
+  border: 1px solid green; /* Green border */
+  color: white; /* White text */
+  padding: 10px 6px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+}
+
+
+.button_class1 {
+  background-color: #B22222; /* FireBrick */
+  border: 1px solid #B22222; 
+  color: white; /* text color */
+  padding: 10px 6px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+}
+.button_class2 {
+  background-color: #0000CD; /* MediumBlue */
+  border: 1px solid #0000CD; 
+  color: white; /* text color */
+  padding: 10px 6px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+}
+.button_class3 {
+  background-color: orange; 
+  border: 1px solid orange; 
+  color: white; /* text color */
+  padding: 10px 6px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+}
+
+.button_class4 {
+  background-color: olive; 
+  border: 1px solid olive; 
+  color: white; /* text color */
+  padding: 10px 6px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+}
+
+.button_class5 {
+  background-color: purple; 
+  border: 1px solid purple; 
+  color: white; /* text color */
+  padding: 10px 6px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+}
+
+.button_class6 {
+  background-color: maroon; 
+  border: 1px solid maroon; 
+  color: white; /* text color */
+  padding: 10px 6px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+}
+
+.button_class7 {
+  background-color: teal; 
+  border: 1px solid teal; 
+  color: white; /* text color */
+  padding: 10px 6px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+}
+
+.button_class8 {
+  background-color: #FF1493; /* deep pink */
+  border: 1px solid #FF1493; 
+  color: white; /* text color */
+  padding: 10px 6px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+}
+
+
+.button_class9 {
+  background-color: aqua; 
+  border: 1px solid aqua; 
+  color: black; /* text color */
+  padding: 10px 6px; /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+}
+
+
+button:hover, .button_class0:hover, .button_class1:hover, .button_class2:hover, .button_class3:hover, .button_class4:hover, .button_class5:hover, .button_class6:hover, .button_class7:hover, .button_class8:hover, .button_class9:hover {
+  filter: brightness(120%);
+}
+
+.image_div {
+    /* height: 50%; */
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.center {
+    text-align:center;
+    margin:auto;
+}
+
+.button_support {
+    background-color: #333;
+    border: 1px solid #333;
+    color: #f2f2f2;
+    padding: 6px 16px; /* Some padding */
+    cursor: pointer; /* Pointer/hand icon */
+}
+
+.button_support:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 4px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.blank_line {
+    height: 12px;
+    background-color: white;
+}
+
+</style>
+
+
+<div class="topnav">
+  <a href="https://s3-ap-northeast-1.amazonaws.com/en-fr-translation-match/tutorial/tutorial.html" target="_blank">Tutorial</a>
+</div>
+
+<div class="blank_line"></div>
+
+<!--
+<div class="image_div">
+    <img id="the-image", alt="The corresponding Flickr 30k image"></image>
+</div>
+<div class="blank_line"></div>
+<div id="buttons-en" class="center">
+  <button>En word</button>
+  <button>En word</button>
+  <button>En word</button>
+</div>
+<div class="blank_line"></div>
+<div id="buttons-fr" class="center">
+  <button>Fr word</button>
+  <button>Fr word</button>
+  <button>Fr word</button>
+</div>
+
+
+
+
+<crowd-form onsubmit="return tm.prepare_submit()" class="center">
+    <textarea id="output-string" rows="4" cols="50" name="description">This text area will show the final string to be stored.</textarea>
+    <crowd-input type="submit" value="Submit">
+</crowd-form>
+-->
+
+<!-- <button onclick=test()>test</button>  -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+//var en = "[/EN#568/people A group of men] are loading [/EN#569/other cotton] onto [/EN#570/vehicles a truck]";
+//en = "[/EN#1389/people A lady] in [/EN#1392/clothing a red coat] , holding [/EN#1390/clothing a bluish hand bag] likely of [/EN#1389/scene asian descent] , jumping off [/EN#0/notvisual the ground] for [/EN#1394/other a snapshot] ."
+//var en = "[/EN#98260/people Two hussars] sit perched on [/EN#98261/animals horses] , dressed in [/EN#98260/other extravagant ceremonial wear] , [/EN#98260/other each] holding [/EN#98263/other a sabre] in [/EN#98264/bodyparts their right hand] , reigns to [/EN#98261/animals the horse] in [/EN#98272/scene their left] ."
+
+//var fr = "Un groupe d'hommes chargent du coton dans un camion";
+//var fr = "Une femme en manteau rouge, avec un sac à main bleuté probablement d'origine asiatique, sautant en l'air pour une photo."
+//var fr = "Deux hussards sont juchés sur des chevaux, vêtus de tenues de cérémonie extravagantes, chacun tenant un sabre dans leur main droite, les rênes sur leur gauche."
+
+//var img_name = "1054620089.jpg";
+//var img_name = "317386541.jpg";
+//var img_path = "http://ec2-54-168-88-201.ap-northeast-1.compute.amazonaws.com/flickr30k-images/" + img_name;
+
+
+/*
+var ens = [];
+ens.push("[/EN#98260/people Two hussars] sit perched on [/EN#98261/animals horses] , dressed in [/EN#98260/other extravagant ceremonial wear] , [/EN#98260/other each] holding [/EN#98263/other a sabre] in [/EN#98264/bodyparts their right hand] , reigns to [/EN#98261/animals the horse] in [/EN#98272/scene their left] .");
+ens.push("[/EN#568/people A group of men] are loading [/EN#569/other cotton] onto [/EN#570/vehicles a truck]");
+ens.push("[/EN#1389/people A lady] in [/EN#1392/clothing a red coat] , holding [/EN#1390/clothing a bluish hand bag] likely of [/EN#1389/scene asian descent] , jumping off [/EN#0/notvisual the ground] for [/EN#1394/other a snapshot] .");
+var frs = [];
+frs.push("Deux hussards sont juchés sur des chevaux, vêtus de tenues de cérémonie extravagantes, chacun tenant un sabre dans leur main droite, les rênes sur leur gauche.");
+frs.push("Un groupe d'hommes chargent du coton dans un camion");
+frs.push("Une femme en manteau rouge, avec un sac à main bleuté probablement d'origine asiatique, sautant en l'air pour une photo.");
+var img_names = [];
+img_names.push("317386541.jpg");
+img_names.push("1018148011.jpg");
+img_names.push("1054620089.jpg");
+*/
+
+/*
+var ens = [];
+ens.push("[/EN#19953/people A child] is getting ready to read [/EN#19954/other a book] .");
+ens.push("[/EN#20521/people A older Japanese man] trying to fix [/EN#20523/other a small red and gray machine] .");
+ens.push("[/EN#20927/people A young child] and [/EN#20928/people a woman] are standing around [/EN#20929/animals a caged rooster] .");
+ens.push("[/EN#21307/people A child] [/EN#0/notvisual that] is dressed as [/EN#21307/other Spiderman] is ringing [/EN#21309/other the doorbell] .");
+ens.push("[/EN#21749/people A man] dressed in [/EN#21752/clothing brown] holding [/EN#21750/other a light saber] .");
+ens.push("[/EN#21791/people A young woman] stands singing at [/EN#21794/other a microphone] while [/EN#21793/people a man] behind [/EN#0/notvisual her] holds [/EN#21796/instruments a guitar] .");
+ens.push("[/EN#22463/people Twp children] dig [/EN#22467/scene holes] in [/EN#22471/scene the dirt] .");
+ens.push("[/EN#22947/other Many of the chairs] are empty with [/EN#22948/people only a few people] enjoying [/EN#22950/other the sun] .");
+ens.push("[/EN#23607/people Some men] are sitting on [/EN#23610/vehicles/scene a boat] near [/EN#23608/scene a beach] covered in [/EN#23608/other stacked logs] and [/EN#23618/other sticks] .");
+ens.push("[/EN#23709/people A young man] is carrying [/EN#23715/other something] in [/EN#23710/clothing a large black plastic garbage bag] .");
+
+var frs=[];
+frs.push("[/EN#19953/people Un enfant] s'apprête à lire [/EN#19954/other un livre] .");
+frs.push("[/EN#20521/people Un vieux Japonais tente] de réparer une [/EN#20523/other petite machine rouge et grise] .");
+frs.push("[/EN#20927/people Un jeune enfant] et [/EN#20928/people une femme] sont debout autour [/EN#20929/animals d'un coq en cage] .");
+frs.push("[/EN#21307/people Un enfant [/EN#0/notvisual qui] est déguisé en [/EN#21307/other Spiderman] sonne [/EN#21309/other à la porte] .");
+frs.push("[/EN#21749/people Un homme] en tenue [/EN#21752/clothing marron] tenant [/EN#21750/other un sabre laser] .");
+frs.push("[/EN#21791/people Une jeune femme] est debout , chantant dans [/EN#21794/other un micro] tandis [/EN#21793/people qu'un homme] derrière [/EN#0/notvisual elle] tient [/EN#21796/instruments une guitare] .");
+frs.push("[/EN#22463/people Deux enfants] creusent [/EN#22467/scene des trous] dans [/EN#22471/scene la terre] .");
+frs.push("[/EN#22947/other Beaucoup de fauteuils] sont vides , avec [/EN#22948/people seulement quelques personnes] profitant [/EN#22950/other du soleil] .");
+frs.push("[/EN#23607/people Des hommes] sont assis dans [/EN#23610/vehicles/scene un bateau] près [/EN#23608/scene d'une plage] recouverte de [/EN#23608/other troncs et] de [/EN#23618/other branches empilés] .");
+frs.push("[/EN#23709/people Un jeune homme] portant [/EN#23715/other quelque chose] dans [/EN#23710/clothing un grand sac poubelle en plastique noir] .");
+
+var img_names = [];
+img_names.push("175369436.jpg");
+img_names.push("1791491934.jpg");
+img_names.push("180217379.jpg");
+img_names.push("1814391289.jpg");
+img_names.push("1836335410.jpg");
+img_names.push("1837976956.jpg");
+img_names.push("1877161207.jpg");
+img_names.push("190965502.jpg");
+img_names.push("194197375.jpg");
+img_names.push("1944813674.jpg");
+*/
+
+/*
+var ens = [];
+var frs = [];
+var img_names = [];
+//var total_instance_number = 20;
+
+ens.push("${En0}");
+ens.push("${En1}");
+ens.push("${En2}");
+ens.push("${En3}");
+ens.push("${En4}");
+ens.push("${En5}");
+ens.push("${En6}");
+ens.push("${En7}");
+ens.push("${En8}");
+ens.push("${En9}");
+ens.push("${En10}");
+ens.push("${En11}");
+ens.push("${En12}");
+ens.push("${En13}");
+ens.push("${En14}");
+ens.push("${En15}");
+ens.push("${En16}");
+ens.push("${En17}");
+ens.push("${En18}");
+ens.push("${En19}");
+
+frs.push("${Fr0}");
+frs.push("${Fr1}");
+frs.push("${Fr2}");
+frs.push("${Fr3}");
+frs.push("${Fr4}");
+frs.push("${Fr5}");
+frs.push("${Fr6}");
+frs.push("${Fr7}");
+frs.push("${Fr8}");
+frs.push("${Fr9}");
+frs.push("${Fr10}");
+frs.push("${Fr11}");
+frs.push("${Fr12}");
+frs.push("${Fr13}");
+frs.push("${Fr14}");
+frs.push("${Fr15}");
+frs.push("${Fr16}");
+frs.push("${Fr17}");
+frs.push("${Fr18}");
+frs.push("${Fr19}");
+
+img_names.push("${ImageName0}");
+img_names.push("${ImageName1}");
+img_names.push("${ImageName2}");
+img_names.push("${ImageName3}");
+img_names.push("${ImageName4}");
+img_names.push("${ImageName5}");
+img_names.push("${ImageName6}");
+img_names.push("${ImageName7}");
+img_names.push("${ImageName8}");
+img_names.push("${ImageName9}");
+img_names.push("${ImageName10}");
+img_names.push("${ImageName11}");
+img_names.push("${ImageName12}");
+img_names.push("${ImageName13}");
+img_names.push("${ImageName14}");
+img_names.push("${ImageName15}");
+img_names.push("${ImageName16}");
+img_names.push("${ImageName17}");
+img_names.push("${ImageName18}");
+img_names.push("${ImageName19}");
+*/
+
+
+
+// Read local file in Javascript:
+// https://stackoverflow.com/questions/14446447/how-to-read-a-local-text-file
+/*
+// Some unsuccessful attempt for synchronous local file reading. 
+fetch('./results_parsed/public_100-149_parsed.fr')
+  .then(response => response.text())
+  .then(text => string_all_response_fr = text)
+
+request();
+
+var request = async () => {
+	var response = await fetch('./results_parsed/public_100-149_parsed.fr');
+	var text = await response.text();
+	//console.log(text)
+	string_all_response_fr = text;
+}
+
+request();
+*/
+var string_all_text_fr;
+var frs=[];
+
+
+
+function readTextFile(url)  // A comment on Stackoverflow mentions that this function doesn't work in Chrome. 
+{
+    var request = new XMLHttpRequest();
+    var allText;
+    request.open("GET", url, false);
+    request.onreadystatechange = function ()
+    {
+        if(request.readyState === 4)
+        {
+            if(request.status === 200 || request.status == 0)
+            {
+                allText = request.responseText;
+            }
+        }
+    }
+    request.send();
+    return allText;
+}
+
+
+
+
+
+/*
+string_text_fr = readTextFile('./results_parsed/public_100-149_parsed.fr');
+annotated_frs_to_eval = string_text_fr.split("\n");
+if(annotated_frs_to_eval[annotated_frs_to_eval.length-1] == "") {   // If the last one is empty, remove it. 
+    annotated_frs_to_eval = annotated_frs_to_eval.slice(0, -1);
+}
+
+console.log(annotated_frs_to_eval);
+
+var line_start_in_Fr_annotated_to_eval = 10;  // Boundary included. Beginning by 0.
+var line_end_in_Fr_annotated_to_eval = 20;  //Boundary excluded
+var number_of_question_to_visualize = line_end_in_Fr_annotated_to_eval - line_start_in_Fr_annotated_to_eval;
+
+// A line example
+// val**100**e** [/EN#25615/people un homme âgé en surpoids fait] sauter [/EN#25616/other une crêpe] en préparant [/EN#25616/other le petit déjeuner] .
+
+var line_numbers = [];
+// First extract the universal line ids of these sentences
+for(let i=line_start_in_Fr_annotated_to_eval; i<line_end_in_Fr_annotated_to_eval; i++) {
+    line_id = parseInt(annotated_frs_to_eval[i].split("**")[1]);
+    line_numbers.push(line_id);
+}
+console.log(line_numbers);
+
+string_all_annotated_en = readTextFile("util/sentence_match_sentence_en_val.txt");
+all_annotated_ens = string_all_annotated_en.split("\n");
+if(all_annotated_ens[all_annotated_ens.length-1] == "") {   // If the last one is empty, remove it. 
+    all_annotated_ens = all_annotated_ens.slice(0, -1);
+}
+console.log(all_annotated_ens.length);
+
+string_all_id = readTextFile("util/val.txt");
+all_ids = string_all_id.split("\n");
+if(all_ids[all_ids.length-1] == "") {   // If the last one is empty, remove it. 
+    all_ids = all_ids.slice(0, -1);
+}
+console.log(all_ids.length);
+
+var ens = [];
+var frs = [];
+var img_names = [];
+
+for(let i = line_start_in_Fr_annotated_to_eval; i < line_end_in_Fr_annotated_to_eval; i++) {
+    frs.push(annotated_frs_to_eval[i]);
+    ens.push(all_annotated_ens[line_numbers[i]]);
+    img_names.push(all_ids[line_numbers[i]]);
+}
+*/
+
+console.log(window.location.href)
+var url = window.location.href
+if(url.search("\\?") >= 0) {
+    var HIT_No = parseInt(url.split("?")[1])  // Choose HIT according to the number after question mark. Caveat: You should make sure by yourself that your number doesn't exceed total HIT number in the csv file. 
+}
+else {
+    var HIT_No = 0;  	// Choose HIT mannually here
+}
+
+/*
+jQuery.get('http://localhost/data/testdata.txt', function(data) {
+    alert(data);
+});
+*/
+
+//var csv_string = readTextFile("file:///home/wenjian/Internship/data/AmazonMTurk/results/public_600-1009.csv");  
+var csv_string = readTextFile("public_600-1009.csv");
+if(csv_string[csv_string.length-1] == "\n") {   // If the last char of the string is '\n', remove it. 
+    csv_string = csv_string.slice(0, -1);
+}
+var csv_HITs = Papa.parse(csv_string, {header: true, dynamicTyping: true});
+
+
+effectiveQuestionPerHIT = csv_HITs.data[HIT_No]["Input.EffectiveQuestionPerHIT"];
+controlQuestionPerHIT = csv_HITs.data[HIT_No]["Input.ControlQuestionPerHIT"];
+
+// Parse the answers
+answers_string = csv_HITs.data[HIT_No]["Answer.taskAnswers"]
+answers_string = answers_string.slice(1,-1); // To remove the square bracket
+var answers = JSON.parse(answers_string);
+effective_answers = [];
+QC_answers = [];
+for(let i=0; i < effectiveQuestionPerHIT+controlQuestionPerHIT; i++) {
+    var answer = answers["description"+i];
+    if(answer.split("**")[2] == "e") {
+        effective_answers.push(answer);
+    }
+    else if(answer.split("**")[2] == "c") {
+        QC_answers.push(answer);
+    }
+}
+function compare_by_line_number(s1, s2) {
+    var l1 = parseInt(s1.split("**")[1]);
+    var l2 = parseInt(s2.split("**")[1]);
+    return l1-l2;
+}
+effective_answers_sorted = effective_answers.sort(compare_by_line_number);
+
+var ens = [];
+var frs = [];
+var img_names = [];
+for(let i = 0; i < effectiveQuestionPerHIT; i++) {
+    ens.push(csv_HITs.data[HIT_No]["Input.En" + i]);
+    img_names.push(csv_HITs.data[HIT_No]["Input.ImageName" + i]);
+
+    frs.push(effective_answers_sorted[i]);
+}
+
+for(let i=0; i<img_names.length;i++) {
+  
+    ens[i] = ens[i].split("**")[3];
+    frs[i] = frs[i].split("**")[3];
+    img_names[i] = img_names[i].split("**")[3];
+    
+}
+
+string_all_standard_frs = readTextFile("standard_answer_pool/standard_answers.fr");
+all_standard_frs = string_all_standard_frs.split("\n");
+if(all_standard_frs[all_standard_frs.length-1] == "") {   // If the last one is empty, remove it. 
+    all_standard_frs = all_standard_frs.slice(0, -1);
+}
+
+
+
+var ens_QC = [];
+var frs_QC_to_eval = [];
+var frs_QC_standard = [];
+var img_names_QC = [];
+for(let i = 0; i < controlQuestionPerHIT; i++) {
+    ens_QC.push(csv_HITs.data[HIT_No]["Input.control_En" + i]);
+    img_names_QC.push(csv_HITs.data[HIT_No]["Input.control_ImageName" + i]);
+    frs_QC_to_eval.push(QC_answers[i]);
+    let control_sentence_line_number = parseInt(csv_HITs.data[HIT_No]["Input.control_Fr" + i].split("**")[1]);
+    frs_QC_standard.push(all_standard_frs[control_sentence_line_number]);  // This requires the standard_answer_pool/standard_answers.fr to be continuous beginning from 0.
+                                                                            // Though standard_answer_pool/samples_as_control.fr may not be continuous
+}
+//console.log(ens_QC)
+//console.log(frs_QC_to_eval);  
+//console.log(frs_QC_standard); 
+
+for(let i=0; i<img_names_QC.length;i++) {
+  
+  ens_QC[i] = ens_QC[i].split("**")[3];
+  frs_QC_standard[i] = frs_QC_standard[i].split("**")[3];
+  frs_QC_to_eval[i] = frs_QC_to_eval[i].split("**")[3];
+  img_names_QC[i] = img_names_QC[i].split("**")[3];
+  
+}
+ 
+
+</script>
+
+
+
+<script>
+
+class TranslationMatchingBlock {
+    
+    constructor(annotated_sentence, annotated_sentence2, image_name, message_array) {
+        
+        this.instance_num = TranslationMatchingBlock.getInstanceCounter();
+        this.name_of_this_instance = 'tmbs[' + this.instance_num + ']';
+        this.message_array = message_array;
+        this.state_chosen = 0; // State 0 means not clicked, 1, 2, 3, ... means the pairing information with English sentence.
+        this.source_word_clicked = -1;
+        this.object_total_number = 0;
+        
+        this.image_name = image_name;
+        this.image_root_path = "http://ec2-54-168-88-201.ap-northeast-1.compute.amazonaws.com/flickr30k-images/";
+        this.image_path = this.image_root_path + this.image_name;
+        
+        //this.displayMessage("function called")
+        
+        this.words_annotated = this.parceAnnotatedSentence(annotated_sentence);
+        this.words_annotated2 = this.parceAnnotatedSentence(annotated_sentence2);
+        
+        //this.addHTMLBlock();  // Move this sentence outside
+        //document.getElementById('buttons-en').innerHTML = this.changeButtonGroupContent(this.words_annotated, "EN");
+        
+       
+        //this.initButtonStateForUnannotatedSentence();
+        
+        this.out = undefined;
+        
+        
+        
+        TranslationMatchingBlock.increaseInstanceCounter();
+    }
+    
+    addHTMLBlock() {
+        document.write("<p>Question No." + (this.instance_num+1) + "</p>"); // Noted that only in the user interface the number begins by 1. In all other places the number begins by 0. 
+        document.write("<div class='image_div'> \
+                            <img id='image" + this.instance_num + "' alt='The corresponding Flickr 30k image'></image>   \
+                        </div>");
+        document.getElementById('image' + this.instance_num).src = this.image_path; 
+        //document.getElementById('image0').src = "http://ec2-54-168-88-201.ap-northeast-1.compute.amazonaws.com/flickr30k-images/317386541.jpg"
+        document.write("<div class='blank_line'></div>");
+        document.write("<div id='buttons-en" + this.instance_num + "' class='center'>" + this.changeButtonGroupContent(this.words_annotated, 'EN') + "</div>");
+        document.write("<div class='blank_line'></div>");
+        document.write("<div id='buttons-fr" + this.instance_num + "' class='center'>" + this.changeButtonGroupContent(this.words_annotated2, 'FR') + "</div>");
+        document.write("<div class='blank_line'></div>");
+        document.write("<div class='blank_line'></div>");
+
+        this.renderButtonsForAnnotatedSentence(this.words_annotated, "EN");
+	    this.renderButtonsForAnnotatedSentence_matchColorToOriginalSentence(this.words_annotated2, "FR", "EN");
+    }
+    
+    static increaseInstanceCounter() {
+        TranslationMatchingBlock._instance_counter++;
+    }
+    
+    static getInstanceCounter() {
+        return TranslationMatchingBlock._instance_counter;
+    }
+    
+    //function changeButtonGroupContent(name_list, button_id_prefix, para_dict_name) {
+    changeButtonGroupContent(name_list, button_id_prefix) {
+    	// name_list is expected to be an array of strings
+        var buttons = "";
+        var i = 0;
+        //button id format eg: 3EN2  -- the 2nd English word in the 3rd question within the HIT 
+        for (i=0; i<name_list.length; i++) {
+        	var str_id = " id='" + this.instance_num + button_id_prefix + i + "' ";
+            //var str_onclick = " onclick='clickOn" + button_id_prefix + "(this.id," + para_dict_name + ")' ";
+            var str_onclick = " onclick='" + this.name_of_this_instance + ".clickOn" + button_id_prefix + "(this.id)' ";
+        	var button = "<button " + str_id + str_onclick + " >" + name_list[i] + "</button>";
+            buttons += button;
+        }
+    	return buttons
+    
+    }
+    
+    //function clickOnFR(btn_id, para_dict) // Note that if button_id_prefix is not FR, this function name need to be changed accordingly
+    clickOnFR(btn_id) // Note that if button_id_prefix is not FR, this function name need to be changed accordingly
+    {
+    	var this_btn = document.getElementById(btn_id);
+        //var old_state = this_btn.click_state;
+        if(this_btn.click_state != this.state_chosen) {
+            this_btn.click_state = this.state_chosen;
+            this_btn.setAttribute("class", "button_class"+this_btn.click_state);
+        }
+        else {
+            this_btn.click_state = 0;
+            this_btn.setAttribute("class", "button_class"+this_btn.click_state);
+        }
+        
+        /*
+        if(this_btn.click_state == 0) {
+        	this_btn.click_state = para_dict.state_chosen; 
+        	//this_btn.click_state = state_chosen; 
+            this_btn.setAttribute("class", "button_class"+this_btn.click_state);
+        }
+        else if (this_btn.click_state > 0) {
+        	this_btn.click_state = 0;
+            this_btn.setAttribute("class", "button_class"+this_btn.click_state);
+        }
+        else ;
+        */
+        //alert("this_btn.state:"+old_state+"-->"+this_btn.click_state);
+      	//alert("btnid:" + btn_id)
+    }
+    
+    //function clickOnEN(btn_id, para_dict) // Note that if button_id_prefix is not EN, this function name need to be changed accordingly
+    clickOnEN(btn_id) // Note that if button_id_prefix is not EN, this function name need to be changed accordingly
+    {
+        var this_btn = document.getElementById(btn_id);
+        //para_dict.state_chosen = this_btn.object_num;
+        this.state_chosen = this_btn.object_num;
+        
+        // Diminish the last button clicked
+        if(this.source_word_clicked != -1) {
+            document.getElementById(this.instance_num+"EN"+this.source_word_clicked).style.padding = "10px 6px";
+        }
+        
+        // Enlarge the current button clicked
+        this_btn.style.padding = "14px 10px";
+        
+        //Due to: 1EN2 vs 10EN2, to parse the button number within one sentence (the latter number), first we need to locate latin letter
+        var idx = btn_id.search(/[A-Za-z][A-Za-z]/);
+        this.source_word_clicked = parseInt(btn_id.slice(idx+2)); //The language prefix has to be 2 characters. Then this function could slice from the correct position.
+        //alert("click on en: " + chosen_state)
+    }
+    
+    parceUnannotatedSentence(unannotated_sentence) {
+        unannotated_sentence = unannotated_sentence.trim();
+        unannotated_sentence = unannotated_sentence.replace(/,/g, " ,"); // Add a space in front of comma
+        unannotated_sentence = unannotated_sentence.replace(/\./g, " ."); // Add a space in front of period
+        return unannotated_sentence.split(" ");
+    }
+    
+    initButtonStateForUnannotatedSentence() {
+        for(var i = 0; i<this.words_unannotated.length; i++) {
+        	var btn = document.getElementById(this.instance_num+"FR"+i);
+        	btn.click_state = 0;
+            btn.num = i;
+            btn.word = this.words_unannotated[i];
+        }
+    }
+    
+    parceAnnotatedSentence(annotated_sentence) {
+        annotated_sentence = annotated_sentence.replace(/\[/g, "zzzLEFTzzz");
+        annotated_sentence = annotated_sentence.replace(/\]/g, "][");
+        annotated_sentence = annotated_sentence.replace(/zzzLEFTzzz/g,"][");
+        annotated_sentence = "[" + annotated_sentence;
+        annotated_sentence = annotated_sentence + "]";
+      
+        var words_annotated = annotated_sentence.match(/\[(.*?)\]/g)
+      
+        for (var i=0; i<words_annotated.length;i++) {
+      	    words_annotated[i] = words_annotated[i].slice(1,-1);
+            words_annotated[i] = words_annotated[i].trim();
+        }
+      
+        words_annotated = words_annotated.filter(function(str){return str.length>0;});
+      
+        //alert(annotated_sentence +"\n" + words_annotated);
+        return words_annotated
+    }
+    
+    renderButtonsForAnnotatedSentence(words_annotated, button_id_prefix) {
+        var object_counter = 0;
+        for(var i = 0; i<words_annotated.length; i++) {
+        	var btn = document.getElementById(this.instance_num+button_id_prefix+i); // button_id_prefix is a string, making the sum a string.
+        	var first_space_index;
+        	
+        	if(words_annotated[i][0]=='/') {    // An annotated object
+        	    first_space_index = words_annotated[i].search(" "); //This is the index where real word(s) in the sentence begin(s). 
+        	    btn.object_str = words_annotated[i].slice(0,first_space_index);
+        	    btn.word = words_annotated[i].slice(first_space_index+1);
+        	    object_counter += 1;
+        	    btn.object_num = object_counter;
+        	    this.object_total_number = object_counter;
+        	}
+        	else {  // Ordinary word
+        	    btn.object_str = "";
+        	    btn.word = words_annotated[i];
+        	    btn.object_num = 0;
+        	}
+        	
+            btn.num = i;
+            
+            btn.innerHTML = btn.word;
+            
+            btn.setAttribute("class", "button_class"+btn.object_num);
+        }
+    }
+
+    getObjectStateNumByObjectString(obj_str_insterested, source_prefix) {
+        var i = 0;
+        var btn_source;
+        while(btn_source = document.getElementById(this.instance_num+source_prefix+i)) {
+            if(btn_source.object_str == obj_str_insterested) {
+                return i;
+            }
+            
+            i++;
+        }
+        alert("Some error occurs in getObjectStateNumByObjectString...");
+        return -1;
+    }
+
+    renderButtonsForAnnotatedSentence_matchColorToOriginalSentence(words_annotated, button_id_prefix, source_prefix) {
+        var object_counter = 0;
+        for(var i = 0; i<words_annotated.length; i++) {
+        	var btn = document.getElementById(this.instance_num+button_id_prefix+i); // button_id_prefix is a string, making the sum a string.
+        	var first_space_index;
+        	
+        	if(words_annotated[i][0]=='/') {    // An annotated object
+        	    first_space_index = words_annotated[i].search(" "); //This is the index where real word(s) in the sentence begin(s). 
+        	    btn.object_str = words_annotated[i].slice(0,first_space_index);
+        	    btn.word = words_annotated[i].slice(first_space_index+1);
+        	    object_counter += 1;
+                    var corresponding_button_index_in_original_sentence = this.getObjectStateNumByObjectString(btn.object_str, "EN");
+        	    btn.object_num = document.getElementById(this.instance_num+source_prefix+corresponding_button_index_in_original_sentence).object_num;
+        	    this.object_total_number = object_counter;
+        	}
+        	else {  // Ordinary word
+        	    btn.object_str = "";
+        	    btn.word = words_annotated[i];
+        	    btn.object_num = 0;
+        	}
+        	
+            btn.num = i;
+            
+            btn.innerHTML = btn.word;
+            
+            btn.setAttribute("class", "button_class"+btn.object_num);
+        }
+    }
+    
+    get_btn_id_by_state_num(state_number, source_prefix) {
+        var i = 0;
+        var btn_source;
+        while(btn_source = document.getElementById(this.instance_num+source_prefix+i)) {
+            if(btn_source.object_num ==state_number) {
+                return i;
+            }
+            
+            i++;
+        }
+        alert("Some error occurs in get_btn_id_by_state_num...");
+        return -1;
+    }
+    
+    writeToString(source_prefix, target_prefix) {
+        var str = "";
+        var temp = 0;
+        var idx;
+        for(var i=0; i<this.words_unannotated.length; i++) {
+            var btn_target = document.getElementById(this.instance_num+target_prefix+i);
+            if(btn_target.click_state > 0 && btn_target.click_state != temp) {
+                idx = this.get_btn_id_by_state_num(btn_target.click_state, "EN");
+                var btn_source = document.getElementById(this.instance_num+source_prefix+idx);
+                str = str + " [" + btn_source.object_str + " " + btn_target.word;
+            }
+            else if(btn_target.click_state > 0 && btn_target.click_state == temp) {
+                str = str + " " + btn_target.word;
+            }
+            else if(btn_target.click_state != temp && temp == 0) {
+                str = str + "] " + btn_target.word;
+            }
+            else if(btn_target.click_state != temp && temp > 0 && btn_target.click_state > 0) {
+                str = str + "] ";
+                idx = this.get_btn_id_by_state_num(btn_target.click_state, "EN")
+                var btn_source = document.getElementById(this.instance_num+source_prefix+idx);
+                str = str + " [" + btn_source.object_str + " " + btn_target.word;
+            }
+            else if(btn_target.click_state == 0 && temp > 0) {
+                str = str + "] " + btn_target.word;
+                
+            }
+            else if(btn_target.click_state == 0 && temp == 0) {
+                str = str + " " + btn_target.word;
+            }
+            else {
+                alert("Well, some problem happens in the function writeToString...")
+            }
+            temp = btn_target.click_state;
+        }
+        if(temp != 0){
+            str = str + "]";
+        }
+        return str;
+    }
+    
+    check_states_clicked(target_prefix) {
+        var states_clicked_set = new Set();
+        
+        for(var i=0; i<this.words_unannotated.length; i++) {
+            var btn_target = document.getElementById(this.instance_num+target_prefix+i);
+            if(btn_target.click_state != 0)
+                states_clicked_set.add(btn_target.click_state);
+        }
+        //console.log(states_clicked_set.size)
+        if(states_clicked_set.size < this.object_total_number) {
+            this.message_array.push("In question No." + this.instance_num + ", the original sentence has " + this.object_total_number + " entities, while you only marked " + states_clicked_set.size + " entity(ies) in the new sentence.");
+            return false;
+        }
+        else {
+            return true;
+        }
+            
+    }
+    
+    
+    
+    
+    displayMessage(str) {
+        alert(str)
+    }
+
+} // End of class definition
+
+
+class QCQuestionVisualizationBlock extends TranslationMatchingBlock {
+    /*
+    constructor(annotated_sentence, annotated_sentence2, annotated_sentence3, image_name, message_array) {
+        //annotated_sentence is English, annotated_sentence2 is the standard French answer, annotated_sentence3 is the French answer to be evaluated.
+        this.instance_num = QCQuestionVisualizationBlock.getInstanceCounter();
+        this.name_of_this_instance = 'tmbs[' + this.instance_num + ']';
+        this.message_array = message_array;
+        this.state_chosen = 0; // State 0 means not clicked, 1, 2, 3, ... means the pairing information with English sentence.
+        this.source_word_clicked = -1;
+        this.object_total_number = 0;
+        
+        this.image_name = image_name;
+        this.image_root_path = "http://ec2-54-168-88-201.ap-northeast-1.compute.amazonaws.com/flickr30k-images/";
+        this.image_path = this.image_root_path + this.image_name;
+        
+        //this.displayMessage("function called")
+        
+        this.words_annotated = this.parceAnnotatedSentence(annotated_sentence);
+        this.words_annotated2 = this.parceAnnotatedSentence(annotated_sentence2);
+        this.words_annotated3 = this.parceAnnotatedSentence(annotated_sentence3);
+        
+        this.addHTMLBlock();
+        //document.getElementById('buttons-en').innerHTML = this.changeButtonGroupContent(this.words_annotated, "EN");
+        this.renderButtonsForAnnotatedSentence(this.words_annotated, "EN");
+	    this.renderButtonsForAnnotatedSentence_matchColorToOriginalSentence(this.words_annotated2, "FR", "EN");
+        this.renderButtonsForAnnotatedSentence_matchColorToOriginalSentence(this.words_annotated3, "FR", "EN");
+       
+        //this.initButtonStateForUnannotatedSentence();
+        
+        this.out = undefined;
+        
+        
+        
+        QCQuestionVisualizationBlock.increaseInstanceCounter();
+    }
+    */
+    constructor(annotated_sentence, annotated_sentence2, annotated_sentence3, image_name, message_array) {
+        //annotated_sentence is English, annotated_sentence2 is the standard French answer, annotated_sentence3 is the French answer to be evaluated.
+        super(annotated_sentence, annotated_sentence2, image_name, message_array);
+
+        this.words_annotated3 = this.parceAnnotatedSentence(annotated_sentence3);
+
+    }
+    
+    addHTMLBlock() {
+        document.write("<p>Question No." + (this.instance_num+1) + "</p>"); // Noted that only in the user interface the number begins by 1. In all other places the number begins by 0. 
+        document.write("<div class='image_div'> \
+                            <img id='image" + this.instance_num + "' alt='The corresponding Flickr 30k image'></image>   \
+                        </div>");
+        document.getElementById('image' + this.instance_num).src = this.image_path; 
+        //document.getElementById('image0').src = "http://ec2-54-168-88-201.ap-northeast-1.compute.amazonaws.com/flickr30k-images/317386541.jpg"
+        document.write("<div class='blank_line'></div>");
+        document.write("<div id='buttons-en" + this.instance_num + "' class='center'>" + this.changeButtonGroupContent(this.words_annotated, 'EN') + "</div>");
+        document.write("<div class='blank_line'></div>");
+        document.write("<div id='buttons-fr" + this.instance_num + "' class='center'>" + this.changeButtonGroupContent(this.words_annotated2, 'FR') + "</div>");
+        document.write("<div class='blank_line'></div>");
+        document.write("<div id='buttons-fr" + this.instance_num + "' class='center'>" + this.changeButtonGroupContent(this.words_annotated3, 'FC') + "</div>");
+        document.write("<div class='blank_line'></div>");
+        document.write("<div class='blank_line'></div>");
+
+        this.renderButtonsForAnnotatedSentence(this.words_annotated, "EN");
+	    this.renderButtonsForAnnotatedSentence_matchColorToOriginalSentence(this.words_annotated2, "FR", "EN");
+        this.renderButtonsForAnnotatedSentence_matchColorToOriginalSentence(this.words_annotated3, "FC", "EN");
+    }
+    
+    static increaseInstanceCounter() {
+        QCQuestionVisualizationBlock._instance_counter++;
+    }
+    
+    static getInstanceCounter() {
+        return QCQuestionVisualizationBlock._instance_counter;
+    }
+    
+    
+}
+
+
+
+
+function displayDescription() {
+    alert("Please match the English-French translation pairs in the given sentences.\nHow to do this?\nFirst, click on a colored phrase (i.e. a phrase not in green color) in the English sentence.\nSecond, click on the corresponding word or words in the French sentence to make them in the same color as in English. \nDo this for all colored phrases in English. \nClick submit button.")
+}
+
+TranslationMatchingBlock._instance_counter = 0; // begin with 0
+var checking_messages = [];
+
+var tmbs = [];  // Array of TranslationMatchingBlock
+//tmbs.push(new TranslationMatchingBlock(en, fr, "317386541.jpg", checking_messages));
+for(var j=0; j<img_names.length; j++) {
+    tmbs.push(new TranslationMatchingBlock(ens[j], frs[j], img_names[j], checking_messages));
+    tmbs[j].addHTMLBlock();
+}
+
+var tmbs_QC = [];  // Array of TranslationMatchingBlock
+//tmbs.push(new TranslationMatchingBlock(en, fr, "317386541.jpg", checking_messages));
+for(var j=0; j<img_names_QC.length; j++) {
+    tmbs_QC.push(new QCQuestionVisualizationBlock(ens_QC[j], frs_QC_to_eval[j], frs_QC_standard[j], img_names_QC[j], checking_messages));
+    tmbs_QC[j].addHTMLBlock();
+}
+
+function multi_textarea_html_string() {
+    str = "";
+    for(var i=0; i<TranslationMatchingBlock.getInstanceCounter(); i++) {
+        str = str + " <textarea id='output-string" + i + "' rows='4' cols='50' name='description" + i + "'>This text area will show the final string to be stored.</textarea> "
+    }
+    return str;
+}
+
+function writeAllResponsesToTextarea() {
+    for(var i=0; i<tmbs.length; i++) {
+        document.getElementById('output-string'+i).innerHTML = tmbs[i].writeToString("EN", "FR");
+    }
+}
+
+function prepare_submit() {
+    var good_response = true;
+    
+    for(var i=0; i<tmbs.length; i++) {
+        let temp = tmbs[i].check_states_clicked("FR")
+        good_response = good_response && temp;
+    }
+    
+    //console.log("good_response" + good_response)
+    if(!good_response) {
+        if(confirm(checking_messages.join("\n") + "\n\nAre you sure this is the final answer?\n\nPlease click Cancel to check your answers or click OK to submit anyway.\n")) {
+            writeAllResponsesToTextarea(tmbs);
+            checking_messages.length = 0; //Empty the message array
+            return true;
+        }
+        checking_messages.length = 0; //Empty the message array
+        return false;
+    }
+    writeAllResponsesToTextarea(tmbs);
+    checking_messages.length = 0; //Empty the message array
+    return true;
+    
+    //alert("Hey my friend, you are about to submit!")
+}
+
+
+
+
+</script>
+
+
+
+<!--
+<style>
+#confirm {
+    display: none;
+    background-color: #91FF00;
+    border: 1px solid #aaa;
+    position: fixed;
+    width: 250px;
+    left: 50%;
+    margin-left: -100px;
+    padding: 6px 8px 8px;
+    box-sizing: border-box;
+    text-align: center;
+}
+#confirm button {
+    background-color: #48E5DA;
+    display: inline-block;
+    border-radius: 5px;
+    border: 1px solid #aaa;
+    padding: 5px;
+    text-align: center;
+    width: 80px;
+    cursor: pointer;
+}
+#confirm .message {
+    text-align: left;
+}
+</style>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+
+<script>
+function functionAlert(msg, myYes) {
+    var confirmBox = $("#confirm");
+    confirmBox.find(".message").text(msg);
+    confirmBox.find(".yes").unbind().click(function() {
+        confirmBox.hide();
+    });
+    confirmBox.find(".yes").click(myYes);
+    confirmBox.show();
+}
+  
+function yesfunc() {
+	document.write("Oh yes");
+}
+
+function nofunc() {
+	document.write("Oh no");
+}
+    
+</script>
+
+<div id="confirm">
+    <div class="message">This is a warning message.</div>
+    <button onclick="yesfunc()">Confirm matching</button>
+    <button onclick="nofunc()">confirm current response</button>
+</div>
+
+<script>
+functionAlert("message_array");
+</script>
+
+
+-->
+<!--
+<script>
+function test() {
+    alert(tm.object_total_number)
+}
+</script>
+<button onclick="test()">test</button>
+
+
+<input type = "button"  value = "Click Me"  onclick = "functionAlert();" />
+
+
+
+<script>
+alert("HTML loaded")
+</script>
+-->
+
+
+
+
+</body>
+</html>
