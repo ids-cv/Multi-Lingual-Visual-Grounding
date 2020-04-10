@@ -9,3 +9,13 @@ The numbers of sentences in each set are:
   * validation set: 1014 
   * test set: 1000
 
+The files of split we used is downloaded from here:
+
+https://github.com/multi30k/dataset/tree/master/data/task1  (you can also find other useful data in Multi30k)
+
+The three files involved in our dataset are also uploaded in the folder split. 
+
+The bounding box information can be found here:
+
+https://github.com/BryanPlummer/flickr30k_entities  (in the file annotations.zip)
+
