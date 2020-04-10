@@ -13,7 +13,7 @@ The files of split we used is downloaded from here:
 
 https://github.com/multi30k/dataset/tree/master/data/task1  (you can also find other useful data in Multi30k)
 
-The three files involved in our dataset are also uploaded in the folder split. 
+The three files involved in our dataset are also uploaded in the folder "split". 
 
 The bounding box information can be found here:
 
