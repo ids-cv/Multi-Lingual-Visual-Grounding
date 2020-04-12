@@ -22,5 +22,11 @@ https://github.com/BryanPlummer/flickr30k_entities  (in the file annotations.zip
 ## The format of the data
 
 Example:
+
 train\*\*0\*\*e\*\* [/EN#1/people deux jeunes hommes blancs] sont dehors près [/EN#4/scene de buissons] .
 
+This is the first line in the training set. As you can see, the two consecutive stars are the seperator. 
+  * The first mark, a value among 'train'/'val'/'test', means this line is in which set.  
+  * The second mark, a integer value, is the line position.
+  * The third mark, always 'e', you can ignore this. 
+  * Finally, the noted French sentence. 
