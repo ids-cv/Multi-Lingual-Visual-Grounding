@@ -28,5 +28,5 @@ train\*\*0\*\*e\*\* [/EN#1/people deux jeunes hommes blancs] sont dehors près [
 This is the first line in the training set. As you can see, the two consecutive stars are the seperator. 
   * The first mark, a value among 'train'/'val'/'test', indicates the set to which this line belongs.  
   * The second mark, a integer value, is the line position.
-  * The third mark, always 'e', you can ignore this. 
+  * The third mark, always 'e', you can ignore this. This mark will be removed in the final version of the dataset.
   * Finally, the noted French sentence. 
