@@ -19,3 +19,8 @@ The bounding box data can be found at the original Flickr30k Entities github pag
 
 https://github.com/BryanPlummer/flickr30k_entities  (in the file annotations.zip)
 
+## The format of the data
+
+Example:
+train\*\*0\*\*e\*\* [/EN#1/people deux jeunes hommes blancs] sont dehors près [/EN#4/scene de buissons] .
+
