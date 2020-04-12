@@ -15,7 +15,7 @@ https://github.com/multi30k/dataset/tree/master/data/task1  (you can also find o
 
 The three files involved in our dataset are also uploaded in the folder "split". 
 
-The bounding box information can be found at the original Flickr30k Entities github page:
+The bounding box data can be found at the original Flickr30k Entities github page:
 
 https://github.com/BryanPlummer/flickr30k_entities  (in the file annotations.zip)
 
