@@ -9,7 +9,7 @@ The numbers of sentences in each set are:
   * validation set: 1014 
   * test set: 1000
 
-The files of split we use is downloaded from here:
+The files of split we use is downloaded from:
 
 https://github.com/multi30k/dataset/tree/master/data/task1  (you can also find other useful data in Multi30k)
 
