@@ -1,11 +1,11 @@
-## This directory contains the 7k French visual grounding data crowdsourced on Amazon MTurk.
+## This directory contains the 31k French visual grounding data crowdsourced on Amazon MTurk.
 
 We follow the same data split as in Flickr30k Entities.
 
 Flickr30k Entities has 5 sentences for each image, while we only have one. The sentence appearing in our dataset is the same sentence as in Multi30k's French dataset. 
 
 The numbers of sentences in each set are:
-  * training set: 5000 (the first 5000 images in the training set of Flickr30k Entities)
+  * training set: 29000
   * validation set: 1014 
   * test set: 1000
 
@@ -23,10 +23,9 @@ https://github.com/BryanPlummer/flickr30k_entities  (in the file annotations.zip
 
 Example:
 
-train\*\*0\*\*e\*\* [/EN#1/people deux jeunes hommes blancs] sont dehors près [/EN#4/scene de buissons] .
+train\*\*0\*\* [/EN#1/people deux jeunes hommes blancs] sont dehors près [/EN#4/scene de buissons] .
 
 This is the first line in the training set. As you can see, the two consecutive stars are the seperator. 
   * The first mark, a value among 'train'/'val'/'test', indicates the set to which this line belongs.  
   * The second mark, a integer value, is the line position.
-  * The third mark, always 'e', you can ignore this. This mark will be removed in the final version of the dataset.
   * Finally, the noted French sentence. 
