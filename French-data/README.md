@@ -9,11 +9,11 @@ The numbers of sentences in each set are:
   * validation set: 1014 
   * test set: 1000
 
-The files of split we use is downloaded from:
+You can download the files of splitting information from the set of Multi30k dataset:
 
-https://github.com/multi30k/dataset/tree/master/data/task1  (you can also find other useful data in Multi30k)
+https://github.com/multi30k/dataset/tree/master/data/task1 
 
-The three files involved in our dataset are also uploaded in the folder "split". 
+The three files involved in our dataset are also uploaded in the folder "split" for your convenience. 
 
 The bounding box data can be found at the original Flickr30k Entities github page:
 
