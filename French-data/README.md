@@ -2,7 +2,7 @@
 
 We follow the same data split as in Flickr30k Entities.
 
-Flickr30k Entities has 5 sentences for each image, while we only have one. The sentence appearing in our dataset is the same sentence as in Multi30k's French dataset. 
+There is one sentence for each image. The sentence appearing in our dataset is the same sentence as in Multi30k's French dataset. 
 
 The numbers of sentences in each set are:
   * training set: 29000
@@ -26,6 +26,6 @@ Example:
 train\*\*0\*\* [/EN#1/people deux jeunes hommes blancs] sont dehors près [/EN#4/scene de buissons] .
 
 This is the first line in the training set. As you can see, the two consecutive stars are the seperator. 
-  * The first mark, a value among 'train'/'val'/'test', indicates the set to which this line belongs.  
-  * The second mark, an integer value, is the line position.
+  * The first part, a value among 'train'/'val'/'test', indicates the set to which this line belongs.  
+  * The second part, an integer value, is the line position.
   * Finally, the noted French sentence. 
