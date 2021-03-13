@@ -1,4 +1,4 @@
-## This directory contains the 31k French visual grounding data crowdsourced on Amazon MTurk.
+## This directory contains the 31k French visual grounding data
 
 We follow the same data split as in Flickr30k Entities.
 
