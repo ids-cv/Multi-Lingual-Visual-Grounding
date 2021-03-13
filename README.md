@@ -6,7 +6,7 @@ All 31k sentences (29k training sentences, 1k validation sentences, 1k test sent
 
 The French dataset that we annotated is in the folder French-data. 
 
-More descriptions will be added to this Github page in the future. 
+More descriptions and codes will be added to this Github page in the future. 
 
 If you use the dataset in this repository, please cite our paper: 
 
