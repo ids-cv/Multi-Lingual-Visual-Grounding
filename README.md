@@ -1,3 +1,5 @@
+![alt text](https://github.com/ids-cv/Multi-Lingual-Visual-Grounding/blob/master/images/examples.png)
+
 # Multi-Lingual-Visual-Grounding
 
 Visual grounding, as an extension to object detection, is the task to locate objects in an image based on queries in natural language. It is a fundamental task in various multi-modal learning tasks. This project provides a benchmark for visual grounding tasks in French language. For more details, please refer to [our paper](https://ieeexplore.ieee.org/document/9305199).
